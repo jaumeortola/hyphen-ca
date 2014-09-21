@@ -26,7 +26,7 @@ my $comuns_errors=0;
 my $comuns_correctes=0;
 while (my $line=<STDIN>) { 
 	chomp($line);
-	if ($line =~ /([^ ]+) ?(.*)/)
+	if ($line =~ /([^ #]+) ?(.*)/)
 	{
 		$total++;
 		$word=$1;

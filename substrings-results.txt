@@ -9073,27 +9073,41 @@ i1e is embedded in .supe4r3espècie
 1ge is embedded in .supe4r3estatge
 .superestatge includes ge at pos 11
 .supe4r3estatge + 1ge -> .supe4r3estat1ge
-.supe4r3estructura is embedded in .supe4r3estructura
-+.supe4r3estructura
-1su is embedded in .supe4r3estructura
+.supe4r3estructur is embedded in .supe4r3estructur
++.supe4r3estructur
+1su is embedded in .supe4r3estructur
 .su includes su at pos 1
 .1su + 1su -> .1su
-3pe is embedded in .supe4r3estructura
+3pe is embedded in .supe4r3estructur
 .supe includes pe at pos 3
 .su3pe + 3pe -> .su3pe
-1re is embedded in .supe4r3estructura
+1re is embedded in .supe4r3estructur
 .supere includes re at pos 5
 .supe1re + 1re -> .supe1re
-1t2ru is embedded in .supe4r3estructura
+1t2ru is embedded in .supe4r3estructur
 .superes+1t2ru
-1ru is embedded in .supe4r3estructura
+1ru is embedded in .supe4r3estructur
 .superestru includes ru at pos 9
 .superes1t2ru + 1ru -> .superes1t2ru
-1tu is embedded in .supe4r3estructura
+1tu is embedded in .supe4r3estructur
 .superestruc+1tu
-1ra is embedded in .supe4r3estructura
-.superestructura includes ra at pos 14
-.supe4r3estructura + 1ra -> .supe4r3estructu1ra
+.supe4r3estrell is embedded in .supe4r3estrell
++.supe4r3estrell
+1su is embedded in .supe4r3estrell
+.su includes su at pos 1
+.1su + 1su -> .1su
+3pe is embedded in .supe4r3estrell
+.supe includes pe at pos 3
+.su3pe + 3pe -> .su3pe
+1re is embedded in .supe4r3estrell
+.supere includes re at pos 5
+.supe1re + 1re -> .supe1re
+1t2re is embedded in .supe4r3estrell
+.superes+1t2re
+1re is embedded in .supe4r3estrell
+.superestre includes re at pos 5
+.superestre includes re at pos 9
+.superes1t2re + 1re -> .supe1res1t2re
 .supe4r3ego is embedded in .supe4r3ego
 +.supe4r3ego
 1su is embedded in .supe4r3ego
@@ -9897,3 +9911,15 @@ sur+1fi
 1le is embedded in -se4llers.
 -selle includes le at pos 4
 -se1l2le + 1le -> -se1l2le
+1su is embedded in su3s4hi
+su includes su at pos 0
+1su + 1su -> 1su
+su3s4hi is embedded in su3s4hi
++su3s4hi
+1hi is embedded in su3s4hi
+sushi includes hi at pos 3
+su3s4hi + 1hi -> su3s4hi
+-o4est. is embedded in -o4est.
++-o4est.
+o1e is embedded in -o4est.
+-+o1e

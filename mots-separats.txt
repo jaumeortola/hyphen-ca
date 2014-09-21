@@ -1,3 +1,6 @@
+sud-oest sud_oest --> sud_o_est sud_oest
+nord-oest nord_oest --> nord_o_est nord_oest
+est-oest est_oest --> est_o_est est_oest
 mileurista mil_eu_ris_ta --> mi_leu_ris_ta mil_eu_ris_ta
 altimperial alt_im_pe_ri_al --> al_tim_pe_ri_al alt_im_pe_ri_al
 baiximperial baix_im_pe_ri_al --> bai_xim_pe_ri_al baix_im_pe_ri_al
@@ -6,6 +9,8 @@ mozzarella moz_za_rel_la --> moz_za_re_lla moz_za_rel_la
 mozzarelles moz_za_rel_les --> moz_za_re_lles moz_za_rel_les
 postapocalíptic post_a_po_ca_líp_tic --> pos_ta_po_ca_líp_tic post_a_po_ca_líp_tic
 postapocalíptiques post_a_po_ca_líp_ti_ques --> pos_ta_po_ca_líp_ti_ques post_a_po_ca_líp_ti_ques
+sushi su_shi --> sus_hi su_shi
+mediterraneïtat me_di_ter_ra_ne_ï_tat --> me_di_ter_ra_ne_ï_tat me_di_ter_ra_ne_ï_tat
 a- --> a_ a_
 açò --> a_çò a_çò
 ab --> ab ab
@@ -49672,7 +49677,6 @@ nordihidroguaiarètic nor_di_hi_dro_gua_ia_rè_tic --> nor_di_hi_dro_gua_ia_rè_tic
 nordista --> nor_dis_ta nor_dis_ta
 nord-mongòlic --> nord_mon_gò_lic nord_mon_gò_lic
 nordoestejar nord_o_es_te_jar --> nor_do_es_te_jar nord_o_es_te_jar
-nord-oest nord_o_est --> nord_o_est nord_o_est
 nord-pacífid --> nord_pa_cí_fid nord_pa_cí_fid
 norepinefrina --> no_re_pi_ne_fri_na no_re_pi_ne_fri_na
 no-res --> no_res no_res
@@ -66203,7 +66207,6 @@ sudista --> su_dis_ta su_dis_ta
 sud-mongòlic --> sud_mon_gò_lic sud_mon_gò_lic
 sudànic --> su_dà_nic su_dà_nic
 sudànid --> su_dà_nid su_dà_nid
-sud-oest sud_o_est --> sud_o_est sud_o_est
 sudorífer --> su_do_rí_fer su_do_rí_fer
 sudorífic --> su_do_rí_fic su_do_rí_fic
 sud-oriental sud_o_ri_en_tal --> sud_o_ri_en_tal sud_o_ri_en_tal
@@ -66387,6 +66390,7 @@ supererogació su_per_e_ro_ga_ci_ó --> su_pe_re_ro_ga_ci_ó su_per_e_ro_ga_ci_ó
 supererogatori su_per_e_ro_ga_to_ri --> su_pe_re_ro_ga_to_ri su_per_e_ro_ga_to_ri
 superespècie su_per_es_pè_ci_e --> su_pe_res_pè_ci_e su_per_es_pè_ci_e
 superestatge su_per_es_tat_ge --> su_pe_res_tat_ge su_per_es_tat_ge
+superestrella su_per_es_tre_lla --> su_pe_res_tre_lla su_per_es_tre_lla
 superestructura su_per_es_truc_tu_ra --> su_pe_res_truc_tu_ra su_per_es_truc_tu_ra
 superfí --> su_per_fí su_per_fí
 superfamília su_per_fa_mí_li_a --> su_per_fa_mí_li_a su_per_fa_mí_li_a

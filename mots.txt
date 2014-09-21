@@ -1,3 +1,6 @@
+sud-oest sud-oest
+nord-oest nord-oest
+est-oest est-oest
 mileurista mil_eu_ris_ta
 altimperial alt_im_pe_ri_al
 baiximperial baix_im_pe_ri_al
@@ -6,6 +9,8 @@ mozzarella moz_za_rel_la
 mozzarelles moz_za_rel_les
 postapocalíptic post_a_po_ca_líp_tic
 postapocalíptiques post_a_po_ca_líp_ti_ques
+sushi su_shi
+mediterraneïtat me_di_ter_ra_ne_ï_tat
 a-
 açò
 ab
@@ -49672,7 +49677,7 @@ nordihidroguaiarètic nor_di_hi_dro_gua_ia_rè_tic
 nordista
 nord-mongòlic
 nordoestejar nord_o_es_te_jar
-nord-oest nord-o_est
+
 nord-pacífid
 norepinefrina
 no-res
@@ -66203,7 +66208,6 @@ sudista
 sud-mongòlic
 sudànic
 sudànid
-sud-oest sud-o_est
 sudorífer
 sudorífic
 sud-oriental sud-o_ri_en_tal
@@ -66387,6 +66391,7 @@ supererogació su_per_e_ro_ga_ci_ó
 supererogatori su_per_e_ro_ga_to_ri
 superespècie su_per_es_pè_ci_e
 superestatge su_per_es_tat_ge
+superestrella su_per_es_tre_lla
 superestructura su_per_es_truc_tu_ra
 superfí
 superfamília su_per_fa_mí_li_a
