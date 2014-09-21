@@ -1,3 +1,11 @@
+sublims su_blims --> su_blims su_blims
+broadway broad_way --> bro_ad_way broad_way
+dickens dick_ens --> dic_kens dick_ens
+razzmatazz razz_ma_tazz --> razz_ma_tazz razz_ma_tazz
+subirachs su_bi_rachs --> su_bi_rachs su_bi_rachs
+williams wil_liams --> wi_lli_ams wil_liams
+william wil_liam --> wi_lli_am wil_liam
+somorrostro so_mor_ros_tro --> so_mor_ros_tro so_mor_ros_tro
 sud-oest sud_oest --> sud_o_est sud_oest
 nord-oest nord_oest --> nord_o_est nord_oest
 est-oest est_oest --> est_o_est est_oest
