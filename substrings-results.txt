@@ -9952,3 +9952,27 @@ i1a is embedded in .wi4l3li4am
 +-o4est.
 o1e is embedded in -o4est.
 -+o1e
+1cu is embedded in 6cul.
+cu includes cu at pos 0
+1cu + 1cu -> 1cu
+6cul. is embedded in 6cul.
++6cul.
+1cu is embedded in 6culs.
+cu includes cu at pos 0
+1cu + 1cu -> 1cu
+6culs. is embedded in 6culs.
++6culs.
+1pu is embedded in 6puta.
+pu includes pu at pos 0
+1pu + 1pu -> 1pu
+6puta. is embedded in 6puta.
++6puta.
+1ta is embedded in 6puta.
+pu+1ta
+1pu is embedded in 6putes.
+pu includes pu at pos 0
+1pu + 1pu -> 1pu
+6putes. is embedded in 6putes.
++6putes.
+1te is embedded in 6putes.
+pu+1te

@@ -1,3 +1,24 @@
+càlcul càlcul --> càl_cul càlcul
+caracul ca_racul --> ca_ra_cul ca_racul
+bàcul bàcul --> bà_cul bàcul
+animàlcul a_ni_màlcul --> a_ni_màl_cul a_ni_màlcul
+disputa dispu_ta --> dis_pu_ta dispu_ta
+espècul es_pècul --> es_pè_cul es_pècul
+flòcul flòcul --> flò_cul flòcul
+flòscul flòscul --> flòs_cul flòscul
+gratacul gra_tacul --> gra_ta_cul gra_tacul
+inòcul i_nòcul --> i_nò_cul i_nòcul
+lòcul lòcul --> lò_cul lòcul
+llepaculs lle_paculs --> lle_pa_culs lle_paculs
+majúscul ma_júscul --> ma_jús_cul ma_júscul
+minúscul mi_núscul --> mi_nús_cul mi_núscul
+múscul múscul --> mús_cul múscul
+ridícul ri_dícul --> ri_dí_cul ri_dícul
+òscul òscul --> òs_cul òscul
+sàcul sàcul --> sà_cul sàcul
+tòrcul tòrcul --> tòr_cul tòrcul
+tubèrcul tu_bèrcul --> tu_bèr_cul tu_bèrcul
+acutiúscul a_cu_ti_úscul --> a_cu_ti_ús_cul a_cu_ti_úscul
 sublims su_blims --> su_blims su_blims
 broadway broad_way --> bro_ad_way broad_way
 dickens dick_ens --> dic_kens dick_ens
@@ -1178,7 +1199,6 @@ acuïtat a_cu_ï_tat --> a_cu_ï_tat a_cu_ï_tat
 acuti- --> a_cu_ti_ a_cu_ti_
 acutifoli --> a_cu_ti_fo_li a_cu_ti_fo_li
 acutirostre --> a_cu_ti_ros_tre a_cu_ti_ros_tre
-acutiúscul a_cu_ti_ús_cul --> a_cu_ti_ús_cul a_cu_ti_ús_cul
 adactília a_dac_tí_li_a --> a_dac_tí_li_a a_dac_tí_li_a
 adagi --> a_da_gi a_da_gi
 adagio --> a_da_gi_o a_da_gi_o
@@ -4536,7 +4556,6 @@ animer --> a_ni_mer a_ni_mer
 animeta --> a_ni_me_ta a_ni_me_ta
 animisme --> a_ni_mis_me a_ni_mis_me
 animista --> a_ni_mis_ta a_ni_mis_ta
-animàlcul --> a_ni_màl_cul a_ni_màl_cul
 animàlia a_ni_mà_li_a --> a_ni_mà_li_a a_ni_mà_li_a
 animosament --> a_ni_mo_sa_ment a_ni_mo_sa_ment
 animositat --> a_ni_mo_si_tat a_ni_mo_si_tat
@@ -9235,7 +9254,6 @@ bàbol --> bà_bol bà_bol
 bèbrice --> bè_bri_ce bè_bri_ce
 búcar --> bú_car bú_car
 bíceps --> bí_ceps bí_ceps
-bàcul --> bà_cul bà_cul
 bdel·li --> bdel_li bdel_li
 bdel·loide bdel_loi_de --> bdel_loi_de bdel_loi_de
 búdic --> bú_dic bú_dic
@@ -13327,7 +13345,6 @@ caracterològic --> ca_rac_te_ro_lò_gic ca_rac_te_ro_lò_gic
 caracterologia ca_rac_te_ro_lo_gi_a --> ca_rac_te_ro_lo_gi_a ca_rac_te_ro_lo_gi_a
 característic --> ca_rac_te_rís_tic ca_rac_te_rís_tic
 característicament --> ca_rac_te_rís_ti_ca_ment ca_rac_te_rís_ti_ca_ment
-caracul --> ca_ra_cul ca_ra_cul
 caradocià ca_ra_do_ci_à --> ca_ra_do_ci_à ca_ra_do_ci_à
 caradriformes --> ca_ra_dri_for_mes ca_ra_dri_for_mes
 carafeixar ca_ra_fei_xar --> ca_ra_fei_xar ca_ra_fei_xar
@@ -15567,7 +15584,6 @@ clavillar --> cla_vi_llar cla_vi_llar
 claviller --> cla_vi_ller cla_vi_ller
 claviorgue cla_vi_or_gue --> cla_vi_or_gue cla_vi_or_gue
 clavulànic --> cla_vu_là_nic cla_vu_là_nic
-càlcul --> càl_cul càl_cul
 cèlebre --> cè_le_bre cè_le_bre
 cèlebrement --> cè_le_bre_ment cè_le_bre_ment
 cleca --> cle_ca cle_ca
@@ -23714,7 +23730,6 @@ dispèpsia dis_pèp_si_a --> dis_pèp_si_a dis_pèp_si_a
 dispèptic --> dis_pèp_tic dis_pèp_tic
 disprosi --> dis_pro_si dis_pro_si
 disproteïnèmia dis_pro_te_ï_nè_mi_a --> dis_pro_te_ï_nè_mi_a dis_pro_te_ï_nè_mi_a
-disputa --> dis_pu_ta dis_pu_ta
 disputabilitat --> dis_pu_ta_bi_li_tat dis_pu_ta_bi_li_tat
 disputable --> dis_pu_ta_ble dis_pu_ta_ble
 disputació dis_pu_ta_ci_ó --> dis_pu_ta_ci_ó dis_pu_ta_ci_ó
@@ -29612,7 +29627,6 @@ espavilat --> es_pa_vi_lat es_pa_vi_lat
 espècia es_pè_ci_a --> es_pè_ci_a es_pè_ci_a
 espècie es_pè_ci_e --> es_pè_ci_e es_pè_ci_e
 espècimen --> es_pè_ci_men es_pè_ci_men
-espècul --> es_pè_cul es_pè_cul
 espícula --> es_pí_cu_la es_pí_cu_la
 espàdix --> es_pà_dix es_pà_dix
 especejament --> es_pe_ce_ja_ment es_pe_ce_ja_ment
@@ -33395,7 +33409,6 @@ flòbia flò_bi_a --> flò_bi_a flò_bi_a
 flèbil --> flè_bil flè_bil
 flèbilment --> flè_bil_ment flè_bil_ment
 flàccid --> flàc_cid flàc_cid
-flòcul --> flò_cul flò_cul
 fleb- --> fleb_ fleb_
 flebòclisi --> fle_bò_cli_si fle_bò_cli_si
 flebèctasi --> fle_bèc_ta_si fle_bèc_ta_si
@@ -33530,7 +33543,6 @@ flotar --> flo_tar flo_tar
 flotilla --> flo_ti_lla flo_ti_lla
 flòrid --> flò_rid flò_rid
 flòrula --> flò_ru_la flò_ru_la
-flòscul --> flòs_cul flòs_cul
 flucitosina --> flu_ci_to_si_na flu_ci_to_si_na
 fluctuació fluc_tu_a_ci_ó --> fluc_tu_a_ci_ó fluc_tu_a_ci_ó
 fluctuant fluc_tu_ant --> fluc_tu_ant fluc_tu_ant
@@ -36650,7 +36662,6 @@ grassor --> gras_sor gras_sor
 grat --> grat grat
 gratabous gra_ta_bous --> gra_ta_bous gra_ta_bous
 gratacel --> gra_ta_cel gra_ta_cel
-gratacul --> gra_ta_cul gra_ta_cul
 gratada --> gra_ta_da gra_ta_da
 gratador --> gra_ta_dor gra_ta_dor
 gratall --> gra_tall gra_tall
@@ -39899,7 +39910,6 @@ incís --> in_cís in_cís
 incubació in_cu_ba_ci_ó --> in_cu_ba_ci_ó in_cu_ba_ci_ó
 incubador --> in_cu_ba_dor in_cu_ba_dor
 incubar --> in_cu_bar in_cu_bar
-inòcul --> i_nò_cul i_nò_cul
 inculcable --> in_cul_ca_ble in_cul_ca_ble
 inculcació in_cul_ca_ci_ó --> in_cul_ca_ci_ó in_cul_ca_ci_ó
 inculcador --> in_cul_ca_dor in_cul_ca_dor
@@ -42654,7 +42664,6 @@ lúcidament --> lú_ci_da_ment lú_ci_da_ment
 lícit --> lí_cit lí_cit
 lícitament --> lí_ci_ta_ment lí_ci_ta_ment
 làctic --> làc_tic làc_tic
-lòcul --> lò_cul lò_cul
 làdan --> là_dan là_dan
 líder --> lí_der lí_der
 lúdic --> lú_dic lú_dic
@@ -43620,7 +43629,6 @@ lleoparda lle_o_par_da --> lle_o_par_da lle_o_par_da
 lleopard lle_o_pard --> lle_o_pard lle_o_pard
 llepa --> lle_pa lle_pa
 llepacrestes --> lle_pa_cres_tes lle_pa_cres_tes
-llepaculs --> lle_pa_culs lle_pa_culs
 llepada --> lle_pa_da lle_pa_da
 llepadits --> lle_pa_dits lle_pa_dits
 llepadum --> lle_pa_dum lle_pa_dum
@@ -44580,7 +44588,6 @@ majorista --> ma_jo_ris_ta ma_jo_ris_ta
 majoritari --> ma_jo_ri_ta_ri ma_jo_ri_ta_ri
 majoritat --> ma_jo_ri_tat ma_jo_ri_tat
 majorment --> ma_jor_ment ma_jor_ment
-majúscul --> ma_jús_cul ma_jús_cul
 maki --> ma_ki ma_ki
 mal --> mal mal
 mala --> ma_la ma_la
@@ -47083,7 +47090,6 @@ minoritat --> mi_no_ri_tat mi_no_ri_tat
 minotaure mi_no_tau_re --> mi_no_tau_re mi_no_tau_re
 minova --> mi_no_va mi_no_va
 minsament --> min_sa_ment min_sa_ment
-minúscul --> mi_nús_cul mi_nús_cul
 minso --> min_so min_so
 minuciosament mi_nu_ci_o_sa_ment --> mi_nu_ci_o_sa_ment mi_nu_ci_o_sa_ment
 minuciositat mi_nu_ci_o_si_tat --> mi_nu_ci_o_si_tat mi_nu_ci_o_si_tat
@@ -48224,7 +48230,6 @@ mòrula --> mò_ru_la mò_ru_la
 més --> més més
 màscara --> màs_ca_ra màs_ca_ra
 múscids --> mús_cids mús_cids
-múscul --> mús_cul mús_cul
 més-dient més_di_ent --> més_di_ent més_di_ent
 més-enllà --> més_en_llà més_en_llà
 màser --> mà_ser mà_ser
@@ -61772,7 +61777,6 @@ ric-rac --> ric_rac ric_rac
 ric-ric --> ric_ric ric_ric
 rictus --> ric_tus ric_tus
 àrid --> à_rid à_rid
-ridícul --> ri_dí_cul ri_dí_cul
 ridículament --> ri_dí_cu_la_ment ri_dí_cu_la_ment
 ridiculesa --> ri_di_cu_le_sa ri_di_cu_le_sa
 ridiculitzable --> ri_di_cu_lit_za_ble ri_di_cu_lit_za_ble
@@ -63428,8 +63432,6 @@ sòcol --> sò_col sò_col
 sícon --> sí_con sí_con
 scout --> scout scout
 súcube --> sú_cu_be sú_cu_be
-òscul --> òs_cul òs_cul
-sàcul --> sà_cul sà_cul
 sòdic --> sò_dic sò_dic
 sebacat --> se_ba_cat se_ba_cat
 sebaci --> se_ba_ci se_ba_ci
@@ -69525,7 +69527,6 @@ tòrcer --> tòr_cer tòr_cer
 tèrcia tèr_ci_a --> tèr_ci_a tèr_ci_a
 tròclea trò_cle_a --> trò_cle_a trò_cle_a
 trícoc --> trí_coc trí_coc
-tòrcul --> tòr_cul tòr_cul
 túrdids --> túr_dids túr_dids
 treball --> tre_ball tre_ball
 treballada --> tre_ba_lla_da tre_ba_lla_da
@@ -70408,7 +70409,6 @@ tuberós --> tu_be_rós tu_be_rós
 tubet --> tu_bet tu_bet
 tubiforme --> tu_bi_for_me tu_bi_for_me
 tubocurarina --> tu_bo_cu_ra_ri_na tu_bo_cu_ra_ri_na
-tubèrcul --> tu_bèr_cul tu_bèr_cul
 tubuladura --> tu_bu_la_du_ra tu_bu_la_du_ra
 tubular --> tu_bu_lar tu_bu_lar
 tubulat --> tu_bu_lat tu_bu_lat

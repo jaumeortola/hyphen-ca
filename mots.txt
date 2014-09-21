@@ -1,3 +1,24 @@
+càlcul càlcul
+caracul ca_racul
+bàcul bàcul
+animàlcul a_ni_màlcul
+disputa dispu_ta
+espècul es_pècul
+flòcul flòcul
+flòscul flòscul
+gratacul gra_tacul
+inòcul i_nòcul
+lòcul lòcul
+llepaculs lle_paculs
+majúscul ma_júscul
+minúscul mi_núscul
+múscul múscul
+ridícul ri_dícul
+òscul òscul
+sàcul sàcul
+tòrcul tòrcul
+tubèrcul tu_bèrcul
+acutiúscul a_cu_ti_úscul
 sublims su_blims
 broadway broad_way
 dickens dick_ens
@@ -1178,7 +1199,6 @@ acuïtat a_cu_ï_tat
 acuti-
 acutifoli
 acutirostre
-acutiúscul a_cu_ti_ús_cul
 adactília a_dac_tí_li_a
 adagi
 adagio
@@ -4536,7 +4556,7 @@ animer
 animeta
 animisme
 animista
-animàlcul
+
 animàlia a_ni_mà_li_a
 animosament
 animositat
@@ -9235,7 +9255,7 @@ bàbol
 bèbrice
 búcar
 bíceps
-bàcul
+#bàcul
 bdel·li
 bdel·loide bdel_loi_de
 búdic
@@ -13327,7 +13347,7 @@ caracterològic
 caracterologia ca_rac_te_ro_lo_gi_a
 característic
 característicament
-caracul
+#caracul
 caradocià ca_ra_do_ci_à
 caradriformes
 carafeixar ca_ra_fei_xar
@@ -15567,7 +15587,7 @@ clavillar
 claviller
 claviorgue cla_vi_or_gue
 clavulànic
-càlcul
+#càlcul
 cèlebre
 cèlebrement
 cleca
@@ -23714,7 +23734,6 @@ dispèpsia dis_pèp_si_a
 dispèptic
 disprosi
 disproteïnèmia dis_pro_te_ï_nè_mi_a
-disputa
 disputabilitat
 disputable
 disputació dis_pu_ta_ci_ó
@@ -29612,7 +29631,7 @@ espavilat
 espècia es_pè_ci_a
 espècie es_pè_ci_e
 espècimen
-espècul
+#espècul
 espícula
 espàdix
 especejament
@@ -33395,7 +33414,7 @@ flòbia flò_bi_a
 flèbil
 flèbilment
 flàccid
-flòcul
+#flòcul
 fleb-
 flebòclisi
 flebèctasi
@@ -33530,7 +33549,7 @@ flotar
 flotilla
 flòrid
 flòrula
-flòscul
+#flòscul
 flucitosina
 fluctuació fluc_tu_a_ci_ó
 fluctuant fluc_tu_ant
@@ -36650,7 +36669,7 @@ grassor
 grat
 gratabous gra_ta_bous
 gratacel
-gratacul
+#gratacul
 gratada
 gratador
 gratall
@@ -39899,7 +39918,7 @@ incís
 incubació in_cu_ba_ci_ó
 incubador
 incubar
-inòcul
+#inòcul
 inculcable
 inculcació in_cul_ca_ci_ó
 inculcador
@@ -42654,7 +42673,7 @@ lúcidament
 lícit
 lícitament
 làctic
-lòcul
+#lòcul
 làdan
 líder
 lúdic
@@ -43620,7 +43639,7 @@ lleoparda lle_o_par_da
 lleopard lle_o_pard
 llepa
 llepacrestes
-llepaculs
+#llepaculs
 llepada
 llepadits
 llepadum
@@ -44580,7 +44599,7 @@ majorista
 majoritari
 majoritat
 majorment
-majúscul
+#majúscul
 maki
 mal
 mala
@@ -47083,7 +47102,7 @@ minoritat
 minotaure mi_no_tau_re
 minova
 minsament
-minúscul
+#minúscul
 minso
 minuciosament mi_nu_ci_o_sa_ment
 minuciositat mi_nu_ci_o_si_tat
@@ -48224,7 +48243,7 @@ mòrula
 més
 màscara
 múscids
-múscul
+#múscul
 més-dient més-di_ent
 més-enllà
 màser
@@ -61773,7 +61792,7 @@ ric-rac
 ric-ric
 rictus
 àrid
-ridícul
+#ridícul
 ridículament
 ridiculesa
 ridiculitzable
@@ -63429,8 +63448,8 @@ sòcol
 sícon
 scout
 súcube
-òscul
-sàcul
+#òscul
+#sàcul
 sòdic
 sebacat
 sebaci
@@ -69526,7 +69545,7 @@ tòrcer
 tèrcia tèr_ci_a
 tròclea trò_cle_a
 trícoc
-tòrcul
+#tòrcul
 túrdids
 treball
 treballada
@@ -70409,7 +70428,7 @@ tuberós
 tubet
 tubiforme
 tubocurarina
-tubèrcul
+#tubèrcul
 tubuladura
 tubular
 tubulat
