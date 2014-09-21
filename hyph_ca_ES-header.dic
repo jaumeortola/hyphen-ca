@@ -1,0 +1,33 @@
+UTF-8
+% ======================================================================
+% Catalan Hunspell Hyphenation Dictionary. Release 1.1 (Setember 2014)
+% Copyright (C) 2012 Jaume Ortolà i Font - www.riuraueditors.cat
+% ======================================================================
+%
+% This program is free software: you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation, either version 3 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program.  If not, see <http://www.gnu.org/licenses/>.
+%
+% ======================================================================
+%
+% This configuration has been tested for Adobe Indesign Hunspell Plugin
+%
+LEFTHYPHENMIN 1
+RIGHTHYPHENMIN 1
+COMPOUNDLEFTHYPHENMIN 1
+COMPOUNDRIGHTHYPHENMIN 1
+NOHYPHEN ',’
+1'1
+1’1
+NEXTLEVEL
+l·9l/=,2,1
+ŀ9l/l=,1,1
