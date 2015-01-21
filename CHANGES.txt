@@ -7,3 +7,4 @@ moz_za_rel_la
 
 21-1-2015 (gacies a Pere Farrando)
 Resolt problema amb mots que comencen amb al·l- en Adobe InDesign i LibreOffice
+se_ro_im_mu_ni_tat
