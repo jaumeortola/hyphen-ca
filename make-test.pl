@@ -1,6 +1,10 @@
 use TeX::Hyphen;
-my $hyp = new TeX::Hyphen 'file' => "hyph-ca-simple.tex", 'style' => 'catalan';
-my $newhyp = new TeX::Hyphen 'file' => "hyph-ca-new.tex", 'style' => 'catalan';
+
+$file_simple_hyph = $ARGV[0];
+$file_new_hyph = $ARGV[1];
+
+my $hyp = new TeX::Hyphen 'file' => $file_simple_hyph, 'style' => 'catalan';
+my $newhyp = new TeX::Hyphen 'file' => $file_new_hyph, 'style' => 'catalan';
 
 print STDERR "Making hyphenation patterns tests...\n";
 

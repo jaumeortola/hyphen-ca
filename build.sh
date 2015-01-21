@@ -1,5 +1,5 @@
 #!/bin/bash
-perl make-test.pl <mots.txt > mots-separats.txt
+perl make-test.pl "hyph-ca-simple.tex" "hyph-ca-new.tex" <mots.txt > mots-separats.txt
 perl oneruleperline.pl hyph-ca-new.tex hyph-ca-new2.tex
 echo "******** RESULTS ********"
 cat resum-resultats.txt
