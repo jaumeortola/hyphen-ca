@@ -64102,7 +64102,7 @@ serodiagnosi se_ro_di_ag_no_si
 serodiagnòstic se_ro_di_ag_nòs_tic
 serofibrinós
 serohemorràgic
-seroimmunitat se_roim_mu_ni_tat
+seroimmunitat se_ro_im_mu_ni_tat
 serologia se_ro_lo_gi_a
 seromucós
 seromuscular

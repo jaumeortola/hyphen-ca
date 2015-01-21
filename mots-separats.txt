@@ -64084,7 +64084,7 @@ serodiagnosi se_ro_di_ag_no_si --> se_ro_di_ag_no_si se_ro_di_ag_no_si
 serodiagnòstic se_ro_di_ag_nòs_tic --> se_ro_di_ag_nòs_tic se_ro_di_ag_nòs_tic
 serofibrinós --> se_ro_fi_bri_nós se_ro_fi_bri_nós
 serohemorràgic --> se_ro_he_mor_rà_gic se_ro_he_mor_rà_gic
-seroimmunitat se_roim_mu_ni_tat --> se_roim_mu_ni_tat se_roim_mu_ni_tat
+seroimmunitat se_ro_im_mu_ni_tat --> se_roim_mu_ni_tat se_ro_im_mu_ni_tat
 serologia se_ro_lo_gi_a --> se_ro_lo_gi_a se_ro_lo_gi_a
 seromucós --> se_ro_mu_cós se_ro_mu_cós
 seromuscular --> se_ro_mus_cu_lar se_ro_mus_cu_lar
