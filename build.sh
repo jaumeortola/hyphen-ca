@@ -15,4 +15,9 @@ cat hyph_ca_ES-header.dic output-utf8.dic > hyph_ca_ES.dic
 rm hyph-ca-new2.tex
 rm output.dic
 rm output-utf8.dic
+cp hyph_ca_ES.dic office/hyph_ca_ANY.dic
+cd office
+zip -r hyph-ca *
+mv hyph-ca.zip ../hyph-ca.oxt
+cd ..
 echo "Done. Output: hyph_ca_ES.dic"
