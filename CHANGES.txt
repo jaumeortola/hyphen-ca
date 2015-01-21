@@ -1,10 +1,12 @@
 19-12-2012
 txibtxa txib_txa
 
+v 1.1
 17-2-2014 (gràcies a Pere Farrando)
 con_es_ta_ble
 moz_za_rel_la
 
-21-1-2015 (gacies a Pere Farrando)
-Resolt problema amb mots que comencen amb al·l- en Adobe InDesign i LibreOffice
+v 1.2
+21-1-2015 
+Resolt problema amb mots que comencen amb al·l- en Adobe InDesign i LibreOffice (gràcies a Pere Farrando)
 se_ro_im_mu_ni_tat
