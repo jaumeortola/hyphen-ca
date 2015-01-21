@@ -4261,12 +4261,13 @@ i1o is embedded in .a4ll3ioli
 1re is embedded in .a4ll3ipebre
 .allipebre includes re at pos 8
 .a4ll3ipe1b2re + 1re -> .a4ll3ipe1b2re
-.al·lo3immun is embedded in .al·lo3immun
-+.al·lo3immun
-1lo is embedded in .al·lo3immun
-.al·+1lo
-1mu is embedded in .al·lo3immun
-.al·loim+1mu
+1lo is embedded in lo3immun
+lo includes lo at pos 0
+1lo + 1lo -> 1lo
+lo3immun is embedded in lo3immun
++lo3immun
+1mu is embedded in lo3immun
+loim+1mu
 .al4t3alemany is embedded in .al4t3alemany
 +.al4t3alemany
 1ta is embedded in .al4t3alemany
