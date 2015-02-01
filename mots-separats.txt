@@ -1,3 +1,5 @@
+benintencionadament ben_in_ten_ci_o_na_da_ment --> be_nin_ten_ci_o_na_da_ment ben_in_ten_ci_o_na_da_ment
+benintencionat ben_in_ten_ci_o_nat --> be_nin_ten_ci_o_nat ben_in_ten_ci_o_nat
 càlcul càlcul --> càl_cul càlcul
 caracul ca_racul --> ca_ra_cul ca_racul
 bàcul bàcul --> bà_cul bàcul

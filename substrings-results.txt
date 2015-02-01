@@ -4518,6 +4518,15 @@ i1o is embedded in .bio3i
 1ta is embedded in .be4n3esta
 .benesta includes ta at pos 6
 .be4n3esta + 1ta -> .be4n3es1ta
+.be4n3inten is embedded in .be4n3inten
++.be4n3inten
+1be is embedded in .be4n3inten
+.be includes be at pos 1
+.1be + 1be -> .1be
+3ni is embedded in .be4n3inten
+.be+3ni
+1te is embedded in .be4n3inten
+.benin+1te
 .bai4x3alemany is embedded in .bai4x3alemany
 +.bai4x3alemany
 1ba is embedded in .bai4x3alemany
