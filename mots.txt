@@ -1,3 +1,36 @@
+dickens dick_ens
+picasso pi_cas_so
+fengshui feng_shui
+hooligan hoo_li_gan
+hooliganisme hoo_li_ga_nis_me
+rockabilly roc_ka_bil_ly
+rockabillies roc_ka_bil_lies
+thriller thril_ler
+vintage vin_tage
+brechtià brech_ti_à
+hitchcockià hitch_coc_ki_à
+hitchcock hitch_cock
+commonwealth com_mon_wealth
+facebook face_book
+fuerteventura fuer_te_ven_tu_ra
+google goo_gle
+louvre lou_vre
+monterrey mon_te_rrey
+ohio ohio
+oviedo o_vie_do
+rashid ra_shid
+reykjavík rey_kja_vík
+roosevelt roo_se_velt
+twitter twit_ter
+unicode u_ni_code
+vladímir vla_dí_mir
+yahoo ya_hoo
+allen al_len
+debussy de_bus_sy
+gandhi gan_dhi
+shakespeare shake_speare
+shakespearià shake_spea_ri_à
+shakespearianes shake_spea_ri_a_nes
 benintencionadament ben_in_ten_ci_o_na_da_ment
 benintencionat ben_in_ten_ci_o_nat
 càlcul càlcul
@@ -64310,7 +64343,6 @@ sègal
 sègle
 sègol
 sàgola
-shakespearià sha_kes_pe_a_ri_à
 shigel·la
 shikímic
 show

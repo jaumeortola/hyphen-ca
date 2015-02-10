@@ -8786,19 +8786,6 @@ e1e is embedded in .s4che4elit
 .+1se
 1mi is embedded in .semi3u
 .se+1mi
-.s4h4 is embedded in .s4hakespear
-.sh includes .sh at pos 0
-.s4h4 + .s4h4 -> .s4h4
-.s4hakespear is embedded in .s4hakespear
-+.s4hakespear
-1ha is embedded in .s4hakespear
-.s+1ha
-1ke is embedded in .s4hakespear
-.sha+1ke
-3pe is embedded in .s4hakespear
-.shakes+3pe
-e1a is embedded in .s4hakespear
-.shakesp+e1a
 .si4k4h3is is embedded in .si4k4h3is
 +.si4k4h3is
 1si is embedded in .si4k4h3is
@@ -9939,12 +9926,12 @@ o1a is embedded in .b4ro4adway.
 .br+o1a
 1wa is embedded in .b4ro4adway.
 .broad+1wa
-.dic4k3ens. is embedded in .dic4k3ens.
-+.dic4k3ens.
-1di is embedded in .dic4k3ens.
+.dic8k9ens is embedded in .dic8k9ens
++.dic8k9ens
+1di is embedded in .dic8k9ens
 .di includes di at pos 1
 .1di + 1di -> .1di
-1ke is embedded in .dic4k3ens.
+1ke is embedded in .dic8k9ens
 .dic+1ke
 .wi4l3li4am is embedded in .wi4l3li4am
 +.wi4l3li4am
@@ -9958,6 +9945,288 @@ o1a is embedded in .b4ro4adway.
 .wi1l2li + 1li -> .wi1l2li
 i1a is embedded in .wi4l3li4am
 .will+i1a
+.feng9s8hui is embedded in .feng9s8hui
++.feng9s8hui
+1fe is embedded in .feng9s8hui
+.+1fe
+1hu is embedded in .feng9s8hui
+.fengs+1hu
+1ho is embedded in ho8oligan
+ho includes ho at pos 0
+1ho + 1ho -> 1ho
+ho8oligan is embedded in ho8oligan
++ho8oligan
+o1o is embedded in ho8oligan
+h+o1o
+1li is embedded in ho8oligan
+hoo+1li
+1ga is embedded in ho8oligan
+hooli+1ga
+1ro is embedded in rockabi8l9ly
+ro includes ro at pos 0
+1ro + 1ro -> 1ro
+rockabi8l9ly is embedded in rockabi8l9ly
++rockabi8l9ly
+1ka is embedded in rockabi8l9ly
+roc+1ka
+1bi is embedded in rockabi8l9ly
+rocka+1bi
+1ro is embedded in rockabi8l9li8es
+ro includes ro at pos 0
+1ro + 1ro -> 1ro
+rockabi8l9li8es is embedded in rockabi8l9li8es
++rockabi8l9li8es
+1ka is embedded in rockabi8l9li8es
+rocka includes ka at pos 3
+roc1ka + 1ka -> roc1ka
+1bi is embedded in rockabi8l9li8es
+rockabi includes bi at pos 5
+rocka1bi + 1bi -> rocka1bi
+1l2li is embedded in rockabi8l9li8es
+rockabi+1l2li
+1li is embedded in rockabi8l9li8es
+rockabilli includes li at pos 8
+rockabi1l2li + 1li -> rockabi1l2li
+i1e is embedded in rockabi8l9li8es
+rockabill+i1e
+thri8l9ler is embedded in thri8l9ler
++thri8l9ler
+1ri is embedded in thri8l9ler
+th+1ri
+1l2le is embedded in thri8l9ler
+thri+1l2le
+1le is embedded in thri8l9ler
+thrille includes le at pos 5
+thri1l2le + 1le -> thri1l2le
+1vi is embedded in vinta8ge
+vi includes vi at pos 0
+1vi + 1vi -> 1vi
+vinta8ge is embedded in vinta8ge
++vinta8ge
+1ta is embedded in vinta8ge
+vin+1ta
+1ge is embedded in vinta8ge
+vintage includes ge at pos 5
+vinta8ge + 1ge -> vinta8ge
+.bre8cht is embedded in .bre8cht
++.bre8cht
+1b2re is embedded in .bre8cht
+.bre includes bre at pos 1
+.1b2re + 1b2re -> .1b2re
+1re is embedded in .bre8cht
+.bre includes re at pos 2
+.1b2re + 1re -> .1b2re
+3c2h is embedded in .bre8cht
+.bre+3c2h
+.hit8chcock is embedded in .hit8chcock
++.hit8chcock
+1hi is embedded in .hit8chcock
+.hi includes hi at pos 1
+.1hi + 1hi -> .1hi
+3c2h is embedded in .hit8chcock
+.hit+3c2h
+1co is embedded in .hit8chcock
+.hitch+1co
+1we is embedded in we8alth
+we includes we at pos 0
+1we + 1we -> 1we
+we8alth is embedded in we8alth
++we8alth
+e1a is embedded in we8alth
+w+e1a
+1bo is embedded in bo8ok
+bo includes bo at pos 0
+1bo + 1bo -> 1bo
+bo8ok is embedded in bo8ok
++bo8ok
+o1o is embedded in bo8ok
+b+o1o
+1fa is embedded in fa8cebook
+fa includes fa at pos 0
+1fa + 1fa -> 1fa
+fa8cebook is embedded in fa8cebook
++fa8cebook
+1ce is embedded in fa8cebook
+fa+1ce
+1bo is embedded in fa8cebook
+face+1bo
+bo8ok is embedded in fa8cebook
+facebook includes book at pos 4
+fa8cebook + bo8ok -> fa8cebo8ok
+o1o is embedded in fa8cebook
+faceb+o1o
+1fu is embedded in fu8erteventura
+fu includes fu at pos 0
+1fu + 1fu -> 1fu
+fu8erteventura is embedded in fu8erteventura
++fu8erteventura
+u1e is embedded in fu8erteventura
+f+u1e
+1te is embedded in fu8erteventura
+fuer+1te
+1ve is embedded in fu8erteventura
+fuerte+1ve
+1tu is embedded in fu8erteventura
+fuerteven+1tu
+1ra is embedded in fu8erteventura
+fuerteventura includes ra at pos 11
+fu8erteventura + 1ra -> fu8erteventu1ra
+1go is embedded in go8ogle
+go includes go at pos 0
+1go + 1go -> 1go
+go8ogle is embedded in go8ogle
++go8ogle
+o1o is embedded in go8ogle
+g+o1o
+1g2le is embedded in go8ogle
+google includes gle at pos 3
+go8ogle + 1g2le -> go8o1g2le
+1le is embedded in go8ogle
+google includes le at pos 4
+go8o1g2le + 1le -> go8o1g2le
+1lo is embedded in lou9v8re
+lo includes lo at pos 0
+1lo + 1lo -> 1lo
+lou9v8re is embedded in lou9v8re
++lou9v8re
+1re is embedded in lou9v8re
+louvre includes re at pos 4
+lou9v8re + 1re -> lou9v8re
+1mo is embedded in monte9r8rey
+mo includes mo at pos 0
+1mo + 1mo -> 1mo
+monte9r8rey is embedded in monte9r8rey
++monte9r8rey
+1te is embedded in monte9r8rey
+mon+1te
+1re is embedded in monte9r8rey
+monter+1re
+o8h8i8o is embedded in o8h8i8o
++o8h8i8o
+1hi is embedded in o8h8i8o
+o+1hi
+i1o is embedded in o8h8i8o
+ohio includes io at pos 2
+o8h8i8o + i1o -> o8h8i8o
+ovi8edo is embedded in ovi8edo
++ovi8edo
+1vi is embedded in ovi8edo
+o+1vi
+i1e is embedded in ovi8edo
+ov+i1e
+1do is embedded in ovi8edo
+oviedo includes do at pos 4
+ovi8edo + 1do -> ovi8e1do
+1ra is embedded in ra9s8hid
+ra includes ra at pos 0
+1ra + 1ra -> 1ra
+ra9s8hid is embedded in ra9s8hid
++ra9s8hid
+1hi is embedded in ra9s8hid
+ras+1hi
+1re is embedded in rey9k8javík
+re includes re at pos 0
+1re + 1re -> 1re
+rey9k8javík is embedded in rey9k8javík
++rey9k8javík
+1ja is embedded in rey9k8javík
+reyk+1ja
+1ví is embedded in rey9k8javík
+reykja+1ví
+1ro is embedded in ro8osevelt
+ro includes ro at pos 0
+1ro + 1ro -> 1ro
+ro8osevelt is embedded in ro8osevelt
++ro8osevelt
+o1o is embedded in ro8osevelt
+r+o1o
+1se is embedded in ro8osevelt
+roo+1se
+1ve is embedded in ro8osevelt
+roose+1ve
+t8wi8t9ter is embedded in t8wi8t9ter
++t8wi8t9ter
+1wi is embedded in t8wi8t9ter
+t+1wi
+1te is embedded in t8wi8t9ter
+twit+1te
+unico8de is embedded in unico8de
++unico8de
+3ni is embedded in unico8de
+u+3ni
+1co is embedded in unico8de
+uni+1co
+1de is embedded in unico8de
+unicode includes de at pos 5
+unico8de + 1de -> unico8de
+v8ladímir is embedded in v8ladímir
++v8ladímir
+1la is embedded in v8ladímir
+v+1la
+1dí is embedded in v8ladímir
+vla+1dí
+1mi is embedded in v8ladímir
+vladí+1mi
+yaho8o is embedded in yaho8o
++yaho8o
+1ho is embedded in yaho8o
+ya+1ho
+o1o is embedded in yaho8o
+yahoo includes oo at pos 3
+yaho8o + o1o -> yaho8o
+.a8l9len. is embedded in .a8l9len.
++.a8l9len.
+1l2le is embedded in .a8l9len.
+.alle includes lle at pos 2
+.a1l2le + 1l2le -> .a1l2le
+1le is embedded in .a8l9len.
+.alle includes le at pos 3
+.a1l2le + 1le -> .a1l2le
+1de is embedded in debus9sy
+de includes de at pos 0
+1de + 1de -> 1de
+debus9sy is embedded in debus9sy
++debus9sy
+1bu is embedded in debus9sy
+de+1bu
+1ga is embedded in gan9d8hi
+ga includes ga at pos 0
+1ga + 1ga -> 1ga
+gan9d8hi is embedded in gan9d8hi
++gan9d8hi
+1hi is embedded in gan9d8hi
+gandhi includes hi at pos 4
+gan9d8hi + 1hi -> gan9d8hi
+sha8ke9s8pe8a8re is embedded in sha8ke9s8pe8a8re
++sha8ke9s8pe8a8re
+1ha is embedded in sha8ke9s8pe8a8re
+s+1ha
+1ke is embedded in sha8ke9s8pe8a8re
+sha+1ke
+3pe is embedded in sha8ke9s8pe8a8re
+shakes+3pe
+e1a is embedded in sha8ke9s8pe8a8re
+shakesp+e1a
+1re is embedded in sha8ke9s8pe8a8re
+shakespeare includes re at pos 9
+sha8ke9s8pe8a8re + 1re -> sha8ke9s8pe8a8re
+sha8ke9s8pe8a9ri is embedded in sha8ke9s8pe8a9ri
++sha8ke9s8pe8a9ri
+1ha is embedded in sha8ke9s8pe8a9ri
+sha includes ha at pos 1
+s1ha + 1ha -> s1ha
+1ke is embedded in sha8ke9s8pe8a9ri
+shake includes ke at pos 3
+sha1ke + 1ke -> sha1ke
+3pe is embedded in sha8ke9s8pe8a9ri
+shakespe includes pe at pos 6
+shakes3pe + 3pe -> shakes3pe
+e1a is embedded in sha8ke9s8pe8a9ri
+shakespea includes ea at pos 7
+shakespe1a + e1a -> shakespe1a
+1ri is embedded in sha8ke9s8pe8a9ri
+shakespeari includes ri at pos 9
+sha8ke9s8pe8a9ri + 1ri -> sha8ke9s8pe8a9ri
 -o4est. is embedded in -o4est.
 +-o4est.
 o1e is embedded in -o4est.
