@@ -18,6 +18,7 @@ rm output-utf8.dic
 cp hyph_ca_ES.dic office/hyph_ca_ANY.dic
 cd office
 zip -r hyph-ca *
-mv hyph-ca.zip ../hyph-ca.oxt
+mv hyph-ca.zip ../results/hyph-ca.oxt
 cd ..
-echo "Done. Output: hyph_ca_ES.dic"
+mv hyph_ca_ES.dic results/hyph_ca_ES.dic
+echo "Done. Output: results/hyph_ca_ES.dic"
