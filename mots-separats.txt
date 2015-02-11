@@ -1,38 +1,38 @@
+allen al_len --> a_llen al_len
+benintencionadament ben_in_ten_ci_o_na_da_ment --> be_nin_ten_ci_o_na_da_ment ben_in_ten_ci_o_na_da_ment
+benintencionat ben_in_ten_ci_o_nat --> be_nin_ten_ci_o_nat ben_in_ten_ci_o_nat
+brechtià brech_ti_à --> bre_ch_ti_à brech_ti_à
+commonwealth com_mon_wealth --> com_mon_we_alth com_mon_wealth
+debussy de_bus_sy --> de_bussy de_bus_sy
 dickens dick_ens --> dic_kens dick_ens
-picasso pi_cas_so --> pi_cas_so pi_cas_so
+facebook face_book --> fa_ce_bo_ok face_book
 fengshui feng_shui --> fengs_hui feng_shui
+fuerteventura fuer_te_ven_tu_ra --> fu_er_te_ven_tu_ra fuer_te_ven_tu_ra
+gandhi gan_dhi --> gand_hi gan_dhi
+google goo_gle --> go_o_gle goo_gle
+hitchcock hitch_cock --> hit_ch_cock hitch_cock
+hitchcockià hitch_coc_ki_à --> hit_ch_coc_ki_à hitch_coc_ki_à
 hooligan hoo_li_gan --> ho_o_li_gan hoo_li_gan
 hooliganisme hoo_li_ga_nis_me --> ho_o_li_ga_nis_me hoo_li_ga_nis_me
-rockabilly roc_ka_bil_ly --> roc_ka_billy roc_ka_bil_ly
-rockabillies roc_ka_bil_lies --> roc_ka_bi_lli_es roc_ka_bil_lies
-thriller thril_ler --> thri_ller thril_ler
-vintage vin_tage --> vin_ta_ge vin_tage
-brechtià brech_ti_à --> bre_ch_ti_à brech_ti_à
-hitchcockià hitch_coc_ki_à --> hit_ch_coc_ki_à hitch_coc_ki_à
-hitchcock hitch_cock --> hit_ch_cock hitch_cock
-commonwealth com_mon_wealth --> com_mon_we_alth com_mon_wealth
-facebook face_book --> fa_ce_bo_ok face_book
-fuerteventura fuer_te_ven_tu_ra --> fu_er_te_ven_tu_ra fuer_te_ven_tu_ra
-google goo_gle --> go_o_gle goo_gle
 louvre lou_vre --> louv_re lou_vre
 monterrey mon_te_rrey --> mon_ter_rey mon_te_rrey
 ohio ohio --> o_hi_o ohio
 oviedo o_vie_do --> o_vi_e_do o_vie_do
+picasso pi_cas_so --> pi_cas_so pi_cas_so
 rashid ra_shid --> ras_hid ra_shid
 reykjavík rey_kja_vík --> reyk_ja_vík rey_kja_vík
+rockabillies roc_ka_bil_lies --> roc_ka_bi_lli_es roc_ka_bil_lies
+rockabilly roc_ka_bil_ly --> roc_ka_billy roc_ka_bil_ly
 roosevelt roo_se_velt --> ro_o_se_velt roo_se_velt
+shakespeare shake_speare --> sha_kes_pe_a_re shake_speare
+shakespearianes sha_kes_pe_a_ri_a_nes --> sha_kes_pe_a_ri_a_nes sha_kes_pe_a_ri_a_nes
+shakespearià sha_kes_pe_a_ri_à --> sha_kes_pe_a_ri_à sha_kes_pe_a_ri_à
+thriller thril_ler --> thri_ller thril_ler
 twitter twit_ter --> t_wit_ter twit_ter
 unicode u_ni_code --> u_ni_co_de u_ni_code
+vintage vin_tage --> vin_ta_ge vin_tage
 vladímir vla_dí_mir --> v_la_dí_mir vla_dí_mir
 yahoo ya_hoo --> ya_ho_o ya_hoo
-allen al_len --> a_llen al_len
-debussy de_bus_sy --> de_bussy de_bus_sy
-gandhi gan_dhi --> gand_hi gan_dhi
-shakespeare shake_speare --> sha_kes_pe_a_re shake_speare
-shakespearià shake_spea_ri_à --> sha_kes_pe_a_ri_à shake_spea_ri_à
-shakespearianes shake_spea_ri_a_nes --> sha_kes_pe_a_ri_a_nes shake_spea_ri_a_nes
-benintencionadament ben_in_ten_ci_o_na_da_ment --> be_nin_ten_ci_o_na_da_ment ben_in_ten_ci_o_na_da_ment
-benintencionat ben_in_ten_ci_o_nat --> be_nin_ten_ci_o_nat ben_in_ten_ci_o_nat
 càlcul càlcul --> càl_cul càlcul
 caracul ca_racul --> ca_ra_cul ca_racul
 bàcul bàcul --> bà_cul bàcul
@@ -72488,7 +72488,7 @@ vivèrrids --> vi_vèr_rids vi_vèr_rids
 vixnuisme vix_nu_is_me --> vix_nu_is_me vix_nu_is_me
 vixnuïta vix_nu_ï_ta --> vix_nu_ï_ta vix_nu_ï_ta
 víking --> ví_king ví_king
-vladic --> v_la_dic v_la_dic
+vladic --> v_la_dic vla_dic
 vèlic --> vè_lic vè_lic
 vàlid --> và_lid và_lid
 vàlidament --> và_li_da_ment và_li_da_ment

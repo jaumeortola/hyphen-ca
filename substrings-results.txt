@@ -10159,14 +10159,11 @@ uni+1co
 1de is embedded in unico8de
 unicode includes de at pos 5
 unico8de + 1de -> unico8de
-v8ladímir is embedded in v8ladímir
-+v8ladímir
-1la is embedded in v8ladímir
-v+1la
-1dí is embedded in v8ladímir
-vla+1dí
-1mi is embedded in v8ladímir
-vladí+1mi
+.v8la is embedded in .v8la
++.v8la
+1la is embedded in .v8la
+.vla includes la at pos 2
+.v8la + 1la -> .v8la
 yaho8o is embedded in yaho8o
 +yaho8o
 1ho is embedded in yaho8o
@@ -10197,36 +10194,21 @@ gan9d8hi is embedded in gan9d8hi
 1hi is embedded in gan9d8hi
 gandhi includes hi at pos 4
 gan9d8hi + 1hi -> gan9d8hi
-sha8ke9s8pe8a8re is embedded in sha8ke9s8pe8a8re
-+sha8ke9s8pe8a8re
-1ha is embedded in sha8ke9s8pe8a8re
-s+1ha
-1ke is embedded in sha8ke9s8pe8a8re
-sha+1ke
-3pe is embedded in sha8ke9s8pe8a8re
-shakes+3pe
-e1a is embedded in sha8ke9s8pe8a8re
-shakesp+e1a
-1re is embedded in sha8ke9s8pe8a8re
-shakespeare includes re at pos 9
-sha8ke9s8pe8a8re + 1re -> sha8ke9s8pe8a8re
-sha8ke9s8pe8a9ri is embedded in sha8ke9s8pe8a9ri
-+sha8ke9s8pe8a9ri
-1ha is embedded in sha8ke9s8pe8a9ri
-sha includes ha at pos 1
-s1ha + 1ha -> s1ha
-1ke is embedded in sha8ke9s8pe8a9ri
-shake includes ke at pos 3
-sha1ke + 1ke -> sha1ke
-3pe is embedded in sha8ke9s8pe8a9ri
-shakespe includes pe at pos 6
-shakes3pe + 3pe -> shakes3pe
-e1a is embedded in sha8ke9s8pe8a9ri
-shakespea includes ea at pos 7
-shakespe1a + e1a -> shakespe1a
-1ri is embedded in sha8ke9s8pe8a9ri
-shakespeari includes ri at pos 9
-sha8ke9s8pe8a9ri + 1ri -> sha8ke9s8pe8a9ri
+.s4h4 is embedded in .sha8ke9s8pe8a8r8e.
+.sh includes .sh at pos 0
+.s4h4 + .s4h4 -> .s4h4
+.sha8ke9s8pe8a8r8e. is embedded in .sha8ke9s8pe8a8r8e.
++.sha8ke9s8pe8a8r8e.
+1ha is embedded in .sha8ke9s8pe8a8r8e.
+.s+1ha
+1ke is embedded in .sha8ke9s8pe8a8r8e.
+.sha+1ke
+3pe is embedded in .sha8ke9s8pe8a8r8e.
+.shakes+3pe
+e1a is embedded in .sha8ke9s8pe8a8r8e.
+.shakesp+e1a
+1re is embedded in .sha8ke9s8pe8a8r8e.
+.shakespea+1re
 -o4est. is embedded in -o4est.
 +-o4est.
 o1e is embedded in -o4est.
