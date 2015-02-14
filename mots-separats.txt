@@ -1,3 +1,5 @@
+oklahoma o_kla_ho_ma --> ok_la_ho_ma o_kla_ho_ma
+chesterfield ches_ter_field --> ches_ter_fi_eld ches_ter_field
 allen al_len --> a_llen al_len
 benintencionadament ben_in_ten_ci_o_na_da_ment --> be_nin_ten_ci_o_na_da_ment ben_in_ten_ci_o_na_da_ment
 benintencionat ben_in_ten_ci_o_nat --> be_nin_ten_ci_o_nat ben_in_ten_ci_o_nat

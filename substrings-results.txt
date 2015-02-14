@@ -10209,6 +10209,22 @@ e1a is embedded in .sha8ke9s8pe8a8r8e.
 .shakesp+e1a
 1re is embedded in .sha8ke9s8pe8a8r8e.
 .shakespea+1re
+1fi is embedded in fi8eld
+fi includes fi at pos 0
+1fi + 1fi -> 1fi
+fi8eld is embedded in fi8eld
++fi8eld
+i1e is embedded in fi8eld
+f+i1e
+.o9k8lahoma is embedded in .o9k8lahoma
++.o9k8lahoma
+1la is embedded in .o9k8lahoma
+.ok+1la
+1ho is embedded in .o9k8lahoma
+.okla+1ho
+1ma is embedded in .o9k8lahoma
+.oklahoma includes ma at pos 7
+.o9k8lahoma + 1ma -> .o9k8laho1ma
 -o4est. is embedded in -o4est.
 +-o4est.
 o1e is embedded in -o4est.
