@@ -10225,6 +10225,16 @@ f+i1e
 1ma is embedded in .o9k8lahoma
 .oklahoma includes ma at pos 7
 .o9k8lahoma + 1ma -> .o9k8laho1ma
+orwe8l9li is embedded in orwe8l9li
++orwe8l9li
+1we is embedded in orwe8l9li
+or+1we
+1l2li is embedded in orwe8l9li
+orwelli includes lli at pos 4
+orwe8l9li + 1l2li -> orwe8l9li
+1li is embedded in orwe8l9li
+orwelli includes li at pos 5
+orwe8l9li + 1li -> orwe8l9li
 -o4est. is embedded in -o4est.
 +-o4est.
 o1e is embedded in -o4est.
