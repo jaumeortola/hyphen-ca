@@ -9708,6 +9708,17 @@ afrik+a1a
 1ro is embedded in .a4l3legro
 .allegro includes ro at pos 6
 .a4l3le1g2ro + 1ro -> .a4l3le1g2ro
+.baudelai4re. is embedded in .baudelai4re.
++.baudelai4re.
+1ba is embedded in .baudelai4re.
+.ba includes ba at pos 1
+.1ba + 1ba -> .1ba
+1de is embedded in .baudelai4re.
+.bau+1de
+1la is embedded in .baudelai4re.
+.baude+1la
+1re is embedded in .baudelai4re.
+.baudelai+1re
 .bob3s4leigh is embedded in .bob3s4leigh
 +.bob3s4leigh
 1bo is embedded in .bob3s4leigh
@@ -10164,6 +10175,10 @@ unico8de + 1de -> unico8de
 1la is embedded in .v8la
 .vla includes la at pos 2
 .v8la + 1la -> .v8la
+.s8p is embedded in .s8p
++.s8p
+.l's8p is embedded in .l's8p
++.l's8p
 yaho8o is embedded in yaho8o
 +yaho8o
 1ho is embedded in yaho8o

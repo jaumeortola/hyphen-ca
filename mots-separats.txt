@@ -1,4 +1,7 @@
-orwellià or_wel_li_à  --> or_we_lli_à or_wel_li_à
+baudelaire bau_de_laire --> bau_de_lai_re bau_de_laire
+sporting spor_ting --> s_por_ting spor_ting
+l'sporting l'spor_ting --> l's_por_ting l'spor_ting
+orwellià or_wel_li_à --> or_we_lli_à or_wel_li_à
 oklahoma o_kla_ho_ma --> ok_la_ho_ma o_kla_ho_ma
 chesterfield ches_ter_field --> ches_ter_fi_eld ches_ter_field
 allen al_len --> a_llen al_len
@@ -65820,7 +65823,7 @@ sèpal --> sè_pal sè_pal
 sèpia sè_pi_a --> sè_pi_a sè_pi_a
 àspid --> às_pid às_pid
 sàpid --> sà_pid sà_pid
-spin --> s_pin s_pin
+spin spin --> s_pin spin
 sòpit --> sò_pit sò_pit
 súplica --> sú_pli_ca sú_pli_ca
 sèpsia sèp_si_a --> sèp_si_a sèp_si_a
