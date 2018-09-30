@@ -10,7 +10,7 @@ use Encode;
 my $newhyp = new TeX::Hyphen 'file' => "hyph-ca-new.tex", 'style' => 'czech', leftmin => 1, rightmin => 1;
 my $word = lc $ARGV[0];
 Encode::from_to($word, "utf8", "iso-8859-1");
-$hcword = $newhyp->visualize($word);
+my $hcword = $newhyp->visualize($word);
 Encode::from_to($hcword, "iso-8859-1", "utf8");
 $hcword =~ s/·//g;
 $hcword =~ s/--/-/g;
