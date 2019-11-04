@@ -108,6 +108,16 @@
 +1no
 1nu is embedded in 1nu
 +1nu
+1ña is embedded in 1ña
++1ña
+1ñe is embedded in 1ñe
++1ñe
+3ñi is embedded in 3ñi
++3ñi
+1ño is embedded in 1ño
++1ño
+1ñu is embedded in 1ñu
++1ñu
 1pa is embedded in 1pa
 +1pa
 3pe is embedded in 3pe
@@ -8860,6 +8870,19 @@ u1a is embedded in .su4ahili
 .su+1bi
 1ra is embedded in .su3b4irac
 .subi+1ra
+.su2b3 is embedded in .su3b4lev
+.sub includes .sub at pos 0
+.su2b3 + .su2b3 -> .su2b3
+.su3b4lev is embedded in .su3b4lev
++.su3b4lev
+1su is embedded in .su3b4lev
+.su includes su at pos 1
+.1su + 1su -> .1su
+1b2le is embedded in .su3b4lev
+.su+1b2le
+1le is embedded in .su3b4lev
+.suble includes le at pos 4
+.su1b2le + 1le -> .su1b2le
 .su2b3 is embedded in .su3b4lim
 .sub includes .sub at pos 0
 .su2b3 + .su2b3 -> .su2b3
@@ -10209,21 +10232,35 @@ gan9d8hi is embedded in gan9d8hi
 1hi is embedded in gan9d8hi
 gandhi includes hi at pos 4
 gan9d8hi + 1hi -> gan9d8hi
-.s4h4 is embedded in .sha8ke9s8pe8a8r8e.
-.sh includes .sh at pos 0
-.s4h4 + .s4h4 -> .s4h4
-.sha8ke9s8pe8a8r8e. is embedded in .sha8ke9s8pe8a8r8e.
-+.sha8ke9s8pe8a8r8e.
-1ha is embedded in .sha8ke9s8pe8a8r8e.
-.s+1ha
-1ke is embedded in .sha8ke9s8pe8a8r8e.
-.sha+1ke
-3pe is embedded in .sha8ke9s8pe8a8r8e.
-.shakes+3pe
-e1a is embedded in .sha8ke9s8pe8a8r8e.
-.shakesp+e1a
-1re is embedded in .sha8ke9s8pe8a8r8e.
-.shakespea+1re
+9s8ha8ke9s8pe8a8r8e. is embedded in 9s8ha8ke9s8pe8a8r8e.
++9s8ha8ke9s8pe8a8r8e.
+1ha is embedded in 9s8ha8ke9s8pe8a8r8e.
+s+1ha
+1ke is embedded in 9s8ha8ke9s8pe8a8r8e.
+sha+1ke
+3pe is embedded in 9s8ha8ke9s8pe8a8r8e.
+shakes+3pe
+e1a is embedded in 9s8ha8ke9s8pe8a8r8e.
+shakesp+e1a
+1re is embedded in 9s8ha8ke9s8pe8a8r8e.
+shakespea+1re
+9s8ha8ke9s8pe8a8r9i is embedded in 9s8ha8ke9s8pe8a8r9i
++9s8ha8ke9s8pe8a8r9i
+1ha is embedded in 9s8ha8ke9s8pe8a8r9i
+sha includes ha at pos 1
+s1ha + 1ha -> s1ha
+1ke is embedded in 9s8ha8ke9s8pe8a8r9i
+shake includes ke at pos 3
+sha1ke + 1ke -> sha1ke
+3pe is embedded in 9s8ha8ke9s8pe8a8r9i
+shakespe includes pe at pos 6
+shakes3pe + 3pe -> shakes3pe
+e1a is embedded in 9s8ha8ke9s8pe8a8r9i
+shakespea includes ea at pos 7
+shakespe1a + e1a -> shakespe1a
+1ri is embedded in 9s8ha8ke9s8pe8a8r9i
+shakespeari includes ri at pos 9
+9s8ha8ke9s8pe8a8r9i + 1ri -> 9s8ha8ke9s8pe8a8r9i
 1fi is embedded in fi8eld
 fi includes fi at pos 0
 1fi + 1fi -> 1fi

@@ -1,3 +1,4 @@
+españa es_pa_ña --> es_paña es_pa_ña
 baudelaire bau_de_laire --> bau_de_lai_re bau_de_laire
 sporting spor_ting --> s_por_ting spor_ting
 l'sporting l'spor_ting --> l's_por_ting l'spor_ting
@@ -31,8 +32,8 @@ rockabillies roc_ka_bil_lies --> roc_ka_bi_lli_es roc_ka_bil_lies
 rockabilly roc_ka_bil_ly --> roc_ka_billy roc_ka_bil_ly
 roosevelt roo_se_velt --> ro_o_se_velt roo_se_velt
 shakespeare shake_speare --> sha_kes_pe_a_re shake_speare
-shakespearianes sha_kes_pe_a_ri_a_nes --> sha_kes_pe_a_ri_a_nes sha_kes_pe_a_ri_a_nes
-shakespearià sha_kes_pe_a_ri_à --> sha_kes_pe_a_ri_à sha_kes_pe_a_ri_à
+shakespearianes shake_spear_i_a_nes --> sha_kes_pe_a_ri_a_nes shake_spear_i_a_nes
+shakespearià shake_spear_i_à --> sha_kes_pe_a_ri_à shake_spear_i_à
 thriller thril_ler --> thri_ller thril_ler
 twitter twit_ter --> t_wit_ter twit_ter
 unicode u_ni_code --> u_ni_co_de u_ni_code
