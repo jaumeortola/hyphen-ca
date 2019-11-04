@@ -1,3 +1,7 @@
+pius pius --> pius pius
+pius pi_us --> pius pius
+serapèum se_ra_pè_um --> se_ra_pèum se_ra_pè_um
+tedèums te_dè_ums --> te_dèums te_dè_ums
 españa es_pa_ña --> es_paña es_pa_ña
 baudelaire bau_de_laire --> bau_de_lai_re bau_de_laire
 sporting spor_ting --> s_por_ting spor_ting
