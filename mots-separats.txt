@@ -1,3 +1,5 @@
+cuir cuir --> cuir cuir
+cuirs cuirs --> cuirs cuirs
 adquirien ad_qui_ri_en --> ad_qui_ri_en ad_qui_ri_en
 adquiririen ad_qui_ri_ri_en --> ad_qui_ri_ri_en ad_qui_ri_ri_en
 seduirien se_du_i_ri_en --> se_dui_ri_en se_du_i_ri_en
