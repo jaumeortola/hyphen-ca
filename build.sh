@@ -21,5 +21,8 @@ zip -r hyph-ca *
 mv hyph-ca.zip ../results/hyph-ca.oxt
 cd ..
 mv hyph_ca_ES.dic results/hyph_ca_ES.dic
+
 perl patterns-to-js.pl
+sed -i 's/ +$//' patterns-to-js.pl
+
 echo "Done. Output: results/hyph_ca_ES.dic"

@@ -4,7 +4,7 @@ $outputfile = "ca.js";
 open(my $fh, "<", "$inputfile")
 	or die "Can't open < $inputfile: $!";
 
-open(my $ofh, ">", "$outputfile")
+open(my $ofh, ">:utf8", "$outputfile")
 	or die "Can't open > $outputfile: $!";
 
 while( my $line = <$fh>) {
