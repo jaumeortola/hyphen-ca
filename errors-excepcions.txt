@@ -1,2 +1,4 @@
 pius pi_us --> pius pius
 periòdic per_iò_dic --> pe_ri_ò_dic pe_ri_ò_dic
+trairem trai_rem --> trai_rem tra_i_rem
+pairàs pai_ràs --> pai_ràs pa_i_ràs

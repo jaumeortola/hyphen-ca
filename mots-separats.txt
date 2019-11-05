@@ -1,5 +1,22 @@
-pius pius --> pius pius
-pius pi_us --> pius pius
+adquirien ad_qui_ri_en --> ad_qui_ri_en ad_qui_ri_en
+adquiririen ad_qui_ri_ri_en --> ad_qui_ri_ri_en ad_qui_ri_ri_en
+seduirien se_du_i_ri_en --> se_dui_ri_en se_du_i_ri_en
+seguirien se_gui_ri_en --> se_gui_ri_en se_gui_ri_en
+seguiríeu se_gui_rí_eu --> se_gui_rí_eu se_gui_rí_eu
+trairíem tra_i_rí_em --> trai_rí_em tra_i_rí_em
+pol·luiries pol_lu_i_ri_es --> pol_lui_ri_es pol_lu_i_ri_es
+relinquiré re_lin_qui_ré --> re_lin_qui_ré re_lin_qui_ré
+esllanguireu es_llan_gui_reu --> es_llan_gui_reu es_llan_gui_reu
+seguirem se_gui_rem --> se_gui_rem se_gui_rem
+enlairàs en_lai_ràs --> en_lai_ràs en_lai_ràs
+trairàs tra_i_ràs --> trai_ràs tra_i_ràs
+desairem des_ai_rem --> de_sai_rem des_ai_rem
+escaireu es_cai_reu --> es_cai_reu es_cai_reu
+flaireu flai_reu --> flai_reu flai_reu
+flairareu flai_ra_reu --> flai_ra_reu flai_ra_reu
+zimbabuès zim_ba_bu_ès --> zim_ba_bu_ès zim_ba_bu_ès
+zimbabueses zim_ba_bu_e_ses --> zim_ba_bu_e_ses zim_ba_bu_e_ses
+zimbàbue zim_bà_bu_e --> zim_bà_bu_e zim_bà_bu_e
 serapèum se_ra_pè_um --> se_ra_pèum se_ra_pè_um
 tedèums te_dè_ums --> te_dèums te_dè_ums
 españa es_pa_ña --> es_paña es_pa_ña
@@ -53832,8 +53849,6 @@ pericrani --> pe_ri_cra_ni pe_ri_cra_ni
 periderma --> pe_ri_der_ma pe_ri_der_ma
 peridi --> pe_ri_di pe_ri_di
 periòdicament pe_ri_ò_di_ca_ment --> pe_ri_ò_di_ca_ment pe_ri_ò_di_ca_ment
-periòdic pe_ri_ò_dic --> pe_ri_ò_dic pe_ri_ò_dic
-periòdic per_iò_dic --> pe_ri_ò_dic pe_ri_ò_dic
 peridínies pe_ri_dí_ni_es --> pe_ri_dí_ni_es pe_ri_dí_ni_es
 peridíol pe_ri_dí_ol --> pe_ri_dí_ol pe_ri_dí_ol
 peridot --> pe_ri_dot pe_ri_dot
@@ -73493,3 +73508,11 @@ zumzeig zum_zeig --> zum_zeig zum_zeig
 zum-zum --> zum_zum zum_zum
 zurvanisme --> zur_va_nis_me zur_va_nis_me
 zwitterió zwit_te_ri_ó --> zwit_te_ri_ó zwit_te_ri_ó
+pius pius --> pius pius
+pius pi_us --> pius pius
+periòdic pe_ri_ò_dic --> pe_ri_ò_dic pe_ri_ò_dic
+periòdic per_iò_dic --> pe_ri_ò_dic pe_ri_ò_dic
+trairem tra_i_rem --> trai_rem tra_i_rem
+trairem trai_rem --> trai_rem tra_i_rem
+pairàs pa_i_ràs --> pai_ràs pa_i_ràs
+pairàs pai_ràs --> pai_ràs pa_i_ràs

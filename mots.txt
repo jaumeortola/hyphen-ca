@@ -1,5 +1,22 @@
-pius pius
-pius pi_us
+adquirien ad_qui_ri_en
+adquiririen ad_qui_ri_ri_en
+seduirien se_du_i_ri_en
+seguirien se_gui_ri_en
+seguiríeu se_gui_rí_eu
+trairíem tra_i_rí_em
+pol·luiries pol_lu_i_ri_es
+relinquiré re_lin_qui_ré
+esllanguireu es_llan_gui_reu
+seguirem se_gui_rem
+enlairàs en_lai_ràs
+trairàs tra_i_ràs
+desairem des_ai_rem
+escaireu es_cai_reu
+flaireu flai_reu
+flairareu flai_ra_reu
+zimbabuès zim_ba_bu_ès
+zimbabueses zim_ba_bu_e_ses
+zimbàbue zim_bà_bu_e
 serapèum se_ra_pè_um
 tedèums te_dè_ums
 españa es_pa_ña
@@ -53847,8 +53864,6 @@ pericrani
 periderma
 peridi
 periòdicament pe_ri_ò_di_ca_ment
-periòdic pe_ri_ò_dic
-periòdic per_iò_dic
 peridínies pe_ri_dí_ni_es
 peridíol pe_ri_dí_ol
 peridot
@@ -73513,3 +73528,11 @@ zumzeig zum_zeig
 zum-zum
 zurvanisme
 zwitterió zwit_te_ri_ó
+pius pius
+pius pi_us
+periòdic pe_ri_ò_dic
+periòdic per_iò_dic
+trairem tra_i_rem
+trairem trai_rem
+pairàs pa_i_ràs
+pairàs pai_ràs

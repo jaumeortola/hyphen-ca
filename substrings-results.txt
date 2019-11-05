@@ -3595,6 +3595,675 @@ u1ir. is embedded in .cu4ir.
 a1ir. is embedded in .va4ir.
 .vair. includes air. at pos 2
 .va4ir. + a1ir. -> .va4ir.
+a1iré. is embedded in a1iré.
++a1iré.
+1ré is embedded in a1iré.
+ai+1ré
+a1iràs. is embedded in a1iràs.
++a1iràs.
+1rà is embedded in a1iràs.
+ai+1rà
+a1irà. is embedded in a1irà.
++a1irà.
+1rà is embedded in a1irà.
+airà includes rà at pos 2
+ai1rà + 1rà -> ai1rà
+a1irem. is embedded in a1irem.
++a1irem.
+1re is embedded in a1irem.
+ai+1re
+a1ireu. is embedded in a1ireu.
++a1ireu.
+1re is embedded in a1ireu.
+aire includes re at pos 2
+ai1re + 1re -> ai1re
+a1iran. is embedded in a1iran.
++a1iran.
+1ra is embedded in a1iran.
+ai+1ra
+e1iré. is embedded in e1iré.
++e1iré.
+1ré is embedded in e1iré.
+ei+1ré
+e1iràs. is embedded in e1iràs.
++e1iràs.
+1rà is embedded in e1iràs.
+ei+1rà
+e1irà. is embedded in e1irà.
++e1irà.
+1rà is embedded in e1irà.
+eirà includes rà at pos 2
+ei1rà + 1rà -> ei1rà
+e1irem. is embedded in e1irem.
++e1irem.
+1re is embedded in e1irem.
+ei+1re
+e1ireu. is embedded in e1ireu.
++e1ireu.
+1re is embedded in e1ireu.
+eire includes re at pos 2
+ei1re + 1re -> ei1re
+e1iran. is embedded in e1iran.
++e1iran.
+1ra is embedded in e1iran.
+ei+1ra
+o1iré. is embedded in o1iré.
++o1iré.
+1ré is embedded in o1iré.
+oi+1ré
+o1iràs. is embedded in o1iràs.
++o1iràs.
+1rà is embedded in o1iràs.
+oi+1rà
+o1irà. is embedded in o1irà.
++o1irà.
+1rà is embedded in o1irà.
+oirà includes rà at pos 2
+oi1rà + 1rà -> oi1rà
+o1irem. is embedded in o1irem.
++o1irem.
+1re is embedded in o1irem.
+oi+1re
+o1ireu. is embedded in o1ireu.
++o1ireu.
+1re is embedded in o1ireu.
+oire includes re at pos 2
+oi1re + 1re -> oi1re
+o1iran. is embedded in o1iran.
++o1iran.
+1ra is embedded in o1iran.
+oi+1ra
+u1iré. is embedded in u1iré.
++u1iré.
+1ré is embedded in u1iré.
+ui+1ré
+u1iràs. is embedded in u1iràs.
++u1iràs.
+1rà is embedded in u1iràs.
+ui+1rà
+u1irà. is embedded in u1irà.
++u1irà.
+1rà is embedded in u1irà.
+uirà includes rà at pos 2
+ui1rà + 1rà -> ui1rà
+u1irem. is embedded in u1irem.
++u1irem.
+1re is embedded in u1irem.
+ui+1re
+u1ireu. is embedded in u1ireu.
++u1ireu.
+1re is embedded in u1ireu.
+uire includes re at pos 2
+ui1re + 1re -> ui1re
+u1iran. is embedded in u1iran.
++u1iran.
+1ra is embedded in u1iran.
+ui+1ra
+1qu is embedded in qu4iré.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4iré.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4iré. is embedded in qu4iré.
++qu4iré.
+u1iré. is embedded in qu4iré.
+quiré. includes uiré. at pos 1
+qu4iré. + u1iré. -> qu4iré.
+1ré is embedded in qu4iré.
+qui+1ré
+1qu is embedded in qu4iràs.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4iràs.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4iràs. is embedded in qu4iràs.
++qu4iràs.
+u1iràs. is embedded in qu4iràs.
+quiràs. includes uiràs. at pos 1
+qu4iràs. + u1iràs. -> qu4iràs.
+1rà is embedded in qu4iràs.
+qui+1rà
+1qu is embedded in qu4irà.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4irà.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4irà. is embedded in qu4irà.
++qu4irà.
+u1irà. is embedded in qu4irà.
+quirà. includes uirà. at pos 1
+qu4irà. + u1irà. -> qu4irà.
+1rà is embedded in qu4irà.
+quirà includes rà at pos 3
+qui1rà + 1rà -> qui1rà
+1qu is embedded in qu4irem.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4irem.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4irem. is embedded in qu4irem.
++qu4irem.
+u1irem. is embedded in qu4irem.
+quirem. includes uirem. at pos 1
+qu4irem. + u1irem. -> qu4irem.
+1re is embedded in qu4irem.
+qui+1re
+1qu is embedded in qu4ireu.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4ireu.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4ireu. is embedded in qu4ireu.
++qu4ireu.
+u1ireu. is embedded in qu4ireu.
+quireu. includes uireu. at pos 1
+qu4ireu. + u1ireu. -> qu4ireu.
+1re is embedded in qu4ireu.
+quire includes re at pos 3
+qui1re + 1re -> qui1re
+1qu is embedded in qu4iran.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4iran.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4iran. is embedded in qu4iran.
++qu4iran.
+u1iran. is embedded in qu4iran.
+quiran. includes uiran. at pos 1
+qu4iran. + u1iran. -> qu4iran.
+1ra is embedded in qu4iran.
+qui+1ra
+1gu is embedded in gu4iré.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4iré.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4iré. is embedded in gu4iré.
++gu4iré.
+u1iré. is embedded in gu4iré.
+guiré. includes uiré. at pos 1
+gu4iré. + u1iré. -> gu4iré.
+1ré is embedded in gu4iré.
+gui+1ré
+1gu is embedded in gu4iràs.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4iràs.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4iràs. is embedded in gu4iràs.
++gu4iràs.
+u1iràs. is embedded in gu4iràs.
+guiràs. includes uiràs. at pos 1
+gu4iràs. + u1iràs. -> gu4iràs.
+1rà is embedded in gu4iràs.
+gui+1rà
+1gu is embedded in gu4irà.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4irà.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4irà. is embedded in gu4irà.
++gu4irà.
+u1irà. is embedded in gu4irà.
+guirà. includes uirà. at pos 1
+gu4irà. + u1irà. -> gu4irà.
+1rà is embedded in gu4irà.
+guirà includes rà at pos 3
+gui1rà + 1rà -> gui1rà
+1gu is embedded in gu4irem.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4irem.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4irem. is embedded in gu4irem.
++gu4irem.
+u1irem. is embedded in gu4irem.
+guirem. includes uirem. at pos 1
+gu4irem. + u1irem. -> gu4irem.
+1re is embedded in gu4irem.
+gui+1re
+1gu is embedded in gu4ireu.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4ireu.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4ireu. is embedded in gu4ireu.
++gu4ireu.
+u1ireu. is embedded in gu4ireu.
+guireu. includes uireu. at pos 1
+gu4ireu. + u1ireu. -> gu4ireu.
+1re is embedded in gu4ireu.
+guire includes re at pos 3
+gui1re + 1re -> gui1re
+1gu is embedded in gu4iran.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4iran.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4iran. is embedded in gu4iran.
++gu4iran.
+u1iran. is embedded in gu4iran.
+guiran. includes uiran. at pos 1
+gu4iran. + u1iran. -> gu4iran.
+1ra is embedded in gu4iran.
+gui+1ra
+.ca4ir is embedded in .ca4ir
++.ca4ir
+1ca is embedded in .ca4ir
+.+1ca
+.de2s is embedded in .desa4ir
++.de2s
+.des3a is embedded in .desa4ir
++.des3a
+.desa4ir is embedded in .desa4ir
++.desa4ir
+1de is embedded in .desa4ir
+.+1de
+1sa is embedded in .desa4ir
+.desa includes sa at pos 3
+.des3a + 1sa -> .de1s3a
+.enla4ir is embedded in .enla4ir
++.enla4ir
+1la is embedded in .enla4ir
+.en+1la
+.esca4ir is embedded in .esca4ir
++.esca4ir
+1ca is embedded in .esca4ir
+.es+1ca
+.fla4ir is embedded in .fla4ir
++.fla4ir
+1f2la is embedded in .fla4ir
+.+1f2la
+1la is embedded in .fla4ir
+.fla includes la at pos 2
+.1f2la + 1la -> .1f2la
+.repa4ir is embedded in .repa4ir
++.repa4ir
+1re is embedded in .repa4ir
+.+1re
+1pa is embedded in .repa4ir
+.re+1pa
+a1iria. is embedded in a1iria.
++a1iria.
+1ri is embedded in a1iria.
+ai+1ri
+i1a is embedded in a1iria.
+air+i1a
+a1iries. is embedded in a1iries.
++a1iries.
+1ri is embedded in a1iries.
+airi includes ri at pos 2
+ai1ri + 1ri -> ai1ri
+i1e is embedded in a1iries.
+air+i1e
+a1iríem. is embedded in a1iríem.
++a1iríem.
+1rí is embedded in a1iríem.
+ai+1rí
+í1e is embedded in a1iríem.
+air+í1e
+a1iríeu. is embedded in a1iríeu.
++a1iríeu.
+1rí is embedded in a1iríeu.
+airí includes rí at pos 2
+ai1rí + 1rí -> ai1rí
+í1e is embedded in a1iríeu.
+airíe includes íe at pos 3
+airí1e + í1e -> airí1e
+a1irien. is embedded in a1irien.
++a1irien.
+1ri is embedded in a1irien.
+airi includes ri at pos 2
+ai1ri + 1ri -> ai1ri
+i1e is embedded in a1irien.
+airie includes ie at pos 3
+airi1e + i1e -> airi1e
+e1iria. is embedded in e1iria.
++e1iria.
+1ri is embedded in e1iria.
+ei+1ri
+i1a is embedded in e1iria.
+eir+i1a
+e1iries. is embedded in e1iries.
++e1iries.
+1ri is embedded in e1iries.
+eiri includes ri at pos 2
+ei1ri + 1ri -> ei1ri
+i1e is embedded in e1iries.
+eir+i1e
+e1iríem. is embedded in e1iríem.
++e1iríem.
+1rí is embedded in e1iríem.
+ei+1rí
+í1e is embedded in e1iríem.
+eir+í1e
+e1iríeu. is embedded in e1iríeu.
++e1iríeu.
+1rí is embedded in e1iríeu.
+eirí includes rí at pos 2
+ei1rí + 1rí -> ei1rí
+í1e is embedded in e1iríeu.
+eiríe includes íe at pos 3
+eirí1e + í1e -> eirí1e
+e1irien. is embedded in e1irien.
++e1irien.
+1ri is embedded in e1irien.
+eiri includes ri at pos 2
+ei1ri + 1ri -> ei1ri
+i1e is embedded in e1irien.
+eirie includes ie at pos 3
+eiri1e + i1e -> eiri1e
+o1iria. is embedded in o1iria.
++o1iria.
+1ri is embedded in o1iria.
+oi+1ri
+i1a is embedded in o1iria.
+oir+i1a
+o1iries. is embedded in o1iries.
++o1iries.
+1ri is embedded in o1iries.
+oiri includes ri at pos 2
+oi1ri + 1ri -> oi1ri
+i1e is embedded in o1iries.
+oir+i1e
+o1iríem. is embedded in o1iríem.
++o1iríem.
+1rí is embedded in o1iríem.
+oi+1rí
+í1e is embedded in o1iríem.
+oir+í1e
+o1iríeu. is embedded in o1iríeu.
++o1iríeu.
+1rí is embedded in o1iríeu.
+oirí includes rí at pos 2
+oi1rí + 1rí -> oi1rí
+í1e is embedded in o1iríeu.
+oiríe includes íe at pos 3
+oirí1e + í1e -> oirí1e
+o1irien. is embedded in o1irien.
++o1irien.
+1ri is embedded in o1irien.
+oiri includes ri at pos 2
+oi1ri + 1ri -> oi1ri
+i1e is embedded in o1irien.
+oirie includes ie at pos 3
+oiri1e + i1e -> oiri1e
+u1iria. is embedded in u1iria.
++u1iria.
+1ri is embedded in u1iria.
+ui+1ri
+i1a is embedded in u1iria.
+uir+i1a
+u1iries. is embedded in u1iries.
++u1iries.
+1ri is embedded in u1iries.
+uiri includes ri at pos 2
+ui1ri + 1ri -> ui1ri
+i1e is embedded in u1iries.
+uir+i1e
+u1iríem. is embedded in u1iríem.
++u1iríem.
+1rí is embedded in u1iríem.
+ui+1rí
+í1e is embedded in u1iríem.
+uir+í1e
+u1iríeu. is embedded in u1iríeu.
++u1iríeu.
+1rí is embedded in u1iríeu.
+uirí includes rí at pos 2
+ui1rí + 1rí -> ui1rí
+í1e is embedded in u1iríeu.
+uiríe includes íe at pos 3
+uirí1e + í1e -> uirí1e
+u1irien. is embedded in u1irien.
++u1irien.
+1ri is embedded in u1irien.
+uiri includes ri at pos 2
+ui1ri + 1ri -> ui1ri
+i1e is embedded in u1irien.
+uirie includes ie at pos 3
+uiri1e + i1e -> uiri1e
+1qu is embedded in qu4iria.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4iria.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4iria. is embedded in qu4iria.
++qu4iria.
+u1iria. is embedded in qu4iria.
+quiria. includes uiria. at pos 1
+qu4iria. + u1iria. -> qu4iria.
+1ri is embedded in qu4iria.
+qui+1ri
+i1a is embedded in qu4iria.
+quir+i1a
+1qu is embedded in qu4iries.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4iries.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4iries. is embedded in qu4iries.
++qu4iries.
+u1iries. is embedded in qu4iries.
+quiries. includes uiries. at pos 1
+qu4iries. + u1iries. -> qu4iries.
+1ri is embedded in qu4iries.
+quiri includes ri at pos 3
+qui1ri + 1ri -> qui1ri
+i1e is embedded in qu4iries.
+quir+i1e
+1qu is embedded in qu4iríem.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4iríem.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4iríem. is embedded in qu4iríem.
++qu4iríem.
+u1iríem. is embedded in qu4iríem.
+quiríem. includes uiríem. at pos 1
+qu4iríem. + u1iríem. -> qu4iríem.
+1rí is embedded in qu4iríem.
+qui+1rí
+í1e is embedded in qu4iríem.
+quir+í1e
+1qu is embedded in qu4iríeu.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4iríeu.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4iríeu. is embedded in qu4iríeu.
++qu4iríeu.
+u1iríeu. is embedded in qu4iríeu.
+quiríeu. includes uiríeu. at pos 1
+qu4iríeu. + u1iríeu. -> qu4iríeu.
+1rí is embedded in qu4iríeu.
+quirí includes rí at pos 3
+qui1rí + 1rí -> qui1rí
+í1e is embedded in qu4iríeu.
+quiríe includes íe at pos 4
+quirí1e + í1e -> quirí1e
+1qu is embedded in qu4irien.
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qu4irien.
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qu4irien. is embedded in qu4irien.
++qu4irien.
+u1irien. is embedded in qu4irien.
+quirien. includes uirien. at pos 1
+qu4irien. + u1irien. -> qu4irien.
+1ri is embedded in qu4irien.
+quiri includes ri at pos 3
+qui1ri + 1ri -> qui1ri
+i1e is embedded in qu4irien.
+quirie includes ie at pos 4
+quiri1e + i1e -> quiri1e
+1gu is embedded in gu4iria.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4iria.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4iria. is embedded in gu4iria.
++gu4iria.
+u1iria. is embedded in gu4iria.
+guiria. includes uiria. at pos 1
+gu4iria. + u1iria. -> gu4iria.
+1ri is embedded in gu4iria.
+gui+1ri
+i1a is embedded in gu4iria.
+guir+i1a
+1gu is embedded in gu4iries.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4iries.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4iries. is embedded in gu4iries.
++gu4iries.
+u1iries. is embedded in gu4iries.
+guiries. includes uiries. at pos 1
+gu4iries. + u1iries. -> gu4iries.
+1ri is embedded in gu4iries.
+guiri includes ri at pos 3
+gui1ri + 1ri -> gui1ri
+i1e is embedded in gu4iries.
+guir+i1e
+1gu is embedded in gu4iríem.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4iríem.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4iríem. is embedded in gu4iríem.
++gu4iríem.
+u1iríem. is embedded in gu4iríem.
+guiríem. includes uiríem. at pos 1
+gu4iríem. + u1iríem. -> gu4iríem.
+1rí is embedded in gu4iríem.
+gui+1rí
+í1e is embedded in gu4iríem.
+guir+í1e
+1gu is embedded in gu4iríeu.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4iríeu.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4iríeu. is embedded in gu4iríeu.
++gu4iríeu.
+u1iríeu. is embedded in gu4iríeu.
+guiríeu. includes uiríeu. at pos 1
+gu4iríeu. + u1iríeu. -> gu4iríeu.
+1rí is embedded in gu4iríeu.
+guirí includes rí at pos 3
+gui1rí + 1rí -> gui1rí
+í1e is embedded in gu4iríeu.
+guiríe includes íe at pos 4
+guirí1e + í1e -> guirí1e
+1gu is embedded in gu4irien.
+gu includes gu at pos 0
+1gu + 1gu -> 1gu
+gu2i is embedded in gu4irien.
+gui includes gui at pos 0
+gu2i + gu2i -> gu2i
+gu4irien. is embedded in gu4irien.
++gu4irien.
+u1irien. is embedded in gu4irien.
+guirien. includes uirien. at pos 1
+gu4irien. + u1irien. -> gu4irien.
+1ri is embedded in gu4irien.
+guiri includes ri at pos 3
+gui1ri + 1ri -> gui1ri
+i1e is embedded in gu4irien.
+guirie includes ie at pos 4
+guiri1e + i1e -> guiri1e
+.para4iria. is embedded in .para4iria.
++.para4iria.
+1pa is embedded in .para4iria.
+.+1pa
+1ra is embedded in .para4iria.
+.pa+1ra
+a1iria. is embedded in .para4iria.
+.parairia. includes airia. at pos 4
+.para4iria. + a1iria. -> .para4iria.
+1ri is embedded in .para4iria.
+.parai+1ri
+i1a is embedded in .para4iria.
+.parair+i1a
+.para4iries. is embedded in .para4iries.
++.para4iries.
+1pa is embedded in .para4iries.
+.pa includes pa at pos 1
+.1pa + 1pa -> .1pa
+1ra is embedded in .para4iries.
+.para includes ra at pos 3
+.pa1ra + 1ra -> .pa1ra
+a1iries. is embedded in .para4iries.
+.parairies. includes airies. at pos 4
+.para4iries. + a1iries. -> .para4iries.
+1ri is embedded in .para4iries.
+.parairi includes ri at pos 6
+.parai1ri + 1ri -> .parai1ri
+i1e is embedded in .para4iries.
+.parair+i1e
+.pera4iria. is embedded in .pera4iria.
++.pera4iria.
+3pe is embedded in .pera4iria.
+.+3pe
+1ra is embedded in .pera4iria.
+.pe+1ra
+a1iria. is embedded in .pera4iria.
+.perairia. includes airia. at pos 4
+.pera4iria. + a1iria. -> .pera4iria.
+1ri is embedded in .pera4iria.
+.perai+1ri
+i1a is embedded in .pera4iria.
+.perair+i1a
+.pera4iries. is embedded in .pera4iries.
++.pera4iries.
+3pe is embedded in .pera4iries.
+.pe includes pe at pos 1
+.3pe + 3pe -> .3pe
+1ra is embedded in .pera4iries.
+.pera includes ra at pos 3
+.pe1ra + 1ra -> .pe1ra
+a1iries. is embedded in .pera4iries.
+.perairies. includes airies. at pos 4
+.pera4iries. + a1iries. -> .pera4iries.
+1ri is embedded in .pera4iries.
+.perairi includes ri at pos 6
+.perai1ri + 1ri -> .perai1ri
+i1e is embedded in .pera4iries.
+.perair+i1e
+.le4iria. is embedded in .le4iria.
++.le4iria.
+1le is embedded in .le4iria.
+.+1le
+e1iria. is embedded in .le4iria.
+.leiria. includes eiria. at pos 2
+.le4iria. + e1iria. -> .le4iria.
+1ri is embedded in .le4iria.
+.lei+1ri
+i1a is embedded in .le4iria.
+.leir+i1a
 .c2h2 is embedded in .c2h2
 +.c2h2
 3c2h is embedded in .c2h2
@@ -4673,17 +5342,15 @@ u1a is embedded in .bi4s3anual
 .bron+1co
 1ne is embedded in .bronco3p4neu
 .broncop+1ne
-.brí3um is embedded in .brí3um
-+.brí3um
-1b2rí is embedded in .brí3um
-.+1b2rí
-1rí is embedded in .brí3um
-.brí includes rí at pos 2
-.1b2rí + 1rí -> .1b2rí
+í3um. is embedded in í3um.
++í3um.
+í3ums. is embedded in í3ums.
++í3ums.
 .ca4p3alç is embedded in .ca4p3alç
 +.ca4p3alç
 1ca is embedded in .ca4p3alç
-.+1ca
+.ca includes ca at pos 1
+.1ca + 1ca -> .1ca
 1pa is embedded in .ca4p3alç
 .ca+1pa
 .ca4p3alc is embedded in .ca4p3alc
@@ -4962,20 +5629,23 @@ i1e is embedded in .curi4e
 .curie includes ie at pos 4
 .curi4e + i1e -> .curi4e
 .de2s is embedded in .de2s
-+.de2s
+.des includes .des at pos 0
+.de2s + .de2s -> .de2s
 1de is embedded in .de2s
-.+1de
+.de includes de at pos 1
+.1de + 1de -> .1de
 .de2s is embedded in .des3a
 .des includes .des at pos 0
 .de2s + .de2s -> .de2s
 .des3a is embedded in .des3a
-+.des3a
+.desa includes .desa at pos 0
+.de1s3a + .des3a -> .de1s3a
 1de is embedded in .des3a
 .de includes de at pos 1
 .1de + 1de -> .1de
 1sa is embedded in .des3a
 .desa includes sa at pos 3
-.des3a + 1sa -> .de1s3a
+.de1s3a + 1sa -> .de1s3a
 .de2s is embedded in .de3s4ament
 .des includes .des at pos 0
 .de2s + .de2s -> .de2s
@@ -8216,7 +8886,8 @@ o1ï is embedded in .oxi3uroïdeus
 .palim3p4sest is embedded in .palim3p4sest
 +.palim3p4sest
 1pa is embedded in .palim3p4sest
-.+1pa
+.pa includes pa at pos 1
+.1pa + 1pa -> .1pa
 1li is embedded in .palim3p4sest
 .pa+1li
 1se is embedded in .palim3p4sest
@@ -8337,7 +9008,8 @@ o1ï is embedded in .oxi3uroïdeus
 .pa includes pa at pos 1
 .1pa + 1pa -> .1pa
 1ra is embedded in .para3g4neis
-.pa+1ra
+.para includes ra at pos 3
+.pa1ra + 1ra -> .pa1ra
 1ne is embedded in .para3g4neis
 .parag+1ne
 .para3p4neum is embedded in .para3p4neum
@@ -8366,7 +9038,8 @@ o1ï is embedded in .oxi3uroïdeus
 .pe4chblend is embedded in .pe4chblend
 +.pe4chblend
 3pe is embedded in .pe4chblend
-.+3pe
+.pe includes pe at pos 1
+.3pe + 3pe -> .3pe
 3c2h is embedded in .pe4chblend
 .pe+3c2h
 1b2le is embedded in .pe4chblend
@@ -8390,7 +9063,8 @@ o1ï is embedded in .oxi3uroïdeus
 .pe includes pe at pos 1
 .3pe + 3pe -> .3pe
 1ra is embedded in .pe4r3alt
-.pe+1ra
+.pera includes ra at pos 3
+.pe1ra + 1ra -> .pe1ra
 .pe4r3equaci is embedded in .pe4r3equaci
 +.pe4r3equaci
 3pe is embedded in .pe4r3equaci
@@ -8660,7 +9334,8 @@ i1o is embedded in .radio3i
 .re3i is embedded in .re3i
 +.re3i
 1re is embedded in .re3i
-.+1re
+.re includes re at pos 1
+.1re + 1re -> .1re
 .re3i is embedded in .re4i.
 .rei includes .rei at pos 0
 .re3i + .re3i -> .re3i
