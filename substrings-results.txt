@@ -3452,6 +3452,18 @@ u1ums. is embedded in u1ums.
 +.g4h4
 .s4p4 is embedded in .s4p4
 +.s4p4
+.s4c4 is embedded in .sch4
+.sc includes .sc at pos 0
+.s4c4 + .s4c4 -> .s4c4
+.sch4 is embedded in .sch4
++.sch4
+3c2h is embedded in .sch4
+.sch includes ch at pos 2
+.sch4 + 3c2h -> .s3c2h4
+.s4w is embedded in .s4w
++.s4w
+.t4w is embedded in .t4w
++.t4w
 3c2h is embedded in 4ch.
 +3c2h
 4ch. is embedded in 4ch.
@@ -9527,10 +9539,14 @@ i1o is embedded in .radio3i
 .s4c4 is embedded in .s4che4elit
 .sc includes .sc at pos 0
 .s4c4 + .s4c4 -> .s4c4
+.sch4 is embedded in .s4che4elit
+.sch includes .sch at pos 0
+.s3c2h4 + .sch4 -> .s3c2h4
 .s4che4elit is embedded in .s4che4elit
 +.s4che4elit
 3c2h is embedded in .s4che4elit
-.s+3c2h
+.sch includes ch at pos 2
+.s3c2h4 + 3c2h -> .s3c2h4
 1he is embedded in .s4che4elit
 .sc+1he
 e1e is embedded in .s4che4elit
@@ -9540,11 +9556,14 @@ e1e is embedded in .s4che4elit
 .s4c4 is embedded in .s4ch4watzit
 .sc includes .sc at pos 0
 .s4c4 + .s4c4 -> .s4c4
+.sch4 is embedded in .s4ch4watzit
+.sch includes .sch at pos 0
+.s3c2h4 + .sch4 -> .s3c2h4
 .s4ch4watzit is embedded in .s4ch4watzit
 +.s4ch4watzit
 3c2h is embedded in .s4ch4watzit
 .sch includes ch at pos 2
-.s3c2h + 3c2h -> .s3c2h
+.s3c2h4 + 3c2h -> .s3c2h4
 1wa is embedded in .s4ch4watzit
 .sch+1wa
 1zi is embedded in .s4ch4watzit
@@ -10397,6 +10416,8 @@ u1í is embedded in .u3ís.
 .wit+1he
 1ri is embedded in .wit4h3erit
 .withe+1ri
+1b4w is embedded in 1b4w
++1b4w
 .a4equo. is embedded in .a4equo.
 +.a4equo.
 a1e is embedded in .a4equo.
@@ -10964,12 +10985,18 @@ r+o1o
 roo+1se
 1ve is embedded in ro8osevelt
 roose+1ve
-t8wi8t9ter is embedded in t8wi8t9ter
-+t8wi8t9ter
-1wi is embedded in t8wi8t9ter
+1t8wi8t9ter is embedded in 1t8wi8t9ter
++1t8wi8t9ter
+1wi is embedded in 1t8wi8t9ter
 t+1wi
-1te is embedded in t8wi8t9ter
+1te is embedded in 1t8wi8t9ter
 twit+1te
+1t8w8e8et is embedded in 1t8w8e8et
++1t8w8e8et
+1we is embedded in 1t8w8e8et
+t+1we
+e1e is embedded in 1t8w8e8et
+tw+e1e
 unico8de is embedded in unico8de
 +unico8de
 3ni is embedded in unico8de
@@ -11101,18 +11128,6 @@ orwe8l9li + 1li -> orwe8l9li
 +.d's8c
 .d'f8t is embedded in .d'f8t
 +.d'f8t
-.l’s8p is embedded in .l’s8p
-+.l’s8p
-.l’s8c is embedded in .l’s8c
-+.l’s8c
-.l’f8t is embedded in .l’f8t
-+.l’f8t
-.d’s8p is embedded in .d’s8p
-+.d’s8p
-.d’s8c is embedded in .d’s8c
-+.d’s8c
-.d’f8t is embedded in .d’f8t
-+.d’f8t
 -o4est. is embedded in -o4est.
 +-o4est.
 o1e is embedded in -o4est.

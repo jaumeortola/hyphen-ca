@@ -1,3 +1,13 @@
+schleswig schles_wig --> sch_les_wig schles_wig
+swing swing --> s_wing swing
+twingo twin_go --> t_win_go twin_go
+zimbabwès zim_ba_bwès --> zim_babwès zim_ba_bwès
+zimbabwesa zim_ba_bwe_sa --> zim_bab_we_sa zim_ba_bwe_sa
+schwerin schwe_rin --> sch_we_rin schwe_rin
+tweet tweet --> t_we_et tweet
+tweets tweets --> t_we_ets tweets
+tweetar twee_tar --> t_we_e_tar twee_tar
+retweetar re_twee_tar --> ret_we_e_tar re_twee_tar
 cuir cuir --> cuir cuir
 cuirs cuirs --> cuirs cuirs
 adquirien ad_qui_ri_en --> ad_qui_ri_en ad_qui_ri_en
