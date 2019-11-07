@@ -1415,6 +1415,8 @@ u1ü is embedded in u1ü
 +í1e
 í1o is embedded in í1o
 +í1o
+í1i is embedded in í1i
++í1i
 í1ï is embedded in í1ï
 +í1ï
 í1ü is embedded in í1ü
@@ -2077,21 +2079,33 @@ u1o is embedded in é1u2o
 +é1u2i
 é1u2u is embedded in é1u2u
 +é1u2u
+í1i is embedded in í1i2a
+íi includes íi at pos 0
+í1i + í1i -> í1i
 í1i2a is embedded in í1i2a
 +í1i2a
 i1a is embedded in í1i2a
 íia includes ia at pos 1
 í1i2a + i1a -> í1i2a
+í1i is embedded in í1i2e
+íi includes íi at pos 0
+í1i + í1i -> í1i
 í1i2e is embedded in í1i2e
 +í1i2e
 i1e is embedded in í1i2e
 íie includes ie at pos 1
 í1i2e + i1e -> í1i2e
+í1i is embedded in í1i2o
+íi includes íi at pos 0
+í1i + í1i -> í1i
 í1i2o is embedded in í1i2o
 +í1i2o
 i1o is embedded in í1i2o
 íio includes io at pos 1
 í1i2o + i1o -> í1i2o
+í1i is embedded in í1i2u
+íi includes íi at pos 0
+í1i + í1i -> í1i
 í1i2u is embedded in í1i2u
 +í1i2u
 í1u2a is embedded in í1u2a
@@ -3464,6 +3478,12 @@ u1ums. is embedded in u1ums.
 +.s4w
 .t4w is embedded in .t4w
 +.t4w
+f4t4alat is embedded in f4t4alat
++f4t4alat
+1ta is embedded in f4t4alat
+f+1ta
+1la is embedded in f4t4alat
+fta+1la
 3c2h is embedded in 4ch.
 +3c2h
 4ch. is embedded in 4ch.
@@ -8445,6 +8465,18 @@ i1o is embedded in .i4onones.
 .io1no + 1no -> .io1no
 1ne is embedded in .i4onones.
 .iono+1ne
+1injecci is embedded in 1injecci
++1injecci
+1je is embedded in 1injecci
+in+1je
+1ci is embedded in 1injecci
+injecci includes ci at pos 5
+1injecci + 1ci -> 1injec1ci
+1inject is embedded in 1inject
++1inject
+1je is embedded in 1inject
+inje includes je at pos 2
+in1je + 1je -> in1je
 .jans3ky. is embedded in .jans3ky.
 +.jans3ky.
 1ja is embedded in .jans3ky.
@@ -9493,6 +9525,25 @@ i1o is embedded in .radio3i
 1re is embedded in .re3un
 .re includes re at pos 1
 .1re + 1re -> .1re
+1re is embedded in re3unió.
+re includes re at pos 0
+1re + 1re -> 1re
+re3unió. is embedded in re3unió.
++re3unió.
+3ni is embedded in re3unió.
+reu+3ni
+i1ó is embedded in re3unió.
+reun+i1ó
+1re is embedded in re3unions.
+re includes re at pos 0
+1re + 1re -> 1re
+re3unions. is embedded in re3unions.
++re3unions.
+3ni is embedded in re3unions.
+reuni includes ni at pos 3
+reu3ni + 3ni -> reu3ni
+i1o is embedded in re3unions.
+reun+i1o
 .ri3c4ket3t4si is embedded in .ri3c4ket3t4si
 +.ri3c4ket3t4si
 1ri is embedded in .ri3c4ket3t4si
@@ -9610,14 +9661,28 @@ e1e is embedded in .s4che4elit
 .1so + 1so -> .1so
 1so is embedded in .sot5s4obr
 .sot+1so
-.ísqui3um is embedded in .ísqui3um
-+.ísqui3um
-1qu is embedded in .ísqui3um
-.ís+1qu
-qu2i is embedded in .ísqui3um
-.ís+qu2i
-u1i2u is embedded in .ísqui3um
-.ísq+u1i2u
+ísqui3um. is embedded in ísqui3um.
++ísqui3um.
+1qu is embedded in ísqui3um.
+ís+1qu
+qu2i is embedded in ísqui3um.
+ís+qu2i
+u1i2u is embedded in ísqui3um.
+ísq+u1i2u
+i1um. is embedded in ísqui3um.
+ísquium. includes ium. at pos 4
+ísqui3um. + i1um. -> ísqui3um.
+àqui3um. is embedded in àqui3um.
++àqui3um.
+1qu is embedded in àqui3um.
+à+1qu
+qu2i is embedded in àqui3um.
+à+qu2i
+u1i2u is embedded in àqui3um.
+àq+u1i2u
+i1um. is embedded in àqui3um.
+àquium. includes ium. at pos 3
+àqui3um. + i1um. -> àqui3um.
 .su4ahili is embedded in .su4ahili
 +.su4ahili
 1su is embedded in .su4ahili
@@ -10382,6 +10447,12 @@ o1ï is embedded in .triqui3uroïdeus
 u1í is embedded in .u3ís.
 .uí includes uí at pos 1
 .u2í + u1í -> .u2í
+1utilitz is embedded in 1utilitz
++1utilitz
+1ti is embedded in 1utilitz
+u+1ti
+1li is embedded in 1utilitz
+uti+1li
 .vol4t3amper is embedded in .vol4t3amper
 +.vol4t3amper
 1vo is embedded in .vol4t3amper
@@ -10441,6 +10512,13 @@ u1o is embedded in .a4equo.
 1ra is embedded in .ca3t4hedra.
 .cathedra includes ra at pos 7
 .cathe1d2ra + 1ra -> .cathe1d2ra
+1ma is embedded in mal3t4hus
+ma includes ma at pos 0
+1ma + 1ma -> 1ma
+mal3t4hus is embedded in mal3t4hus
++mal3t4hus
+1hu is embedded in mal3t4hus
+malt+1hu
 1wa is embedded in wa4re.
 wa includes wa at pos 0
 1wa + 1wa -> 1wa
@@ -11011,6 +11089,11 @@ unico8de + 1de -> unico8de
 1la is embedded in .v8la
 .vla includes la at pos 2
 .v8la + 1la -> .v8la
+.v8ra is embedded in .v8ra
++.v8ra
+1ra is embedded in .v8ra
+.vra includes ra at pos 2
+.v8ra + 1ra -> .v8ra
 yaho8o is embedded in yaho8o
 +yaho8o
 1ho is embedded in yaho8o
@@ -11041,6 +11124,15 @@ gan9d8hi is embedded in gan9d8hi
 1hi is embedded in gan9d8hi
 gandhi includes hi at pos 4
 gan9d8hi + 1hi -> gan9d8hi
+1ro is embedded in rousse8au
+ro includes ro at pos 0
+1ro + 1ro -> 1ro
+rousse8au is embedded in rousse8au
++rousse8au
+1se is embedded in rousse8au
+rous+1se
+e1a is embedded in rousse8au
+rouss+e1a
 9s8ha8ke9s8pe8a8r8e. is embedded in 9s8ha8ke9s8pe8a8r8e.
 +9s8ha8ke9s8pe8a8r8e.
 1ha is embedded in 9s8ha8ke9s8pe8a8r8e.

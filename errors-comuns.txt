@@ -1,1 +1,3 @@
+biftalat --> bif_ta_lat bifta_lat
+tereftalat --> te_ref_ta_lat te_refta_lat
 vladic --> v_la_dic vla_dic
