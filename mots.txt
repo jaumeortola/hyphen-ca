@@ -851,7 +851,7 @@ aclamació a_cla_ma_ci_ó
 aclamador
 aclamar
 aclamatori
-aclameir a_cla_meir
+aclameir a_cla_me_ir
 aclamidi
 aclaparador
 aclaparament
@@ -4881,7 +4881,6 @@ anortosa an_or_to_sa
 anortòclasi an_or_tò_cla_si
 anorèctic an_o_rèc_tic
 anorèxia an_o_rè_xi_a
-anosodiafòria a_no_so_di_a_fo_ri_a
 anosodiafòria a_no_so_di_a_fò_ri_a
 anosognòsia a_no_sog_nò_si_a
 anostracis an_os_tra_cis
@@ -7104,7 +7103,7 @@ arílic
 arítjol
 arítmia a_rít_mi_a
 arítmic
-aròlium a_rò_lium
+aròlium a_rò_li_um
 aròmia a_rò_mi_a
 as
 asafia a_sa_fi_a
@@ -10743,7 +10742,6 @@ biunivocitat bi_u_ni_vo_ci_tat
 biunívoc bi_u_ní_voc
 biurenc biu_renc
 biuret bi_u_ret
-biuret biu_ret
 bivac
 bivalent
 bivalve
@@ -36367,7 +36365,7 @@ fàrmac
 fàscia fàs_ci_a
 fàstic
 fàtsia fàt_si_a
-fàtua fà_tua
+fàtua fà_tu_a
 fàtuament fà_tu_a_ment
 fàustic fàus_tic
 fèlids
@@ -76674,7 +76672,6 @@ zim-zam
 zimasa
 zimbabueses zim_ba_bu_e_ses
 zimbabuès zim_ba_bu_ès
-zimbabuès zim_ba_buès
 zimbabwesa zim_ba_bwe_sa
 zimbabwès zim_ba_bwès
 zimbàbue zim_bà_bu_e

@@ -208,7 +208,7 @@ abigeat a_bi_ge_at --> a_bi_ge_at a_bi_ge_at
 abigeu a_bi_geu --> a_bi_geu a_bi_geu
 abillament --> a_bi_lla_ment a_bi_lla_ment
 abillar --> a_bi_llar a_bi_llar
-abintestat ab_in_tes_tat --> a_bin_tes_tat a_bin_tes_tat
+abintestat ab_in_tes_tat --> a_bin_tes_tat ab_in_tes_tat
 abiogenètic a_bi_o_ge_nè_tic --> a_bi_o_ge_nè_tic a_bi_o_ge_nè_tic
 abiogènesi a_bi_o_gè_ne_si --> a_bi_o_gè_ne_si a_bi_o_gè_ne_si
 abiosi a_bi_o_si --> a_bi_o_si a_bi_o_si
@@ -833,7 +833,7 @@ aclamació a_cla_ma_ci_ó --> a_cla_ma_ci_ó a_cla_ma_ci_ó
 aclamador --> a_cla_ma_dor a_cla_ma_dor
 aclamar --> a_cla_mar a_cla_mar
 aclamatori --> a_cla_ma_to_ri a_cla_ma_to_ri
-aclameir a_cla_meir --> a_cla_me_ir a_cla_me_ir
+aclameir a_cla_me_ir --> a_cla_me_ir a_cla_me_ir
 aclamidi --> a_cla_mi_di a_cla_mi_di
 aclaparador --> a_cla_pa_ra_dor a_cla_pa_ra_dor
 aclaparament --> a_cla_pa_ra_ment a_cla_pa_ra_ment
@@ -4282,7 +4282,7 @@ anadema --> a_na_de_ma a_na_de_ma
 anadiplosi --> a_na_di_plo_si a_na_di_plo_si
 anador --> a_na_dor a_na_dor
 anadura --> a_na_du_ra a_na_du_ra
-anadènia an_a_dè_ni_a --> a_na_dè_ni_a a_na_dè_ni_a
+anadènia an_a_dè_ni_a --> a_na_dè_ni_a an_a_dè_ni_a
 anadídim --> a_na_dí_dim a_na_dí_dim
 anadípsia a_na_díp_si_a --> a_na_díp_si_a a_na_díp_si_a
 anaerobi an_a_e_ro_bi --> a_na_e_ro_bi an_a_e_ro_bi
@@ -4381,10 +4381,10 @@ anarquització a_nar_quit_za_ci_ó --> a_nar_quit_za_ci_ó a_nar_quit_za_ci_ó
 anarquitzant --> a_nar_quit_zant a_nar_quit_zant
 anarquitzar --> a_nar_quit_zar a_nar_quit_zar
 anartre --> a_nar_tre a_nar_tre
-anartròpodes an_ar_trò_po_des --> a_nar_trò_po_des a_nar_trò_po_des
+anartròpodes an_ar_trò_po_des --> a_nar_trò_po_des an_ar_trò_po_des
 anasarca --> a_na_sar_ca a_na_sar_ca
 anascot --> a_nas_cot a_nas_cot
-anaspidacis an_as_pi_da_cis --> a_nas_pi_da_cis a_nas_pi_da_cis
+anaspidacis an_as_pi_da_cis --> a_nas_pi_da_cis an_as_pi_da_cis
 anastasià a_nas_ta_si_à --> a_nas_ta_si_à a_nas_ta_si_à
 anastigmatisme an_as_tig_ma_tis_me --> a_nas_tig_ma_tis_me an_as_tig_ma_tis_me
 anastigmàtic an_as_tig_mà_tic --> a_nas_tig_mà_tic an_as_tig_mà_tic
@@ -4552,7 +4552,7 @@ anepígraf an_e_pí_graf --> a_ne_pí_graf an_e_pí_graf
 anergia a_ner_gi_a --> a_ner_gi_a a_ner_gi_a
 aneroide a_ne_roi_de --> a_ne_roi_de a_ne_roi_de
 anerotisme an_e_ro_tis_me --> a_ne_ro_tis_me an_e_ro_tis_me
-anestable an_es_ta_ble --> a_nes_ta_ble a_nes_ta_ble
+anestable an_es_ta_ble --> a_nes_ta_ble an_es_ta_ble
 anestesiar an_es_te_si_ar --> a_nes_te_si_ar an_es_te_si_ar
 anestesina an_es_te_si_na --> a_nes_te_si_na an_es_te_si_na
 anestesiologia an_es_te_si_o_lo_gi_a --> a_nes_te_si_o_lo_gi_a an_es_te_si_o_lo_gi_a
@@ -4568,7 +4568,7 @@ aneurina a_neu_ri_na --> a_neu_ri_na a_neu_ri_na
 aneurisma a_neu_ris_ma --> a_neu_ris_ma a_neu_ris_ma
 aneurismal a_neu_ris_mal --> a_neu_ris_mal a_neu_ris_mal
 aneurismorràfia a_neu_ris_mor_rà_fi_a --> a_neu_ris_mor_rà_fi_a a_neu_ris_mor_rà_fi_a
-aneusomia an_eu_so_mi_a --> a_neu_so_mi_a a_neu_so_mi_a
+aneusomia an_eu_so_mi_a --> a_neu_so_mi_a an_eu_so_mi_a
 anfossol --> an_fos_sol an_fos_sol
 anfracte --> an_frac_te an_frac_te
 anfractuositat an_frac_tu_o_si_tat --> an_frac_tu_o_si_tat an_frac_tu_o_si_tat
@@ -4821,7 +4821,7 @@ anodonta --> a_no_don_ta a_no_don_ta
 anodí --> a_no_dí a_no_dí
 anodínia a_no_dí_ni_a --> a_no_dí_ni_a a_no_dí_ni_a
 anodòncia an_o_dòn_ci_a --> a_no_dòn_ci_a an_o_dòn_ci_a
-anoftàlmia an_of_tàl_mi_a --> a_nof_tàl_mi_a a_nof_tàl_mi_a
+anoftàlmia an_of_tàl_mi_a --> a_nof_tàl_mi_a an_of_tàl_mi_a
 anoia a_no_ia --> a_no_ia a_no_ia
 anoienc a_no_ienc --> a_no_ienc a_no_ienc
 anolis --> a_no_lis a_no_lis
@@ -4863,7 +4863,6 @@ anortosa an_or_to_sa --> a_nor_to_sa an_or_to_sa
 anortòclasi an_or_tò_cla_si --> a_nor_tò_cla_si an_or_tò_cla_si
 anorèctic an_o_rèc_tic --> a_no_rèc_tic an_o_rèc_tic
 anorèxia an_o_rè_xi_a --> a_no_rè_xi_a an_o_rè_xi_a
-anosodiafòria a_no_so_di_a_fo_ri_a --> a_no_so_di_a_fò_ri_a a_no_so_di_a_fò_ri_a
 anosodiafòria a_no_so_di_a_fò_ri_a --> a_no_so_di_a_fò_ri_a a_no_so_di_a_fò_ri_a
 anosognòsia a_no_sog_nò_si_a --> a_no_sog_nò_si_a a_no_sog_nò_si_a
 anostracis an_os_tra_cis --> a_nos_tra_cis an_os_tra_cis
@@ -5503,7 +5502,7 @@ anàstrofe --> a_nàs_tro_fe a_nàs_tro_fe
 anàtids --> a_nà_tids a_nà_tids
 anàtrop --> a_nà_trop a_nà_trop
 anècdota --> a_nèc_do_ta a_nèc_do_ta
-anèdric an_è_dric --> a_nè_dric a_nè_dric
+anèdric an_è_dric --> a_nè_dric an_è_dric
 anèl·lids --> a_nèl_lids a_nèl_lids
 anèmia a_nè_mi_a --> a_nè_mi_a a_nè_mi_a
 anèuria a_nèu_ri_a --> a_nèu_ri_a a_nèu_ri_a
@@ -6604,7 +6603,7 @@ arqueter --> ar_que_ter ar_que_ter
 arquetip --> ar_que_tip ar_que_tip
 arquetipus --> ar_que_ti_pus ar_que_ti_pus
 arquetípic --> ar_que_tí_pic ar_que_tí_pic
-arqueus ar_que_us --> ar_queus ar_queus
+arqueus ar_que_us --> ar_queus ar_que_us
 arqueà ar_que_à --> ar_que_à ar_que_à
 arqueòfit ar_que_ò_fit --> ar_que_ò_fit ar_que_ò_fit
 arqueòleg ar_que_ò_leg --> ar_que_ò_leg ar_que_ò_leg
@@ -7086,7 +7085,7 @@ arílic --> a_rí_lic a_rí_lic
 arítjol --> a_rít_jol a_rít_jol
 arítmia a_rít_mi_a --> a_rít_mi_a a_rít_mi_a
 arítmic --> a_rít_mic a_rít_mic
-aròlium a_rò_lium --> a_rò_li_um a_rò_li_um
+aròlium a_rò_li_um --> a_rò_li_um a_rò_li_um
 aròmia a_rò_mi_a --> a_rò_mi_a a_rò_mi_a
 as --> as as
 asafia a_sa_fi_a --> a_sa_fi_a a_sa_fi_a
@@ -10724,8 +10723,7 @@ biuniforme bi_u_ni_for_me --> biu_ni_for_me bi_u_ni_for_me
 biunivocitat bi_u_ni_vo_ci_tat --> biu_ni_vo_ci_tat bi_u_ni_vo_ci_tat
 biunívoc bi_u_ní_voc --> biu_ní_voc bi_u_ní_voc
 biurenc biu_renc --> biu_renc biu_renc
-biuret bi_u_ret --> biu_ret biu_ret
-biuret biu_ret --> biu_ret biu_ret
+biuret bi_u_ret --> biu_ret bi_u_ret
 bivac --> bi_vac bi_vac
 bivalent --> bi_va_lent bi_va_lent
 bivalve --> bi_val_ve bi_val_ve
@@ -20960,7 +20958,7 @@ debussy de_bus_sy --> de_bussy de_bus_sy
 debut --> de_but de_but
 debutant --> de_bu_tant de_bu_tant
 debutar --> de_bu_tar de_bu_tar
-debye de_bye --> debye debye
+debye de_bye --> debye de_bye
 debò --> de_bò de_bò
 deca- --> de_ca_ de_ca_
 decabraquis --> de_ca_bra_quis de_ca_bra_quis
@@ -25521,7 +25519,7 @@ ducató --> du_ca_tó du_ca_tó
 ductilitat --> duc_ti_li_tat duc_ti_li_tat
 duel du_el --> du_el du_el
 duelista du_e_lis_ta --> du_e_lis_ta du_e_lis_ta
-duesaigüenc du_es_ai_güenc --> du_e_sai_güenc du_e_sai_güenc
+duesaigüenc du_es_ai_güenc --> du_e_sai_güenc du_es_ai_güenc
 duet du_et --> du_et du_et
 duetista du_e_tis_ta --> du_e_tis_ta du_e_tis_ta
 dugong --> du_gong du_gong
@@ -25634,8 +25632,8 @@ déna --> dé_na dé_na
 déntol --> dén_tol dén_tol
 déu --> déu déu
 déu déu --> déu déu
-déu-n'hi-do déu_n'hi_do --> déu_n'_hi_do déu_n'_hi_do
-déu-n'hi-doret déu_n'hi_do_ret --> déu_n'_hi_do_ret déu_n'_hi_do_ret
+déu-n'hi-do déu_n'hi_do --> déu_n'_hi_do déu_n'hi_do
+déu-n'hi-doret déu_n'hi_do_ret --> déu_n'_hi_do_ret déu_n'hi_do_ret
 díade dí_a_de --> dí_a_de dí_a_de
 díctic --> díc_tic díc_tic
 dídim --> dí_dim dí_dim
@@ -27077,7 +27075,7 @@ ena --> e_na e_na
 enagista --> e_na_gis_ta e_na_gis_ta
 enagos --> e_na_gos e_na_gos
 enagrir en_a_grir --> e_na_grir en_a_grir
-enagües e_na_gües --> e_na_gües en_a_gües
+enagües e_na_gües --> e_na_gües e_na_gües
 enaiguament en_ai_gua_ment --> e_nai_gua_ment en_ai_gua_ment
 enaiguar en_ai_guar --> e_nai_guar en_ai_guar
 enaiguatejar en_ai_gua_te_jar --> e_nai_gua_te_jar en_ai_gua_te_jar
@@ -32625,7 +32623,7 @@ euxenita eu_xe_ni_ta --> eu_xe_ni_ta eu_xe_ni_ta
 euxàntic eu_xàn_tic --> eu_xàn_tic eu_xàn_tic
 euzó eu_zó --> eu_zó eu_zó
 euàntic e_uàn_tic --> e_uàn_tic e_uàn_tic
-euèdric eu_è_dric --> e_uè_dric e_uè_dric
+euèdric eu_è_dric --> e_uè_dric eu_è_dric
 evacuable e_va_cu_a_ble --> e_va_cu_a_ble e_va_cu_a_ble
 evacuació e_va_cu_a_ci_ó --> e_va_cu_a_ci_ó e_va_cu_a_ci_ó
 evacuador e_va_cu_a_dor --> e_va_cu_a_dor e_va_cu_a_dor
@@ -36060,7 +36058,7 @@ fucus --> fu_cus fu_cus
 fucàcies fu_cà_ci_es --> fu_cà_ci_es fu_cà_ci_es
 fuel fu_el --> fu_el fu_el
 fuell fu_ell --> fu_ell fu_ell
-fueloil fu_el_oil --> fu_e_loil fu_e_loil
+fueloil fu_el_oil --> fu_e_loil fu_el_oil
 fuent fu_ent --> fu_ent fu_ent
 fuerteventura fuer_te_ven_tu_ra --> fu_er_te_ven_tu_ra fuer_te_ven_tu_ra
 fuet fu_et --> fu_et fu_et
@@ -36349,7 +36347,7 @@ fàrmac --> fàr_mac fàr_mac
 fàscia fàs_ci_a --> fàs_ci_a fàs_ci_a
 fàstic --> fàs_tic fàs_tic
 fàtsia fàt_si_a --> fàt_si_a fàt_si_a
-fàtua fà_tua --> fà_tu_a fà_tu_a
+fàtua fà_tu_a --> fà_tu_a fà_tu_a
 fàtuament fà_tu_a_ment --> fà_tu_a_ment fà_tu_a_ment
 fàustic fàus_tic --> fàus_tic fàus_tic
 fèlids --> fè_lids fè_lids
@@ -36626,7 +36624,7 @@ gal·licà --> gal_li_cà gal_li_cà
 gal·liformes --> gal_li_for_mes gal_li_for_mes
 gal·lionel·la gal_li_o_nel_la --> gal_li_o_nel_la gal_li_o_nel_la
 gal·lo- --> gal_lo_ gal_lo_
-gal·loitàlic gal_lo_i_tà_lic --> gal_loi_tà_lic gal_loi_tà_lic
+gal·loitàlic gal_lo_i_tà_lic --> gal_loi_tà_lic gal_lo_i_tà_lic
 gal·loromà --> gal_lo_ro_mà gal_lo_ro_mà
 gal·loromànic --> gal_lo_ro_mà_nic gal_lo_ro_mà_nic
 gal·lès --> gal_lès gal_lès
@@ -37583,7 +37581,7 @@ gitat --> gi_tat gi_tat
 gitonogàmia gi_to_no_gà_mi_a --> gi_to_no_gà_mi_a gi_to_no_gà_mi_a
 givetià gi_ve_ti_à --> gi_ve_ti_à gi_ve_ti_à
 giàrdia gi_àr_di_a --> gi_àr_di_a gi_àr_di_a
-gjelià gje_li_à --> g_je_li_à g_je_li_à
+gjelià gje_li_à --> g_je_li_à gje_li_à
 gla --> gla gla
 glabel·la --> gla_bel_la gla_bel_la
 glabre --> gla_bre gla_bre
@@ -38359,7 +38357,7 @@ greixesa grei_xe_sa --> grei_xe_sa grei_xe_sa
 greixet grei_xet --> grei_xet grei_xet
 greixina grei_xi_na --> grei_xi_na grei_xi_na
 greixinós grei_xi_nós --> grei_xi_nós grei_xi_nós
-greixoli greix_o_li --> grei_xo_li grei_xo_li
+greixoli greix_o_li --> grei_xo_li greix_o_li
 greixonera grei_xo_ne_ra --> grei_xo_ne_ra grei_xo_ne_ra
 greixor grei_xor --> grei_xor grei_xor
 greixum grei_xum --> grei_xum grei_xum
@@ -76656,7 +76654,6 @@ zim-zam --> zim_zam zim_zam
 zimasa --> zi_ma_sa zi_ma_sa
 zimbabueses zim_ba_bu_e_ses --> zim_ba_bu_e_ses zim_ba_bu_e_ses
 zimbabuès zim_ba_bu_ès --> zim_ba_bu_ès zim_ba_bu_ès
-zimbabuès zim_ba_buès --> zim_ba_bu_ès zim_ba_bu_ès
 zimbabwesa zim_ba_bwe_sa --> zim_bab_we_sa zim_ba_bwe_sa
 zimbabwès zim_ba_bwès --> zim_babwès zim_ba_bwès
 zimbàbue zim_bà_bu_e --> zim_bà_bu_e zim_bà_bu_e
