@@ -40165,8 +40165,8 @@ històricament --> his_tò_ri_ca_ment his_tò_ri_ca_ment
 hitchcock hitch_cock --> hit_ch_cock hitch_cock
 hitchcockià hitch_coc_ki_à --> hit_ch_coc_ki_à hitch_coc_ki_à
 hitita --> hi_ti_ta hi_ti_ta
-hitlerià hit_le_ri_à --> hit_le_ri_à hit_le_ri_à
 hitler hit_ler --> hit_ler hit_ler
+hitlerià hit_le_ri_à --> hit_le_ri_à hit_le_ri_à
 hivern --> hi_vern hi_vern
 hivernacle --> hi_ver_na_cle hi_ver_na_cle
 hivernada --> hi_ver_na_da hi_ver_na_da
@@ -44082,7 +44082,7 @@ junclà --> jun_clà jun_clà
 juncàcies jun_cà_ci_es --> jun_cà_ci_es jun_cà_ci_es
 jungermannials jun_ger_man_ni_als --> jun_ger_man_ni_als jun_ger_man_ni_als
 jungermanníides jun_ger_man_ní_i_des --> jun_ger_man_níi_des jun_ger_man_ní_i_des
-jungla --> jun_gla jun_gla
+jungla jun_gla --> jun_gla jun_gla
 junior ju_ni_or --> ju_ni_or ju_ni_or
 juniorat ju_ni_o_rat --> ju_ni_o_rat ju_ni_o_rat
 junt --> junt junt
@@ -53849,7 +53849,7 @@ ouater o_ua_ter --> o_ua_ter o_ua_ter
 ouateria o_ua_te_ri_a --> o_ua_te_ri_a o_ua_te_ri_a
 ouera o_ue_ra --> o_ue_ra o_ue_ra
 oueria o_ue_ri_a --> o_ue_ri_a o_ue_ri_a
-ouija oui_ja --> o_ui_ja o_ui_ja
+ouija oui_ja --> o_ui_ja oui_ja
 oure ou_re --> ou_re ou_re
 output --> out_put out_put
 ovacionar o_va_ci_o_nar --> o_va_ci_o_nar o_va_ci_o_nar
@@ -54105,7 +54105,6 @@ pairalisme pai_ra_lis_me --> pai_ra_lis_me pai_ra_lis_me
 pairar pai_rar --> pai_rar pai_rar
 paire pai_re --> pai_re pai_re
 pairàs pa_i_ràs --> pai_ràs pa_i_ràs
-pairàs pai_ràs --> pai_ràs pa_i_ràs
 paisa pai_sa --> pai_sa pai_sa
 paisanatge pai_sa_nat_ge --> pai_sa_nat_ge pai_sa_nat_ge
 paisatge pai_sat_ge --> pai_sat_ge pai_sat_ge
@@ -56296,7 +56295,6 @@ perizoni --> pe_ri_zo_ni pe_ri_zo_ni
 periàntic pe_ri_àn_tic --> pe_ri_àn_tic pe_ri_àn_tic
 periàpside pe_ri_àp_si_de --> pe_ri_àp_si_de pe_ri_àp_si_de
 periòdic pe_ri_ò_dic --> pe_ri_ò_dic pe_ri_ò_dic
-periòdic per_iò_dic --> pe_ri_ò_dic pe_ri_ò_dic
 periòdicament pe_ri_ò_di_ca_ment --> pe_ri_ò_di_ca_ment pe_ri_ò_di_ca_ment
 periòstic pe_ri_òs_tic --> pe_ri_òs_tic pe_ri_òs_tic
 perjudicador --> per_ju_di_ca_dor per_ju_di_ca_dor
@@ -56386,17 +56384,14 @@ perorar per_o_rar --> pe_ro_rar per_o_rar
 perovskita --> pe_rovs_ki_ta pe_rovs_ki_ta
 peroxi per_o_xi --> pe_ro_xi per_o_xi
 peroxi- per_o_xi_ --> pe_ro_xi_ per_o_xi_
-peroxidació pe_ro_xi_da_ci_ó --> pe_ro_xi_da_ci_ó per_o_xi_da_ci_ó
 peroxidació per_o_xi_da_ci_ó --> pe_ro_xi_da_ci_ó per_o_xi_da_ci_ó
 peroxidar per_o_xi_dar --> pe_ro_xi_dar per_o_xi_dar
 peroxidasa per_o_xi_da_sa --> pe_ro_xi_da_sa per_o_xi_da_sa
 peroxisoma per_o_xi_so_ma --> pe_ro_xi_so_ma per_o_xi_so_ma
-peroxiàcid pe_ro_xi_à_cid --> pe_ro_xi_à_cid per_o_xi_à_cid
 peroxiàcid per_o_xi_à_cid --> pe_ro_xi_à_cid per_o_xi_à_cid
 peroxodisulfat per_o_xo_di_sul_fat --> pe_ro_xo_di_sul_fat per_o_xo_di_sul_fat
 peroxodisulfúric per_o_xo_di_sul_fú_ric --> pe_ro_xo_di_sul_fú_ric per_o_xo_di_sul_fú_ric
 peroxomonosulfúric per_o_xo_mo_no_sul_fú_ric --> pe_ro_xo_mo_no_sul_fú_ric per_o_xo_mo_no_sul_fú_ric
-peroxoàcid pe_ro_xo_à_cid --> pe_ro_xo_à_cid per_o_xo_à_cid
 peroxoàcid per_o_xo_à_cid --> pe_ro_xo_à_cid per_o_xo_à_cid
 perpal --> per_pal per_pal
 perpaler --> per_pa_ler per_pa_ler
@@ -57026,7 +57021,7 @@ pintallavis --> pin_ta_lla_vis pin_ta_lla_vis
 pintar --> pin_tar pin_tar
 pintat --> pin_tat pin_tat
 pintatge --> pin_tat_ge pin_tat_ge
-pintaungles pin_ta_un_gles --> pin_taun_gles pin_taun_gles
+pintaungles pin_ta_un_gles --> pin_taun_gles pin_ta_un_gles
 pinte --> pin_te pin_te
 pinter --> pin_ter pin_ter
 pintor --> pin_tor pin_tor
@@ -57384,7 +57379,6 @@ piulejar piu_le_jar --> piu_le_jar piu_le_jar
 piulet piu_let --> piu_let piu_let
 piuleta piu_le_ta --> piu_le_ta piu_le_ta
 piuló piu_ló --> piu_ló piu_ló
-pius pi_us --> pius pius
 pius pius --> pius pius
 pivot --> pi_vot pi_vot
 pivotar --> pi_vo_tar pi_vo_tar
@@ -65966,7 +65960,7 @@ santandreuenc san_tan_dre_uenc --> san_tan_dre_uenc san_tan_dre_uenc
 santanell --> san_ta_nell san_ta_nell
 santantonienc san_tan_to_ni_enc --> san_tan_to_ni_enc san_tan_to_ni_enc
 santanyiner --> san_ta_nyi_ner san_ta_nyi_ner
-santapauenc sant_ta_pa_uenc --> san_ta_pa_uenc san_ta_pa_uenc
+santapauenc san_ta_pa_uenc --> san_ta_pa_uenc san_ta_pa_uenc
 santapoler --> san_ta_po_ler san_ta_po_ler
 santbernat --> sant_ber_nat sant_ber_nat
 santboienc sant_bo_ienc --> sant_bo_ienc sant_bo_ienc
@@ -67162,7 +67156,6 @@ sexòleg --> se_xò_leg se_xò_leg
 sforzesc --> s_for_zesc s_for_zesc
 shakespeare shake_speare --> sha_kes_pe_a_re shake_speare
 shakespearianes shake_spear_i_a_nes --> sha_kes_pe_a_ri_a_nes shake_spear_i_a_nes
-shakespearià sha_kes_pe_a_ri_à --> sha_kes_pe_a_ri_à shake_spear_i_à
 shakespearià shake_spear_i_à --> sha_kes_pe_a_ri_à shake_spear_i_à
 shigel·la --> shi_gel_la shi_gel_la
 shikímic --> shi_kí_mic shi_kí_mic
@@ -68657,8 +68650,8 @@ statu --> sta_tu sta_tu
 status --> sta_tus sta_tus
 stephanià step_ha_ni_à --> step_ha_ni_à step_ha_ni_à
 stilb --> stilb stilb
-stokes --> sto_kes sto_kes
-stoá s_to_á --> stoá stoá
+stokes stokes --> sto_kes sto_kes
+stoá sto_á --> stoá sto_á
 strombolià strom_bo_li_à --> strom_bo_li_à strom_bo_li_à
 suabi su_a_bi --> su_a_bi su_a_bi
 suada su_a_da --> su_a_da su_a_da
@@ -69043,8 +69036,6 @@ sud-aràbic --> sud_a_rà_bic sud_a_rà_bic
 sud-eslau sud_es_lau --> sud_es_lau sud_es_lau
 sud-est --> sud_est sud_est
 sud-mongòlic --> sud_mon_gò_lic sud_mon_gò_lic
-sud-oest sud_o_est --> sud_o_est sud_oest
-sud-oest sud_oest --> sud_o_est sud_oest
 sud-oriental sud_o_ri_en_tal --> sud_o_ri_en_tal sud_o_ri_en_tal
 suda --> su_da su_da
 sudació su_da_ci_ó --> su_da_ci_ó su_da_ci_ó
@@ -69707,8 +69698,8 @@ taigà tai_gà --> tai_gà tai_gà
 taiko tai_ko --> tai_ko tai_ko
 tailandès tai_lan_dès --> tai_lan_dès tai_lan_dès
 taina tai_na --> tai_na tai_na
-taitxitxuan tai_txi_txuan --> tait_xit_xu_an tait_xit_xu_an
-taitxí tai_txí --> tait_xí tait_xí
+taitxitxuan tai_txi_txuan --> tait_xit_xu_an tai_txi_txuan
+taitxí tai_txí --> tait_xí tai_txí
 taiwanès tai_wa_nès --> tai_wa_nès tai_wa_nès
 tal --> tal tal
 tala --> ta_la ta_la
@@ -71403,9 +71394,7 @@ tiorodàcies ti_o_ro_dà_ci_es --> ti_o_ro_dà_ci_es ti_o_ro_dà_ci_es
 tiosulfat ti_o_sul_fat --> ti_o_sul_fat ti_o_sul_fat
 tiosulfúric ti_o_sul_fú_ric --> ti_o_sul_fú_ric ti_o_sul_fú_ric
 tiourea ti_o_u_re_a --> ti_ou_re_a ti_o_u_re_a
-tiourea ti_ou_re_a --> ti_ou_re_a ti_o_u_re_a
 tiouridina ti_o_u_ri_di_na --> ti_ou_ri_di_na ti_o_u_ri_di_na
-tiouridina ti_ou_ri_di_na --> ti_ou_ri_di_na ti_o_u_ri_di_na
 tioàcid ti_o_à_cid --> ti_o_à_cid ti_o_à_cid
 tioèter ti_o_è_ter --> ti_o_è_ter ti_o_è_ter
 tip --> tip tip
@@ -72158,7 +72147,6 @@ trair tra_ir --> tra_ir tra_ir
 trairar trai_rar --> trai_rar trai_rar
 traire trai_re --> trai_re trai_re
 trairem tra_i_rem --> trai_rem tra_i_rem
-trairem trai_rem --> trai_rem tra_i_rem
 trairàs tra_i_ràs --> trai_ràs tra_i_ràs
 trairíem tra_i_rí_em --> trai_rí_em tra_i_rí_em
 trajecte --> tra_jec_te tra_jec_te
@@ -75144,7 +75132,7 @@ vetaire ve_tai_re --> ve_tai_re ve_tai_re
 veterinari --> ve_te_ri_na_ri ve_te_ri_na_ri
 veterotestamentari --> ve_te_ro_tes_ta_men_ta_ri ve_te_ro_tes_ta_men_ta_ri
 veterà --> ve_te_rà ve_te_rà
-vetesifils ve_tes_i_fils --> ve_te_si_fils ve_te_si_fils
+vetesifils ve_tes_i_fils --> ve_te_si_fils ve_tes_i_fils
 vetlaire vet_lai_re --> vet_lai_re vet_lai_re
 vetlla --> vet_lla vet_lla
 vetllada --> vet_lla_da vet_lla_da
@@ -75575,7 +75563,7 @@ vist --> vist vist
 vista --> vis_ta vis_ta
 vistent --> vis_tent vis_tent
 visteta --> vis_te_ta vis_te_ta
-vistiplau vist_i_plau --> vis_ti_plau vis_ti_plau
+vistiplau vist_i_plau --> vis_ti_plau vist_i_plau
 vistosament --> vis_to_sa_ment vis_to_sa_ment
 vistositat --> vis_to_si_tat vis_to_si_tat
 vistós --> vis_tós vis_tós
@@ -75860,7 +75848,7 @@ votant --> vo_tant vo_tant
 votar --> vo_tar vo_tar
 votiac vo_ti_ac --> vo_ti_ac vo_ti_ac
 votiu vo_tiu --> vo_tiu vo_tiu
-voyeurisme vo_yeu_ris_me --> voyeu_ris_me voyeu_ris_me
+voyeurisme vo_yeu_ris_me --> voyeu_ris_me vo_yeu_ris_me
 vraconià vra_co_ni_à --> v_ra_co_ni_à vra_co_ni_à
 vuit --> vuit vuit
 vuit vuit --> vuit vuit

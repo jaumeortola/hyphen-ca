@@ -1,3 +1,4 @@
+#acutiúscul a_cu_ti_ús_cul
 #bàcul
 #caracul
 #càlcul
@@ -11,8 +12,14 @@
 #majúscul
 #minúscul
 #múscul
+#pairàs pai_ràs
+#periòdic per_iò_dic
+#pius pi_us
 #ridícul
+#sud-oest sud-o_est
+#sud-oest sud-oest
 #sàcul
+#trairem trai_rem
 #tubèrcul
 #tòrcul
 #òscul
@@ -1250,7 +1257,6 @@ acutangular
 acuti-
 acutifoli
 acutirostre
-#acutiúscul a_cu_ti_ús_cul
 acutiúscul a_cu_ti_úscul
 acutorsió a_cu_tor_si_ó
 acuïtat a_cu_ï_tat
@@ -40184,8 +40190,8 @@ històricament
 hitchcock hitch_cock
 hitchcockià hitch_coc_ki_à
 hitita
-hitlerià hit_le_ri_à
 hitler hit_ler
+hitlerià hit_le_ri_à
 hivern
 hivernacle
 hivernada
@@ -44101,7 +44107,7 @@ junclà
 juncàcies jun_cà_ci_es
 jungermannials jun_ger_man_ni_als
 jungermanníides jun_ger_man_ní_i_des
-jungla
+jungla jun_gla
 junior ju_ni_or
 juniorat ju_ni_o_rat
 junt
@@ -54124,7 +54130,6 @@ pairalisme pai_ra_lis_me
 pairar pai_rar
 paire pai_re
 pairàs pa_i_ràs
-pairàs pai_ràs
 paisa pai_sa
 paisanatge pai_sa_nat_ge
 paisatge pai_sat_ge
@@ -56315,7 +56320,6 @@ perizoni
 periàntic pe_ri_àn_tic
 periàpside pe_ri_àp_si_de
 periòdic pe_ri_ò_dic
-periòdic per_iò_dic
 periòdicament pe_ri_ò_di_ca_ment
 periòstic pe_ri_òs_tic
 perjudicador
@@ -56405,17 +56409,14 @@ perorar per_o_rar
 perovskita
 peroxi per_o_xi
 peroxi- per_o_xi_
-peroxidació pe_ro_xi_da_ci_ó
 peroxidació per_o_xi_da_ci_ó
 peroxidar per_o_xi_dar
 peroxidasa per_o_xi_da_sa
 peroxisoma per_o_xi_so_ma
-peroxiàcid pe_ro_xi_à_cid
 peroxiàcid per_o_xi_à_cid
 peroxodisulfat per_o_xo_di_sul_fat
 peroxodisulfúric per_o_xo_di_sul_fú_ric
 peroxomonosulfúric per_o_xo_mo_no_sul_fú_ric
-peroxoàcid pe_ro_xo_à_cid
 peroxoàcid per_o_xo_à_cid
 perpal
 perpaler
@@ -57403,7 +57404,6 @@ piulejar piu_le_jar
 piulet piu_let
 piuleta piu_le_ta
 piuló piu_ló
-pius pi_us
 pius pius
 pivot
 pivotar
@@ -65985,7 +65985,7 @@ santandreuenc san_tan_dre_uenc
 santanell
 santantonienc san_tan_to_ni_enc
 santanyiner
-santapauenc sant_ta_pa_uenc
+santapauenc san_ta_pa_uenc
 santapoler
 santbernat
 santboienc sant_bo_ienc
@@ -67181,7 +67181,6 @@ sexòleg
 sforzesc
 shakespeare shake_speare
 shakespearianes shake_spear_i_a_nes
-shakespearià sha_kes_pe_a_ri_à
 shakespearià shake_spear_i_à
 shigel·la
 shikímic
@@ -68676,8 +68675,8 @@ statu
 status
 stephanià step_ha_ni_à
 stilb
-stokes
-stoá s_to_á
+stokes stokes
+stoá sto_á
 strombolià strom_bo_li_à
 suabi su_a_bi
 suada su_a_da
@@ -69062,8 +69061,6 @@ sud-aràbic
 sud-eslau sud-es_lau
 sud-est
 sud-mongòlic
-sud-oest sud-o_est
-sud-oest sud-oest
 sud-oriental sud-o_ri_en_tal
 suda
 sudació su_da_ci_ó
@@ -71422,9 +71419,7 @@ tiorodàcies ti_o_ro_dà_ci_es
 tiosulfat ti_o_sul_fat
 tiosulfúric ti_o_sul_fú_ric
 tiourea ti_o_u_re_a
-tiourea ti_ou_re_a
 tiouridina ti_o_u_ri_di_na
-tiouridina ti_ou_ri_di_na
 tioàcid ti_o_à_cid
 tioèter ti_o_è_ter
 tip
@@ -72177,7 +72172,6 @@ trair tra_ir
 trairar trai_rar
 traire trai_re
 trairem tra_i_rem
-trairem trai_rem
 trairàs tra_i_ràs
 trairíem tra_i_rí_em
 trajecte
