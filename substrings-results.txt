@@ -3466,6 +3466,8 @@ u1ums. is embedded in u1ums.
 +.g4h4
 .s4p4 is embedded in .s4p4
 +.s4p4
+.c4t4 is embedded in .c4t4
++.c4t4
 .s4c4 is embedded in .sch4
 .sc includes .sc at pos 0
 .s4c4 + .s4c4 -> .s4c4
@@ -3478,12 +3480,21 @@ u1ums. is embedded in u1ums.
 +.s4w
 .t4w is embedded in .t4w
 +.t4w
-f4t4alat is embedded in f4t4alat
-+f4t4alat
-1ta is embedded in f4t4alat
+3f4t4alat is embedded in 3f4t4alat
++3f4t4alat
+1ta is embedded in 3f4t4alat
 f+1ta
-1la is embedded in f4t4alat
+1la is embedded in 3f4t4alat
 fta+1la
+3p4n4eumàti is embedded in 3p4n4eumàti
++3p4n4eumàti
+1ne is embedded in 3p4n4eumàti
+p+1ne
+1mà is embedded in 3p4n4eumàti
+pneu+1mà
+1ti is embedded in 3p4n4eumàti
+pneumàti includes ti at pos 6
+3p4n4eumàti + 1ti -> 3p4n4eumà1ti
 3c2h is embedded in 4ch.
 +3c2h
 4ch. is embedded in 4ch.
@@ -5116,12 +5127,15 @@ i1o is embedded in .a4n3iono
 .a4n3òsmi + 1mi -> .a4n3òs1mi
 .a3p4neumàtic is embedded in .a3p4neumàtic
 +.a3p4neumàtic
+3p4n4eumàti is embedded in .a3p4neumàtic
+.a+3p4n4eumàti
 1ne is embedded in .a3p4neumàtic
 .ap+1ne
 1mà is embedded in .a3p4neumàtic
 .apneu+1mà
 1ti is embedded in .a3p4neumàtic
-.apneumà+1ti
+.apneumàti includes ti at pos 8
+.a3p4n4eumàti + 1ti -> .a3p4n4eumà1ti
 .a3p4nèumia is embedded in .a3p4nèumia
 +.a3p4nèumia
 1nè is embedded in .a3p4nèumia
@@ -5410,6 +5424,83 @@ u1a is embedded in .bi4s3anual
 .ca+3pi
 i1a is embedded in .ca4p3ialt
 .cap+i1a
+.ca4p3esflora is embedded in .ca4p3esflora
++.ca4p3esflora
+1ca is embedded in .ca4p3esflora
+.ca includes ca at pos 1
+.1ca + 1ca -> .1ca
+3pe is embedded in .ca4p3esflora
+.ca+3pe
+1f2lo is embedded in .ca4p3esflora
+.capes+1f2lo
+1lo is embedded in .ca4p3esflora
+.capesflo includes lo at pos 7
+.capes1f2lo + 1lo -> .capes1f2lo
+1ra is embedded in .ca4p3esflora
+.capesflora includes ra at pos 9
+.ca4p3esflora + 1ra -> .ca4p3esflo1ra
+.ca4p3ialça is embedded in .ca4p3ialça
++.ca4p3ialça
+1ca is embedded in .ca4p3ialça
+.ca includes ca at pos 1
+.1ca + 1ca -> .1ca
+3pi is embedded in .ca4p3ialça
+.capi includes pi at pos 3
+.ca3pi + 3pi -> .ca3pi
+i1a is embedded in .ca4p3ialça
+.capia includes ia at pos 4
+.capi1a + i1a -> .capi1a
+1ça is embedded in .ca4p3ialça
+.capialça includes ça at pos 7
+.ca4p3ialça + 1ça -> .ca4p3ial1ça
+.ca4p3ipot is embedded in .ca4p3ipot
++.ca4p3ipot
+1ca is embedded in .ca4p3ipot
+.ca includes ca at pos 1
+.1ca + 1ca -> .1ca
+3pi is embedded in .ca4p3ipot
+.capi includes pi at pos 3
+.ca3pi + 3pi -> .ca3pi
+3po is embedded in .ca4p3ipot
+.capi+3po
+.cen4t3enram is embedded in .cen4t3enram
++.cen4t3enram
+1ce is embedded in .cen4t3enram
+.+1ce
+1te is embedded in .cen4t3enram
+.cen+1te
+1ra is embedded in .cen4t3enram
+.centen+1ra
+.cibe4r3espai is embedded in .cibe4r3espai
++.cibe4r3espai
+1ci is embedded in .cibe4r3espai
+.+1ci
+1be is embedded in .cibe4r3espai
+.ci+1be
+1re is embedded in .cibe4r3espai
+.cibe+1re
+1pa is embedded in .cibe4r3espai
+.ciberes+1pa
+.ci4s3alpí is embedded in .ci4s3alpí
++.ci4s3alpí
+1ci is embedded in .ci4s3alpí
+.ci includes ci at pos 1
+.1ci + 1ci -> .1ci
+1sa is embedded in .ci4s3alpí
+.ci+1sa
+1pí is embedded in .ci4s3alpí
+.cisalpí includes pí at pos 6
+.ci4s3alpí + 1pí -> .ci4s3al1pí
+.ci4s3alpin is embedded in .ci4s3alpin
++.ci4s3alpin
+1ci is embedded in .ci4s3alpin
+.ci includes ci at pos 1
+.1ci + 1ci -> .1ci
+1sa is embedded in .ci4s3alpin
+.cisa includes sa at pos 3
+.ci1sa + 1sa -> .ci1sa
+3pi is embedded in .ci4s3alpin
+.cisal+3pi
 .ca4p3iampl is embedded in .ca4p3iampl
 +.ca4p3iampl
 1ca is embedded in .ca4p3iampl
@@ -5467,7 +5558,8 @@ i1a is embedded in .ca4p3iampl
 .ce4l3obert is embedded in .ce4l3obert
 +.ce4l3obert
 1ce is embedded in .ce4l3obert
-.+1ce
+.ce includes ce at pos 1
+.1ce + 1ce -> .1ce
 1lo is embedded in .ce4l3obert
 .ce+1lo
 1be is embedded in .ce4l3obert
@@ -5478,7 +5570,8 @@ i1a is embedded in .ca4p3iampl
 .ce includes ce at pos 1
 .1ce + 1ce -> .1ce
 1te is embedded in .cen4t3engran
-.cen+1te
+.cente includes te at pos 4
+.cen1te + 1te -> .cen1te
 1g2ra is embedded in .cen4t3engran
 .centen+1g2ra
 1ra is embedded in .cen4t3engran
@@ -7945,6 +8038,15 @@ i1o is embedded in .hi3osc
 u1a is embedded in .hu3axt
 .hua includes ua at pos 2
 .hu2a + u1a -> .hu2a
+1ho is embedded in ho1llywo4od
+ho includes ho at pos 0
+1ho + 1ho -> 1ho
+ho1llywo4od is embedded in ho1llywo4od
++ho1llywo4od
+1wo is embedded in ho1llywo4od
+holly+1wo
+o1o is embedded in ho1llywo4od
+hollyw+o1o
 .i2ó is embedded in .i3ó.
 .ió includes .ió at pos 0
 .i2ó + .i2ó -> .i2ó
@@ -9574,6 +9676,13 @@ reun+i1o
 .+1ru
 1he is embedded in .ru3t4her
 .rut+1he
+.ru4r1urb is embedded in .ru4r1urb
++.ru4r1urb
+1ru is embedded in .ru4r1urb
+.ru includes ru at pos 1
+.1ru + 1ru -> .1ru
+1ru is embedded in .ru4r1urb
+.ru+1ru
 .r4wand is embedded in .r4wand
 +.r4wand
 1wa is embedded in .r4wand
@@ -10447,12 +10556,6 @@ o1ï is embedded in .triqui3uroïdeus
 u1í is embedded in .u3ís.
 .uí includes uí at pos 1
 .u2í + u1í -> .u2í
-1utilitz is embedded in 1utilitz
-+1utilitz
-1ti is embedded in 1utilitz
-u+1ti
-1li is embedded in 1utilitz
-uti+1li
 .vol4t3amper is embedded in .vol4t3amper
 +.vol4t3amper
 1vo is embedded in .vol4t3amper
@@ -10489,6 +10592,176 @@ uti+1li
 .withe+1ri
 1b4w is embedded in 1b4w
 +1b4w
+1impressor is embedded in 1impressor
++1impressor
+1p2re is embedded in 1impressor
+im+1p2re
+1re is embedded in 1impressor
+impre includes re at pos 3
+im1p2re + 1re -> im1p2re
+1so is embedded in 1impressor
+impres+1so
+1impressi is embedded in 1impressi
++1impressi
+1p2re is embedded in 1impressi
+impre includes pre at pos 2
+im1p2re + 1p2re -> im1p2re
+1re is embedded in 1impressi
+impre includes re at pos 3
+im1p2re + 1re -> im1p2re
+1si is embedded in 1impressi
+impressi includes si at pos 6
+1impressi + 1si -> 1impres1si
+1imprim is embedded in 1imprim
++1imprim
+1p2ri is embedded in 1imprim
+im+1p2ri
+1ri is embedded in 1imprim
+impri includes ri at pos 3
+im1p2ri + 1ri -> im1p2ri
+1incompatib is embedded in 1incompatib
++1incompatib
+1co is embedded in 1incompatib
+in+1co
+1pa is embedded in 1incompatib
+incom+1pa
+1ti is embedded in 1incompatib
+incompa+1ti
+1industrial is embedded in 1industrial
++1industrial
+3du is embedded in 1industrial
+in+3du
+1t2ri is embedded in 1industrial
+indus+1t2ri
+1ri is embedded in 1industrial
+industri includes ri at pos 6
+indus1t2ri + 1ri -> indus1t2ri
+i1a is embedded in 1industrial
+industr+i1a
+1indústri is embedded in 1indústri
++1indústri
+1dú is embedded in 1indústri
+in+1dú
+1t2ri is embedded in 1indústri
+indústri includes tri at pos 5
+1indústri + 1t2ri -> 1indús1t2ri
+1ri is embedded in 1indústri
+indústri includes ri at pos 6
+1indús1t2ri + 1ri -> 1indús1t2ri
+1informa is embedded in 1informa
++1informa
+1fo is embedded in 1informa
+in+1fo
+1ma is embedded in 1informa
+informa includes ma at pos 5
+1informa + 1ma -> 1infor1ma
+1informe is embedded in 1informe
++1informe
+1fo is embedded in 1informe
+info includes fo at pos 2
+in1fo + 1fo -> in1fo
+1me is embedded in 1informe
+informe includes me at pos 5
+1informe + 1me -> 1infor1me
+1informi is embedded in 1informi
++1informi
+1fo is embedded in 1informi
+info includes fo at pos 2
+in1fo + 1fo -> in1fo
+1mi is embedded in 1informi
+informi includes mi at pos 5
+1informi + 1mi -> 1infor1mi
+1informà is embedded in 1informà
++1informà
+1fo is embedded in 1informà
+info includes fo at pos 2
+in1fo + 1fo -> in1fo
+1mà is embedded in 1informà
+informà includes mà at pos 5
+1informà + 1mà -> 1infor1mà
+1informé is embedded in 1informé
++1informé
+1fo is embedded in 1informé
+info includes fo at pos 2
+in1fo + 1fo -> in1fo
+1mé is embedded in 1informé
+informé includes mé at pos 5
+1informé + 1mé -> 1infor1mé
+1inscripci is embedded in 1inscripci
++1inscripci
+1c2ri is embedded in 1inscripci
+ins+1c2ri
+1ri is embedded in 1inscripci
+inscri includes ri at pos 4
+ins1c2ri + 1ri -> ins1c2ri
+1ci is embedded in 1inscripci
+inscripci includes ci at pos 7
+1inscripci + 1ci -> 1inscrip1ci
+1inscriu is embedded in 1inscriu
++1inscriu
+1c2ri is embedded in 1inscriu
+inscri includes cri at pos 3
+ins1c2ri + 1c2ri -> ins1c2ri
+1ri is embedded in 1inscriu
+inscri includes ri at pos 4
+ins1c2ri + 1ri -> ins1c2ri
+1interpret is embedded in 1interpret
++1interpret
+1te is embedded in 1interpret
+in+1te
+1p2re is embedded in 1interpret
+inter+1p2re
+1re is embedded in 1interpret
+interpre includes re at pos 6
+inter1p2re + 1re -> inter1p2re
+1urbà is embedded in 1urbà
++1urbà
+1bà is embedded in 1urbà
+urbà includes bà at pos 2
+1urbà + 1bà -> 1ur1bà
+1urban is embedded in 1urban
++1urban
+1ba is embedded in 1urban
+ur+1ba
+1usuari is embedded in 1usuari
++1usuari
+1su is embedded in 1usuari
+u+1su
+u1a is embedded in 1usuari
+us+u1a
+1ri is embedded in 1usuari
+usuari includes ri at pos 4
+1usuari + 1ri -> 1usua1ri
+1usuàri is embedded in 1usuàri
++1usuàri
+1su is embedded in 1usuàri
+usu includes su at pos 1
+u1su + 1su -> u1su
+u1à is embedded in 1usuàri
+us+u1à
+1ri is embedded in 1usuàri
+usuàri includes ri at pos 4
+1usuàri + 1ri -> 1usuà1ri
+1uterin is embedded in 1uterin
++1uterin
+1te is embedded in 1uterin
+u+1te
+1ri is embedded in 1uterin
+ute+1ri
+1uterí is embedded in 1uterí
++1uterí
+1te is embedded in 1uterí
+ute includes te at pos 1
+u1te + 1te -> u1te
+1rí is embedded in 1uterí
+uterí includes rí at pos 3
+1uterí + 1rí -> 1ute1rí
+1utilitz is embedded in 1utilitz
++1utilitz
+1ti is embedded in 1utilitz
+u+1ti
+1li is embedded in 1utilitz
+uti+1li
 .a4equo. is embedded in .a4equo.
 +.a4equo.
 a1e is embedded in .a4equo.

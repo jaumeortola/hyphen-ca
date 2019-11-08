@@ -2302,7 +2302,7 @@ agroalimentari a_gro_a_li_men_ta_ri --> a_gro_a_li_men_ta_ri a_gro_a_li_men_ta_r
 agrobacteri --> a_gro_bac_te_ri a_gro_bac_te_ri
 agroenergètica a_gro_e_ner_gè_ti_ca --> a_gro_e_ner_gè_ti_ca a_gro_e_ner_gè_ti_ca
 agrogeologia a_gro_ge_o_lo_gi_a --> a_gro_ge_o_lo_gi_a a_gro_ge_o_lo_gi_a
-agroindústria a_gro_in_dús_tri_a --> a_groin_dús_tri_a a_groin_dús_tri_a
+agroindústria a_gro_in_dús_tri_a --> a_groin_dús_tri_a a_gro_in_dús_tri_a
 agrologia a_gro_lo_gi_a --> a_gro_lo_gi_a a_gro_lo_gi_a
 agroner --> a_gro_ner a_gro_ner
 agronometria a_gro_no_me_tri_a --> a_gro_no_me_tri_a a_gro_no_me_tri_a
@@ -10313,7 +10313,7 @@ biforme --> bi_for_me bi_for_me
 bifosfat --> bi_fos_fat bi_fos_fat
 bifosfit --> bi_fos_fit bi_fos_fit
 bifront --> bi_front bi_front
-biftalat --> bif_ta_lat bifta_lat
+biftalat --> bif_ta_lat bi_fta_lat
 bifurcació bi_fur_ca_ci_ó --> bi_fur_ca_ci_ó bi_fur_ca_ci_ó
 bifurcat --> bi_fur_cat bi_fur_cat
 bifàsic --> bi_fà_sic bi_fà_sic
@@ -12367,7 +12367,7 @@ buscallada --> bus_ca_lla_da bus_ca_lla_da
 buscallam --> bus_ca_llam bus_ca_llam
 buscallar --> bus_ca_llar bus_ca_llar
 buscar --> bus_car bus_car
-buscausuaris bus_ca_u_su_a_ris --> bus_cau_su_a_ris bus_cau_su_a_ris
+buscausuaris bus_ca_u_su_a_ris --> bus_cau_su_a_ris bus_ca_u_su_a_ris
 busqueta --> bus_que_ta bus_que_ta
 busseig bus_seig --> bus_seig bus_seig
 bussejador --> bus_se_ja_dor bus_se_ja_dor
@@ -13730,7 +13730,7 @@ caperull --> ca_pe_rull ca_pe_rull
 caperulla --> ca_pe_ru_lla ca_pe_ru_lla
 caperutxa --> ca_pe_rut_xa ca_pe_rut_xa
 caperó --> ca_pe_ró ca_pe_ró
-capesflorat cap_es_flo_rat --> ca_pes_flo_rat ca_pes_flo_rat
+capesflorat cap_es_flo_rat --> ca_pes_flo_rat cap_es_flo_rat
 capet --> ca_pet ca_pet
 capeta --> ca_pe_ta ca_pe_ta
 capetià ca_pe_ti_à --> ca_pe_ti_à ca_pe_ti_à
@@ -13755,7 +13755,7 @@ capgiró --> cap_gi_ró cap_gi_ró
 capgròs --> cap_gròs cap_gròs
 caphuitada cap_hui_ta_da --> cap_hui_ta_da cap_hui_ta_da
 capialt cap_i_alt --> ca_pi_alt cap_i_alt
-capialçat cap_i_al_çat --> ca_pi_al_çat ca_pi_al_çat
+capialçat cap_i_al_çat --> ca_pi_al_çat cap_i_al_çat
 capiample cap_i_am_ple --> ca_pi_am_ple cap_i_am_ple
 capibara --> ca_pi_ba_ra ca_pi_ba_ra
 capicausa cap_i_cau_sa --> ca_pi_cau_sa cap_i_cau_sa
@@ -13770,7 +13770,7 @@ capil·larímetre --> ca_pil_la_rí_me_tre ca_pil_la_rí_me_tre
 capil·lera --> ca_pil_le_ra ca_pil_le_ra
 capil·lici --> ca_pil_li_ci ca_pil_li_ci
 capimoca cap_i_mo_ca --> ca_pi_mo_ca cap_i_mo_ca
-capipota cap_i_po_ta --> ca_pi_po_ta ca_pi_po_ta
+capipota cap_i_po_ta --> ca_pi_po_ta cap_i_po_ta
 capir --> ca_pir ca_pir
 capironat --> ca_pi_ro_nat ca_pi_ro_nat
 capirot --> ca_pi_rot ca_pi_rot
@@ -15257,7 +15257,7 @@ centenari --> cen_te_na_ri cen_te_na_ri
 centener --> cen_te_ner cen_te_ner
 centengrana cent_en_gra_na --> cen_ten_gra_na cent_en_gra_na
 centenni --> cen_ten_ni cen_ten_ni
-centenrama cent_en_ra_ma --> cen_ten_ra_ma cen_ten_ra_ma
+centenrama cent_en_ra_ma --> cen_ten_ra_ma cent_en_ra_ma
 centesimal --> cen_te_si_mal cen_te_si_mal
 centi- --> cen_ti_ cen_ti_
 centil --> cen_til cen_til
@@ -15599,7 +15599,7 @@ ciatiforme ci_a_ti_for_me --> ci_a_ti_for_me ci_a_ti_for_me
 ciatozooide ci_a_to_zo_oi_de --> ci_a_to_zo_oi_de ci_a_to_zo_oi_de
 ciavoga ci_a_vo_ga --> ci_a_vo_ga ci_a_vo_ga
 ciavogar ci_a_vo_gar --> ci_a_vo_gar ci_a_vo_gar
-ciberespai ci_ber_es_pai --> ci_be_res_pai ci_be_res_pai
+ciberespai ci_ber_es_pai --> ci_be_res_pai ci_ber_es_pai
 cibernauta ci_ber_nau_ta --> ci_ber_nau_ta ci_ber_nau_ta
 cibernètic --> ci_ber_nè_tic ci_ber_nè_tic
 cicadofilicals --> ci_ca_do_fi_li_cals ci_ca_do_fi_li_cals
@@ -15966,7 +15966,7 @@ cisalla --> ci_sa_lla ci_sa_lla
 cisallament --> ci_sa_lla_ment ci_sa_lla_ment
 cisallar --> ci_sa_llar ci_sa_llar
 cisallatge --> ci_sa_llat_ge ci_sa_llat_ge
-cisalpí cis_al_pí --> ci_sal_pí ci_sal_pí
+cisalpí cis_al_pí --> ci_sal_pí cis_al_pí
 cisar --> ci_sar ci_sar
 cisell --> ci_sell ci_sell
 cisellada --> ci_se_lla_da ci_se_lla_da
@@ -20221,10 +20221,10 @@ crònicament --> crò_ni_ca_ment crò_ni_ca_ment
 cròtal --> crò_tal crò_tal
 cròton --> crò_ton crò_ton
 crúor crú_or --> crú_or crú_or
-cteno- --> c_te_no_ c_te_no_
-ctenoide cte_noi_de --> c_te_noi_de c_te_noi_de
-ctenòfors --> c_te_nò_fors c_te_nò_fors
-ctònic --> c_tò_nic c_tò_nic
+cteno- --> c_te_no_ cte_no_
+ctenoide cte_noi_de --> c_te_noi_de cte_noi_de
+ctenòfors --> c_te_nò_fors cte_nò_fors
+ctònic --> c_tò_nic ctò_nic
 cu --> cu cu
 cua cu_a --> cu_a cu_a
 cua-rogenc cu_a_ro_genc --> cu_a_ro_genc cu_a_ro_genc
@@ -31557,7 +31557,7 @@ esquizotímic --> es_qui_zo_tí_mic es_qui_zo_tí_mic
 esquizòfits --> es_qui_zò_fits es_qui_zò_fits
 esquàlids --> es_quà_lids es_quà_lids
 esquí --> es_quí es_quí
-esquí-pneumàtic es_quí_pneu_mà_tic --> es_quí_p_neu_mà_tic es_quí_p_neu_mà_tic
+esquí-pneumàtic es_quí_pneu_mà_tic --> es_quí_p_neu_mà_tic es_quí_pneu_mà_tic
 esquímid --> es_quí_mid es_quí_mid
 esquírria es_quír_ri_a --> es_quír_ri_a es_quír_ri_a
 esquívol --> es_quí_vol es_quí_vol
@@ -33231,7 +33231,7 @@ extraterritorial ex_tra_ter_ri_to_ri_al --> ex_tra_ter_ri_to_ri_al ex_tra_ter_ri
 extraterritorialitat ex_tra_ter_ri_to_ri_a_li_tat --> ex_tra_ter_ri_to_ri_a_li_tat ex_tra_ter_ri_to_ri_a_li_tat
 extratropical --> ex_tra_tro_pi_cal ex_tra_tro_pi_cal
 extraure ex_trau_re --> ex_trau_re ex_trau_re
-extrauterí ex_tra_u_te_rí --> ex_trau_te_rí ex_trau_te_rí
+extrauterí ex_tra_u_te_rí --> ex_trau_te_rí ex_tra_u_te_rí
 extravagant --> ex_tra_va_gant ex_tra_va_gant
 extravagar --> ex_tra_va_gar ex_tra_va_gar
 extravagància ex_tra_va_gàn_ci_a --> ex_tra_va_gàn_ci_a ex_tra_va_gàn_ci_a
@@ -35601,8 +35601,8 @@ fotogràfic --> fo_to_grà_fic fo_to_grà_fic
 fotogràficament --> fo_to_grà_fi_ca_ment fo_to_grà_fi_ca_ment
 fotogènia fo_to_gè_ni_a --> fo_to_gè_ni_a fo_to_gè_ni_a
 fotogènic --> fo_to_gè_nic fo_to_gè_nic
-fotoimpressor fo_to_im_pres_sor --> fo_toim_pres_sor fo_toim_pres_sor
-fotointerpretació fo_to_in_ter_pre_ta_ci_ó --> fo_toin_ter_pre_ta_ci_ó fo_toin_ter_pre_ta_ci_ó
+fotoimpressor fo_to_im_pres_sor --> fo_toim_pres_sor fo_to_im_pres_sor
+fotointerpretació fo_to_in_ter_pre_ta_ci_ó --> fo_toin_ter_pre_ta_ci_ó fo_to_in_ter_pre_ta_ci_ó
 fotoionització fo_to_i_o_nit_za_ci_ó --> fo_to_io_nit_za_ci_ó fo_to_i_o_nit_za_ci_ó
 fotolit --> fo_to_lit fo_to_lit
 fotolitografia fo_to_li_to_gra_fi_a --> fo_to_li_to_gra_fi_a fo_to_li_to_gra_fi_a
@@ -39662,7 +39662,7 @@ hidrogenació hi_dro_ge_na_ci_ó --> hi_dro_ge_na_ci_ó hi_dro_ge_na_ci_ó
 hidrogenar --> hi_dro_ge_nar hi_dro_ge_nar
 hidrogenat --> hi_dro_ge_nat hi_dro_ge_nat
 hidrogendiòxid hi_dro_gen_di_ò_xid --> hi_dro_gen_di_ò_xid hi_dro_gen_di_ò_xid
-hidrogenftalat hi_dro_gen_fta_lat --> hi_dro_genf_ta_lat hi_dro_genfta_lat
+hidrogenftalat hi_dro_gen_fta_lat --> hi_dro_genf_ta_lat hi_dro_gen_fta_lat
 hidrogenoide hi_dro_ge_noi_de --> hi_dro_ge_noi_de hi_dro_ge_noi_de
 hidrogenomona --> hi_dro_ge_no_mo_na hi_dro_ge_no_mo_na
 hidrogenòlisi --> hi_dro_ge_nò_li_si hi_dro_ge_nò_li_si
@@ -40129,7 +40129,7 @@ histograma --> his_to_gra_ma his_to_gra_ma
 histogènesi --> his_to_gè_ne_si his_to_gè_ne_si
 histogènia his_to_gè_ni_a --> his_to_gè_ni_a his_to_gè_ni_a
 histoide his_toi_de --> his_toi_de his_toi_de
-histoincompatibilitat his_to_in_com_pa_ti_bi_li_tat --> his_toin_com_pa_ti_bi_li_tat his_toin_com_pa_ti_bi_li_tat
+histoincompatibilitat his_to_in_com_pa_ti_bi_li_tat --> his_toin_com_pa_ti_bi_li_tat his_to_in_com_pa_ti_bi_li_tat
 histologia his_to_lo_gi_a --> his_to_lo_gi_a his_to_lo_gi_a
 histolític --> his_to_lí_tic his_to_lí_tic
 histològic --> his_to_lò_gic his_to_lò_gic
@@ -40170,6 +40170,7 @@ hitchcock hitch_cock --> hit_ch_cock hitch_cock
 hitchcockià hitch_coc_ki_à --> hit_ch_coc_ki_à hitch_coc_ki_à
 hitita --> hi_ti_ta hi_ti_ta
 hitlerià hit_le_ri_à --> hit_le_ri_à hit_le_ri_à
+hitler hit_ler --> hit_ler hit_ler
 hivern --> hi_vern hi_vern
 hivernacle --> hi_ver_na_cle hi_ver_na_cle
 hivernada --> hi_ver_na_da hi_ver_na_da
@@ -40189,7 +40190,9 @@ hola --> ho_la ho_la
 holanda --> ho_lan_da ho_lan_da
 holandeta --> ho_lan_de_ta ho_lan_de_ta
 holandès --> ho_lan_dès ho_lan_dès
-hollywoodià ho_lly_woo_di_à --> holly_wo_o_di_à holly_wo_o_di_à
+hollywood ho_lly_wood --> holly_wo_od ho_lly_wood
+hollywoodianes ho_lly_woo_di_a_nes --> holly_wo_o_di_a_nes ho_lly_woo_di_a_nes
+hollywoodià ho_lly_woo_di_à --> holly_wo_o_di_à ho_lly_woo_di_à
 holmi --> hol_mi hol_mi
 holo- --> ho_lo_ ho_lo_
 holoaxial ho_lo_a_xi_al --> ho_lo_a_xi_al ho_lo_a_xi_al
@@ -56292,7 +56295,7 @@ peritonisme --> pe_ri_to_nis_me pe_ri_to_nis_me
 peritonitis --> pe_ri_to_ni_tis pe_ri_to_ni_tis
 peritonització pe_ri_to_nit_za_ci_ó --> pe_ri_to_nit_za_ci_ó pe_ri_to_nit_za_ci_ó
 peritèctic --> pe_ri_tèc_tic pe_ri_tèc_tic
-periurbà pe_ri_ur_bà --> pe_riur_bà pe_riur_bà
+periurbà pe_ri_ur_bà --> pe_riur_bà pe_ri_ur_bà
 perizoni --> pe_ri_zo_ni pe_ri_zo_ni
 periàntic pe_ri_àn_tic --> pe_ri_àn_tic pe_ri_àn_tic
 periàpside pe_ri_àp_si_de --> pe_ri_àp_si_de pe_ri_àp_si_de
@@ -59192,8 +59195,10 @@ prehistòria pre_his_tò_ri_a --> pre_his_tò_ri_a pre_his_tò_ri_a
 prehistòric --> pre_his_tò_ric pre_his_tò_ric
 prehnita --> preh_ni_ta preh_ni_ta
 prehomínids --> pre_ho_mí_nids pre_ho_mí_nids
-preindustrial pre_in_dus_tri_al --> prein_dus_tri_al prein_dus_tri_al
-preinscripció pre_ins_crip_ci_ó --> preins_crip_ci_ó preins_crip_ci_ó
+preimpressió pre_im_pres_si_ó --> preim_pres_si_ó pre_im_pres_si_ó
+preimprimir pre_im_pri_mir --> preim_pri_mir pre_im_pri_mir
+preindustrial pre_in_dus_tri_al --> prein_dus_tri_al pre_in_dus_tri_al
+preinscripció pre_ins_crip_ci_ó --> preins_crip_ci_ó pre_ins_crip_ci_ó
 preixanenc prei_xa_nenc --> prei_xa_nenc prei_xa_nenc
 preixenaire prei_xe_nai_re --> prei_xe_nai_re prei_xe_nai_re
 prejubilació pre_ju_bi_la_ci_ó --> pre_ju_bi_la_ci_ó pre_ju_bi_la_ci_ó
@@ -60617,7 +60622,7 @@ publicitari --> pu_bli_ci_ta_ri pu_bli_ci_ta_ri
 publicitat --> pu_bli_ci_tat pu_bli_ci_tat
 publicà --> pu_bli_cà pu_bli_cà
 publificació pu_bli_fi_ca_ci_ó --> pu_bli_fi_ca_ci_ó pu_bli_fi_ca_ci_ó
-publiinformació pu_bli_in_for_ma_ci_ó --> pu_bliin_for_ma_ci_ó pu_bliin_for_ma_ci_ó
+publiinformació pu_bli_in_for_ma_ci_ó --> pu_bliin_for_ma_ci_ó pu_bli_in_for_ma_ci_ó
 pubèrul --> pu_bè_rul pu_bè_rul
 pucer --> pu_cer pu_cer
 puda --> pu_da pu_da
@@ -65256,7 +65261,7 @@ ruralia ru_ra_li_a --> ru_ra_li_a ru_ra_li_a
 ruralisme --> ru_ra_lis_me ru_ra_lis_me
 ruralista --> ru_ra_lis_ta ru_ra_lis_ta
 ruralment --> ru_ral_ment ru_ral_ment
-rururbanització rur_ur_ba_nit_za_ci_ó --> ru_rur_ba_nit_za_ci_ó ru_rur_ba_nit_za_ci_ó
+rururbanització rur_ur_ba_nit_za_ci_ó --> ru_rur_ba_nit_za_ci_ó rur_ur_ba_nit_za_ci_ó
 ruríkida --> ru_rí_ki_da ru_rí_ki_da
 rus --> rus rus
 rusca --> rus_ca rus_ca
@@ -70741,7 +70746,7 @@ terebràtula --> te_re_brà_tu_la te_re_brà_tu_la
 terebè --> te_re_bè te_re_bè
 terebèl·lids --> te_re_bèl_lids te_re_bèl_lids
 teredínids --> te_re_dí_nids te_re_dí_nids
-tereftalat --> te_ref_ta_lat te_refta_lat
+tereftalat --> te_ref_ta_lat te_re_fta_lat
 tereftàlic --> te_ref_tà_lic te_ref_tà_lic
 tereré --> te_re_ré te_re_ré
 tereseta --> te_re_se_ta te_re_se_ta
@@ -73520,7 +73525,7 @@ tur --> tur tur
 turac --> tu_rac tu_rac
 turba --> tur_ba tur_ba
 turbamulta --> tur_ba_mul_ta tur_ba_mul_ta
-turbant --> tur_bant tur_bant
+turbant --> tur_bant t_ur_bant
 turbel·laris --> tur_bel_la_ris tur_bel_la_ris
 turbidimetria tur_bi_di_me_tri_a --> tur_bi_di_me_tri_a tur_bi_di_me_tri_a
 turbidita --> tur_bi_di_ta tur_bi_di_ta
