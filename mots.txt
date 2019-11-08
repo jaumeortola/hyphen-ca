@@ -12,6 +12,8 @@
 #majúscul
 #minúscul
 #múscul
+#nord-oest nord-o_est
+#nord-oest nord-oest
 #pairàs pai_ràs
 #periòdic per_iò_dic
 #pius pi_us
@@ -4371,7 +4373,6 @@ anamniota an_am_ni_o_ta
 anamorfoscopi
 anamorfosi
 anamòrfic
-ananabàsia a_na_na_bà_si_a
 ananabàsia an_a_na_bà_si_a
 ananastàsia an_a_nas_tà_si_a
 anancàstia a_nan_càs_ti_a
@@ -39688,7 +39689,6 @@ hidrogenoide hi_dro_ge_noi_de
 hidrogenomona
 hidrogenòlisi
 hidrogeologia hi_dro_ge_o_lo_gi_a
-hidrognòsia hi_dro_gnò_si_a
 hidrognòsia hi_drog_nò_si_a
 hidrografia hi_dro_gra_fi_a
 hidrogrossulària hi_dro_gros_su_là_ri_a
@@ -46695,7 +46695,6 @@ malaurança mal_au_ran_ça
 malaurat mal_au_rat
 malaveig ma_la_veig
 malavejar ma_la_ve_jar
-malavejar mal_a_ve_jar
 malaventura mal_a_ven_tu_ra
 malaventuradament mal_a_ven_tu_ra_da_ment
 malaventurat mal_a_ven_tu_rat
@@ -51957,8 +51956,6 @@ nord-atlàntid
 nord-est
 nord-estejar nord-es_te_jar
 nord-mongòlic
-nord-oest nord-o_est
-nord-oest nord-oest
 nord-oestejar nord-o_es_te_jar
 nord-pacífid
 nordejar
@@ -52779,7 +52776,6 @@ oidà oi_dà
 oient o_ient
 oimés oi_més
 oint
-oint oint
 oioi oi_oi
 oiosament o_io_sa_ment
 oir o_ir
@@ -68765,7 +68761,6 @@ suberificació su_be_ri_fi_ca_ci_ó
 suberificar
 suberina
 suberització su_be_rit_za_ci_ó
-suberització sub_e_rit_za_ci_ó
 suberitzar
 suberona
 suberosi
@@ -71133,7 +71128,6 @@ tetrahidrofuran
 tetrahidrofòlic
 tetrahidronaftalè
 tetraiodofenolftaleïna te_tra_io_do_fe_nol_fta_le_ï_na
-tetraiodofenolftaleïna te_tra_io_do_fe_nolf_ta_le_ï_na
 tetralina
 tetralita
 tetralogia te_tra_lo_gi_a

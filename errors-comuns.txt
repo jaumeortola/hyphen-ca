@@ -2,6 +2,9 @@ biftalat --> bif_ta_lat bi_fta_lat
 cteno- --> c_te_no_ cte_no_
 ctenòfors --> c_te_nò_fors cte_nò_fors
 ctònic --> c_tò_nic ctò_nic
+cul-de-sac --> cul_de__sac cul_de_sac
+io-io --> io_i_o io_io
+qui-sap-lo --> qui_sap__lo qui_sap_lo
 tereftalat --> te_ref_ta_lat te_re_fta_lat
 turbant --> tur_bant t_ur_bant
 vladic --> v_la_dic vla_dic

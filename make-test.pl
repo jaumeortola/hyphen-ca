@@ -46,6 +46,7 @@ while (my $line=<STDIN>) {
 		$hcword =~ s/·//g;
 		$hcword =~ s/--/-/;
 		$hcword =~ s/-/_/g;
+		$hcword =~ s/__/_/g;
 
 		
 		if ($wordCorrectHyphen=~ /.+/) {

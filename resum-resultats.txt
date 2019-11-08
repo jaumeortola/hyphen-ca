@@ -1,9 +1,9 @@
-Total=77011
-Excepcions=26367
-Excepcions correctes=24069
-Excepcions errors=2298
-Excepcions correctes (nou)=26321
-Excepcions errors (nou)=46
+Total=77003
+Excepcions=26359
+Excepcions correctes=24066
+Excepcions errors=2293
+Excepcions correctes (nou)=26343
+Excepcions errors (nou)=16
 Comuns=50644
-Comuns correctes=50637
-Comuns errors=7
+Comuns correctes=50634
+Comuns errors=10
