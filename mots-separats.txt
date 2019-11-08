@@ -1232,7 +1232,6 @@ acutangular --> a_cu_tan_gu_lar a_cu_tan_gu_lar
 acuti- --> a_cu_ti_ a_cu_ti_
 acutifoli --> a_cu_ti_fo_li a_cu_ti_fo_li
 acutirostre --> a_cu_ti_ros_tre a_cu_ti_ros_tre
-acutiúscul a_cu_ti_ús_cul --> a_cu_ti_ús_cul a_cu_ti_úscul
 acutiúscul a_cu_ti_úscul --> a_cu_ti_ús_cul a_cu_ti_úscul
 acutorsió a_cu_tor_si_ó --> a_cu_tor_si_ó a_cu_tor_si_ó
 acuïtat a_cu_ï_tat --> a_cu_ï_tat a_cu_ï_tat
@@ -4238,7 +4237,6 @@ anabaptista --> a_na_bap_tis_ta a_na_bap_tis_ta
 anabasina --> a_na_ba_si_na a_na_ba_si_na
 anabena --> a_na_be_na a_na_be_na
 anabiosi an_a_bi_o_si --> a_na_bi_o_si an_a_bi_o_si
-anabiòtic a_na_bi_ò_tic --> a_na_bi_ò_tic an_a_bi_ò_tic
 anabiòtic an_a_bi_ò_tic --> a_na_bi_ò_tic an_a_bi_ò_tic
 anableps --> a_na_bleps a_na_bleps
 anabolisme --> a_na_bo_lis_me a_na_bo_lis_me
@@ -39034,7 +39032,7 @@ hegemonia he_ge_mo_ni_a --> he_ge_mo_ni_a he_ge_mo_ni_a
 hegemònic --> he_ge_mò_nic he_ge_mò_nic
 hegumen --> he_gu_men he_gu_men
 heideggerià hei_deg_ge_ri_à --> hei_deg_ge_ri_à hei_deg_ge_ri_à
-heixvan he_ix_van --> heix_van heix_van
+heixvan he_ix_van --> heix_van he_ix_van
 helco- --> hel_co_ hel_co_
 helenina --> he_le_ni_na he_le_ni_na
 heli --> he_li he_li
@@ -47388,7 +47386,7 @@ marguera --> mar_gue_ra mar_gue_ra
 marguiller --> mar_gui_ller mar_gui_ller
 margàric --> mar_gà_ric mar_gà_ric
 margós --> mar_gós mar_gós
-marheixvan mar_he_ix_van --> mar_heix_van mar_heix_van
+marheixvan mar_he_ix_van --> mar_heix_van mar_he_ix_van
 maria ma_ri_a --> ma_ri_a ma_ri_a
 marial ma_ri_al --> ma_ri_al ma_ri_al
 marialluïsa ma_ri_a_llu_ï_sa --> ma_ri_a_llu_ï_sa ma_ri_a_llu_ï_sa

@@ -1250,7 +1250,7 @@ acutangular
 acuti-
 acutifoli
 acutirostre
-acutiúscul a_cu_ti_ús_cul
+#acutiúscul a_cu_ti_ús_cul
 acutiúscul a_cu_ti_úscul
 acutorsió a_cu_tor_si_ó
 acuïtat a_cu_ï_tat
@@ -4256,7 +4256,6 @@ anabaptista
 anabasina
 anabena
 anabiosi an_a_bi_o_si
-anabiòtic a_na_bi_ò_tic
 anabiòtic an_a_bi_ò_tic
 anableps
 anabolisme

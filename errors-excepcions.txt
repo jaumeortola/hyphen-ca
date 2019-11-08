@@ -1,7 +1,4 @@
-acutiúscul a_cu_ti_ús_cul --> a_cu_ti_ús_cul a_cu_ti_úscul
-anabiòtic a_na_bi_ò_tic --> a_na_bi_ò_tic an_a_bi_ò_tic
 ananabàsia a_na_na_bà_si_a --> a_na_na_bà_si_a an_a_na_bà_si_a
-heixvan he_ix_van --> heix_van heix_van
 hidrognòsia hi_dro_gnò_si_a --> hi_drog_nò_si_a hi_drog_nò_si_a
 hipericàcies hi_pe_ri_cà_ci_es --> hi_pe_ri_cà_ci_es hi_per_i_cà_ci_es
 hiperonímia hi_pe_ro_ní_mi_a --> hi_pe_ro_ní_mi_a hi_per_o_ní_mi_a
@@ -16,7 +13,6 @@ loel·lingita loel_lin_gi_ta --> lo_el_lin_gi_ta lo_el_lin_gi_ta
 malavejar mal_a_ve_jar --> ma_la_ve_jar ma_la_ve_jar
 malespàrrec mal_es_pàr_rec --> ma_les_pàr_rec ma_les_pàr_rec
 maloclusió mal_o_clu_si_ó --> ma_lo_clu_si_ó ma_lo_clu_si_ó
-marheixvan mar_he_ix_van --> mar_heix_van mar_heix_van
 meitneri me_it_ne_ri --> meit_ne_ri meit_ne_ri
 mesclantaigües mes_clant_ai_gües --> mes_clan_tai_gües mes_clan_tai_gües
 montagutenc mont_a_gu_tenc --> mon_ta_gu_tenc mon_ta_gu_tenc
