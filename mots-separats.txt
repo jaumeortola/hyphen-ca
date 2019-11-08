@@ -10309,7 +10309,7 @@ biforme --> bi_for_me bi_for_me
 bifosfat --> bi_fos_fat bi_fos_fat
 bifosfit --> bi_fos_fit bi_fos_fit
 bifront --> bi_front bi_front
-biftalat --> bif_ta_lat bi_fta_lat
+biftalat bi_fta_lat --> bif_ta_lat bi_fta_lat
 bifurcació bi_fur_ca_ci_ó --> bi_fur_ca_ci_ó bi_fur_ca_ci_ó
 bifurcat --> bi_fur_cat bi_fur_cat
 bifàsic --> bi_fà_sic bi_fà_sic
@@ -20216,10 +20216,10 @@ crònicament --> crò_ni_ca_ment crò_ni_ca_ment
 cròtal --> crò_tal crò_tal
 cròton --> crò_ton crò_ton
 crúor crú_or --> crú_or crú_or
-cteno- --> c_te_no_ cte_no_
+cteno- cte_no_ --> c_te_no_ cte_no_
 ctenoide cte_noi_de --> c_te_noi_de cte_noi_de
-ctenòfors --> c_te_nò_fors cte_nò_fors
-ctònic --> c_tò_nic ctò_nic
+ctenòfors cte_nò_fors --> c_te_nò_fors cte_nò_fors
+ctònic ctò_nic --> c_tò_nic ctò_nic
 cu --> cu cu
 cua cu_a --> cu_a cu_a
 cua-rogenc cu_a_ro_genc --> cu_a_ro_genc cu_a_ro_genc
@@ -20355,7 +20355,7 @@ cuixot cui_xot --> cui_xot cui_xot
 cuixé cui_xé --> cui_xé cui_xé
 cuixític cui_xí_tic --> cui_xí_tic cui_xí_tic
 cul --> cul cul
-cul-de-sac --> cul_de__sac cul_de_sac
+cul-de-sac cul_de_sac --> cul_de__sac cul_de_sac
 culada --> cu_la_da cu_la_da
 cular --> cu_lar cu_lar
 culassa --> cu_las_sa cu_las_sa
@@ -39886,7 +39886,7 @@ hiperglucemiant hi_per_glu_ce_mi_ant --> hi_per_glu_ce_mi_ant hi_per_glu_ce_mi_a
 hiperglucèmia hi_per_glu_cè_mi_a --> hi_per_glu_cè_mi_a hi_per_glu_cè_mi_a
 hipergol --> hi_per_gol hi_per_gol
 hiperhipofisisme --> hi_per_hi_po_fi_sis_me hi_per_hi_po_fi_sis_me
-hipericàcies hi_pe_ri_cà_ci_es --> hi_pe_ri_cà_ci_es hi_per_i_cà_ci_es
+hipericàcies hi_pe_ri_cà_ci_es --> hi_pe_ri_cà_ci_es hi_pe_ri_cà_ci_es
 hiperinflació hi_per_in_fla_ci_ó --> hi_pe_rin_fla_ci_ó hi_per_in_fla_ci_ó
 hiperinsulinisme hi_per_in_su_li_nis_me --> hi_pe_rin_su_li_nis_me hi_per_in_su_li_nis_me
 hiperlipoproteïnèmia hi_per_li_po_pro_te_ï_nè_mi_a --> hi_per_li_po_pro_te_ï_nè_mi_a hi_per_li_po_pro_te_ï_nè_mi_a
@@ -39900,7 +39900,7 @@ hipermorf --> hi_per_morf hi_per_morf
 hipermèdia hi_per_mè_di_a --> hi_per_mè_di_a hi_per_mè_di_a
 hipernefroma --> hi_per_ne_fro_ma hi_per_ne_fro_ma
 hipernucli --> hi_per_nu_cli hi_per_nu_cli
-hiperonímia hi_pe_ro_ní_mi_a --> hi_pe_ro_ní_mi_a hi_per_o_ní_mi_a
+hiperonímia hi_per_o_ní_mi_a --> hi_pe_ro_ní_mi_a hi_per_o_ní_mi_a
 hiperostosi hi_per_os_to_si --> hi_pe_ros_to_si hi_per_os_to_si
 hiperparatiroïdisme hi_per_pa_ra_ti_ro_ï_dis_me --> hi_per_pa_ra_ti_ro_ï_dis_me hi_per_pa_ra_ti_ro_ï_dis_me
 hiperparàsit --> hi_per_pa_rà_sit hi_per_pa_rà_sit
@@ -40172,7 +40172,7 @@ hivernal --> hi_ver_nal hi_ver_nal
 hivernant --> hi_ver_nant hi_ver_nant
 hivernar --> hi_ver_nar hi_ver_nar
 hiènids hiè_nids --> hiè_nids hiè_nids
-hiòlit hi_ò_lit --> hiò_lit hiò_lit
+hiòlit hi_ò_lit --> hiò_lit hi_ò_lit
 ho --> ho ho
 hoatzín ho_at_zín --> ho_at_zín ho_at_zín
 hodiern ho_di_ern --> ho_di_ern ho_di_ern
@@ -40451,7 +40451,7 @@ hotel --> ho_tel ho_tel
 hoteler --> ho_te_ler ho_te_ler
 hoteleria ho_te_le_ri_a --> ho_te_le_ri_a ho_te_le_ri_a
 hotentot --> ho_ten_tot ho_ten_tot
-huasteca hu_as_te_ca --> huas_te_ca huas_te_ca
+huasteca hu_as_te_ca --> huas_te_ca hu_as_te_ca
 huaxteca hu_ax_te_ca --> huax_te_ca hu_ax_te_ca
 huebnerita hueb_ne_ri_ta --> hueb_ne_ri_ta hueb_ne_ri_ta
 hugonot --> hu_go_not hu_go_not
@@ -40532,7 +40532,7 @@ hurra --> hur_ra hur_ra
 hurrita --> hur_ri_ta hur_ri_ta
 hurí --> hu_rí hu_rí
 husseinita hus_sei_ni_ta --> hus_sei_ni_ta hus_sei_ni_ta
-husseiní hus_se_i_ní --> hus_sei_ní hus_sei_ní
+husseiní hus_sei_ní --> hus_sei_ní hus_sei_ní
 hussita --> hus_si_ta hus_si_ta
 hussitisme --> hus_si_tis_me hus_si_tis_me
 hàbil --> hà_bil hà_bil
@@ -43360,7 +43360,6 @@ inòcul i_nòcul --> i_nò_cul i_nòcul
 inòpia in_ò_pi_a --> i_nò_pi_a in_ò_pi_a
 inútil in_ú_til --> i_nú_til in_ú_til
 inútilment in_ú_til_ment --> i_nú_til_ment in_ú_til_ment
-io-io --> io_i_o io_io
 io-io io_io --> io_i_o io_io
 iod iod --> iod iod
 iodació io_da_ci_ó --> io_da_ci_ó io_da_ci_ó
@@ -44241,7 +44240,7 @@ kiptxak --> kipt_xak kipt_xak
 kirieleison ki_ri_e_lei_son --> ki_ri_e_lei_son ki_ri_e_lei_son
 kirsch --> kirsch kirsch
 kiwi --> ki_wi ki_wi
-klebshormidials kleb_shor_mi_di_als --> klebs_hor_mi_di_als klebs_hor_mi_di_als
+klebshormidials kleb_shor_mi_di_als --> klebs_hor_mi_di_als kleb_shor_mi_di_als
 klebsiel·la kleb_si_el_la --> kleb_si_el_la kleb_si_el_la
 knut --> k_nut k_nut
 kolkhoz kol_khoz --> kol_khoz kol_khoz
@@ -47988,7 +47987,7 @@ meiosi me_io_si --> me_io_si me_io_si
 meitadat mei_ta_dat --> mei_ta_dat mei_ta_dat
 meitadella mei_ta_de_lla --> mei_ta_de_lla mei_ta_de_lla
 meitat mei_tat --> mei_tat mei_tat
-meitneri me_it_ne_ri --> meit_ne_ri meit_ne_ri
+meitneri meit_ne_ri --> meit_ne_ri meit_ne_ri
 meix --> meix meix
 meix meix --> meix meix
 meixa mei_xa --> mei_xa mei_xa
@@ -50023,8 +50022,8 @@ montmoril·lonita --> mont_mo_ril_lo_ni_ta mont_mo_ril_lo_ni_ta
 montoliuenc mont_o_li_uenc --> mon_to_li_uenc mont_o_li_uenc
 montoriolí mont_o_ri_o_lí --> mon_to_ri_o_lí mont_o_ri_o_lí
 montpellerí --> mont_pe_lle_rí mont_pe_lle_rí
-montroier mont_ro_ier --> mon_tro_ier mon_tro_ier
-montroià mont_ro_ià --> mon_tro_ià mon_tro_ià
+montroier mont_ro_ier --> mon_tro_ier mont_ro_ier
+montroià mont_ro_ià --> mon_tro_ià mont_ro_ià
 montroydita --> mon_troy_di_ta mon_troy_di_ta
 montserratí --> mont_ser_ra_tí mont_ser_ra_tí
 montsianenc mont_si_a_nenc --> mont_si_a_nenc mont_si_a_nenc
@@ -50878,7 +50877,7 @@ naftàlic --> naf_tà_lic naf_tà_lic
 naftè --> naf_tè naf_tè
 naftènic --> naf_tè_nic naf_tè_nic
 nagana --> na_ga_na na_ga_na
-nahua na_hua --> na_hu_a na_hu_a
+nahua na_hua --> na_hu_a na_hua
 naia na_ia --> na_ia na_ia
 naiadàcies na_ia_dà_ci_es --> na_ia_dà_ci_es na_ia_dà_ci_es
 naidomorfs nai_do_morfs --> nai_do_morfs nai_do_morfs
@@ -51570,8 +51569,7 @@ neògnats ne_òg_nats --> ne_òg_nats ne_òg_nats
 neòpters ne_òp_ters --> ne_òp_ters ne_òp_ters
 neòtrag ne_ò_trag --> ne_ò_trag ne_ò_trag
 neó ne_ó --> ne_ó ne_ó
-ngai --> n_gai n_gai
-ngai ngai --> n_gai n_gai
+ngai ngai --> n_gai ngai
 ni --> ni ni
 niacina ni_a_ci_na --> ni_a_ci_na ni_a_ci_na
 niacinamida ni_a_ci_na_mi_da --> ni_a_ci_na_mi_da ni_a_ci_na_mi_da
@@ -52749,7 +52747,7 @@ oidà oi_dà --> oi_dà oi_dà
 oient o_ient --> o_ient o_ient
 oimés oi_més --> oi_més oi_més
 oint --> o_int o_int
-oioi oi_oi --> o_ioi o_ioi
+oioi oi_oi --> o_ioi oi_oi
 oiosament o_io_sa_ment --> o_io_sa_ment o_io_sa_ment
 oir o_ir --> o_ir o_ir
 oixenc oi_xenc --> oi_xenc oi_xenc
@@ -53654,7 +53652,7 @@ oscil·lògraf --> os_cil_lò_graf os_cil_lò_graf
 oscil·lòmetre --> os_cil_lò_me_tre os_cil_lò_me_tre
 oscitació os_ci_ta_ci_ó --> os_ci_ta_ci_ó os_ci_ta_ci_ó
 oscitant --> os_ci_tant os_ci_tant
-oscoumbre os_co_um_bre --> os_coum_bre os_coum_bre
+oscoumbre os_co_um_bre --> os_coum_bre os_co_um_bre
 oscoúmbric os_co_úm_bric --> os_co_úm_bric os_co_úm_bric
 osculació os_cu_la_ci_ó --> os_cu_la_ci_ó os_cu_la_ci_ó
 osculador --> os_cu_la_dor os_cu_la_dor
@@ -58048,7 +58046,7 @@ poetisme po_e_tis_me --> po_e_tis_me po_e_tis_me
 poetització po_e_tit_za_ci_ó --> po_e_tit_za_ci_ó po_e_tit_za_ci_ó
 poetitzar po_e_tit_zar --> po_e_tit_zar po_e_tit_zar
 pogonòfors --> po_go_nò_fors po_go_nò_fors
-poinciana po_in_ci_a_na --> poin_ci_a_na poin_ci_a_na
+poinciana poin_ci_a_na --> poin_ci_a_na poin_ci_a_na
 poiquilocitosi poi_qui_lo_ci_to_si --> poi_qui_lo_ci_to_si poi_qui_lo_ci_to_si
 poiquilodermatomiïtis poi_qui_lo_der_ma_to_mi_ï_tis --> poi_qui_lo_der_ma_to_mi_ï_tis poi_qui_lo_der_ma_to_mi_ï_tis
 poiquilodèrmia poi_qui_lo_dèr_mi_a --> poi_qui_lo_dèr_mi_a poi_qui_lo_dèr_mi_a
@@ -61252,7 +61250,7 @@ quetòpode --> que_tò_po_de que_tò_po_de
 quetòpter --> que_tòp_ter que_tòp_ter
 queviures que_viu_res --> que_viu_res que_viu_res
 qui --> qui qui
-qui-sap-lo --> qui_sap__lo qui_sap_lo
+qui-sap-lo qui_sap_lo --> qui_sap__lo qui_sap_lo
 quiasma qui_as_ma --> qui_as_ma qui_as_ma
 quiasmatípia qui_as_ma_tí_pi_a --> qui_as_ma_tí_pi_a qui_as_ma_tí_pi_a
 quiasme qui_as_me --> qui_as_me qui_as_me
@@ -66973,7 +66971,7 @@ serpeta --> ser_pe_ta ser_pe_ta
 serpetó --> ser_pe_tó ser_pe_tó
 serpiginós --> ser_pi_gi_nós ser_pi_gi_nós
 serpoll --> ser_poll ser_poll
-serpukhovià ser_puk_ho_vi_à --> ser_pu_kho_vi_à ser_pu_kho_vi_à
+serpukhovià ser_pu_kho_vi_à --> ser_pu_kho_vi_à ser_pu_kho_vi_à
 serpúlids --> ser_pú_lids ser_pú_lids
 serra --> ser_ra ser_ra
 serrabiaixos ser_ra_bi_ai_xos --> ser_ra_bi_ai_xos ser_ra_bi_ai_xos
@@ -68644,7 +68642,7 @@ statu --> sta_tu sta_tu
 status --> sta_tus sta_tus
 stephanià step_ha_ni_à --> step_ha_ni_à step_ha_ni_à
 stilb --> stilb stilb
-stokes stokes --> sto_kes sto_kes
+stokes sto_kes --> sto_kes sto_kes
 stoá sto_á --> stoá sto_á
 strombolià strom_bo_li_à --> strom_bo_li_à strom_bo_li_à
 suabi su_a_bi --> su_a_bi su_a_bi
@@ -70726,8 +70724,8 @@ terebràtula --> te_re_brà_tu_la te_re_brà_tu_la
 terebè --> te_re_bè te_re_bè
 terebèl·lids --> te_re_bèl_lids te_re_bèl_lids
 teredínids --> te_re_dí_nids te_re_dí_nids
-tereftalat --> te_ref_ta_lat te_re_fta_lat
-tereftàlic --> te_ref_tà_lic te_ref_tà_lic
+tereftalat te_re_fta_lat --> te_ref_ta_lat te_re_fta_lat
+tereftàlic te_re_ftà_lic --> te_ref_tà_lic te_re_ftà_lic
 tereré --> te_re_ré te_re_ré
 tereseta --> te_re_se_ta te_re_se_ta
 teresià te_re_si_à --> te_re_si_à te_re_si_à
@@ -73501,7 +73499,8 @@ tur --> tur tur
 turac --> tu_rac tu_rac
 turba --> tur_ba tur_ba
 turbamulta --> tur_ba_mul_ta tur_ba_mul_ta
-turbant --> tur_bant t_ur_bant
+turbant tur_bant --> tur_bant tur_bant
+turbants tur_bants --> tur_bants tur_bants
 turbel·laris --> tur_bel_la_ris tur_bel_la_ris
 turbidimetria tur_bi_di_me_tri_a --> tur_bi_di_me_tri_a tur_bi_di_me_tri_a
 turbidita --> tur_bi_di_ta tur_bi_di_ta
@@ -75664,7 +75663,7 @@ vixnuisme vix_nu_is_me --> vix_nu_is_me vix_nu_is_me
 vixnuïta vix_nu_ï_ta --> vix_nu_ï_ta vix_nu_ï_ta
 viàtic vi_à_tic --> vi_à_tic vi_à_tic
 vió vi_ó --> vi_ó vi_ó
-vladic --> v_la_dic vla_dic
+vladic vla_dic --> v_la_dic vla_dic
 vladímir vla_dí_mir --> v_la_dí_mir vla_dí_mir
 vobulador --> vo_bu_la_dor vo_bu_la_dor
 vobular --> vo_bu_lar vo_bu_lar

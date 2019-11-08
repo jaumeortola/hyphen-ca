@@ -10336,7 +10336,7 @@ biforme
 bifosfat
 bifosfit
 bifront
-biftalat
+biftalat bi_fta_lat
 bifurcació bi_fur_ca_ci_ó
 bifurcat
 bifàsic
@@ -20243,10 +20243,10 @@ crònicament
 cròtal
 cròton
 crúor crú_or
-cteno-
+cteno- cte_no-
 ctenoide cte_noi_de
-ctenòfors
-ctònic
+ctenòfors cte_nò_fors
+ctònic ctò_nic
 cu
 cua cu_a
 cua-rogenc cu_a-ro_genc
@@ -20382,7 +20382,7 @@ cuixot cui_xot
 cuixé cui_xé
 cuixític cui_xí_tic
 cul
-cul-de-sac
+cul-de-sac cul_de_sac
 culada
 cular
 culassa
@@ -39927,7 +39927,7 @@ hipermorf
 hipermèdia hi_per_mè_di_a
 hipernefroma
 hipernucli
-hiperonímia hi_pe_ro_ní_mi_a
+hiperonímia hi_per_o_ní_mi_a
 hiperostosi hi_per_os_to_si
 hiperparatiroïdisme hi_per_pa_ra_ti_ro_ï_dis_me
 hiperparàsit
@@ -40559,7 +40559,7 @@ hurra
 hurrita
 hurí
 husseinita hus_sei_ni_ta
-husseiní hus_se_i_ní
+husseiní hus_sei_ní
 hussita
 hussitisme
 hàbil
@@ -43387,7 +43387,6 @@ inòcul i_nòcul
 inòpia in_ò_pi_a
 inútil in_ú_til
 inútilment in_ú_til_ment
-io-io
 io-io io-io
 iod iod
 iodació io_da_ci_ó
@@ -48015,7 +48014,7 @@ meiosi me_io_si
 meitadat mei_ta_dat
 meitadella mei_ta_de_lla
 meitat mei_tat
-meitneri me_it_ne_ri
+meitneri meit_ne_ri
 meix
 meix meix
 meixa mei_xa
@@ -51597,7 +51596,6 @@ neògnats ne_òg_nats
 neòpters ne_òp_ters
 neòtrag ne_ò_trag
 neó ne_ó
-ngai
 ngai ngai
 ni
 niacina ni_a_ci_na
@@ -58075,7 +58073,7 @@ poetisme po_e_tis_me
 poetització po_e_tit_za_ci_ó
 poetitzar po_e_tit_zar
 pogonòfors
-poinciana po_in_ci_a_na
+poinciana poin_ci_a_na
 poiquilocitosi poi_qui_lo_ci_to_si
 poiquilodermatomiïtis poi_qui_lo_der_ma_to_mi_ï_tis
 poiquilodèrmia poi_qui_lo_dèr_mi_a
@@ -61279,7 +61277,7 @@ quetòpode
 quetòpter
 queviures que_viu_res
 qui
-qui-sap-lo
+qui-sap-lo qui-sap-lo
 quiasma qui_as_ma
 quiasmatípia qui_as_ma_tí_pi_a
 quiasme qui_as_me
@@ -67000,7 +66998,7 @@ serpeta
 serpetó
 serpiginós
 serpoll
-serpukhovià ser_puk_ho_vi_à
+serpukhovià ser_pu_kho_vi_à
 serpúlids
 serra
 serrabiaixos ser_ra_bi_ai_xos
@@ -68671,7 +68669,7 @@ statu
 status
 stephanià step_ha_ni_à
 stilb
-stokes stokes
+stokes sto_kes
 stoá sto_á
 strombolià strom_bo_li_à
 suabi su_a_bi
@@ -70753,8 +70751,8 @@ terebràtula
 terebè
 terebèl·lids
 teredínids
-tereftalat
-tereftàlic
+tereftalat te_re_fta_lat
+tereftàlic te_re_ftà_lic
 tereré
 tereseta
 teresià te_re_si_à
@@ -73528,7 +73526,8 @@ tur
 turac
 turba
 turbamulta
-turbant
+turbant tur_bant
+turbants tur_bants
 turbel·laris
 turbidimetria tur_bi_di_me_tri_a
 turbidita
@@ -75691,7 +75690,7 @@ vixnuisme vix_nu_is_me
 vixnuïta vix_nu_ï_ta
 viàtic vi_à_tic
 vió vi_ó
-vladic
+vladic vla_dic
 vladímir vla_dí_mir
 vobulador
 vobular
