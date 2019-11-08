@@ -6,6 +6,7 @@ fàtua fà_tua
 hidrognòsia hi_dro_gnò_si_a   [tots els casos de -gnòsia són dubtosos. S'ha de canviar i fer -gnò-sia?]
 hiperonímia hi_pe_ro_ní_mi_a
 husseiní hus_se_i_ní
+lamarckisme la_mar_ckis_me  [però  altres derivats neo_la_marc_kis_me]
 malavejar mal_a_ve_jar   [és prefix mal- realment? Encara que ho sigui, hi ha ma_la_veig]
 meitneri me_it_ne_ri
 oint oint

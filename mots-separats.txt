@@ -44395,7 +44395,7 @@ lalofòbia la_lo_fò_bi_a --> la_lo_fò_bi_a la_lo_fò_bi_a
 lal·lació lal_la_ci_ó --> lal_la_ci_ó lal_la_ci_ó
 lama --> la_ma la_ma
 lamaisme la_ma_is_me --> la_ma_is_me la_ma_is_me
-lamarckisme la_mar_ckis_me --> la_marc_kis_me la_mar_ckis_me
+lamarckisme la_marc_kis_me --> la_marc_kis_me la_marc_kis_me
 lamarckià la_marc_ki_à --> la_marc_ki_à la_marc_ki_à
 lambda --> lamb_da lamb_da
 lambdacisme --> lamb_da_cis_me lamb_da_cis_me

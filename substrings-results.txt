@@ -1375,6 +1375,8 @@ o1à is embedded in o1à
 +o1à
 o1è is embedded in o1è
 +o1è
+o1á is embedded in o1á
++o1á
 o1ò is embedded in o1ò
 +o1ò
 o1ï is embedded in o1ï
@@ -2663,6 +2665,20 @@ qui3ò + u1i2ò -> qu1i3ò
 i1ò is embedded in qui3ò
 quiò includes iò at pos 2
 qu1i3ò + i1ò -> qu1i3ò
+1qu is embedded in qui3ú
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qui3ú
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qui3ú is embedded in qui3ú
++qui3ú
+u1i2ú is embedded in qui3ú
+quiú includes uiú at pos 1
+qui3ú + u1i2ú -> qu1i3ú
+i1ú is embedded in qui3ú
+quiú includes iú at pos 2
+qu1i3ú + i1ú -> qu1i3ú
 1gu is embedded in gui3a
 gu includes gu at pos 0
 1gu + 1gu -> 1gu
@@ -3030,6 +3046,11 @@ u1è is embedded in .hu2è
 u1ò is embedded in .hu2ò
 .huò includes uò at pos 2
 .hu2ò + u1ò -> .hu2ò
+-i2o is embedded in -i2o
++-i2o
+i1o is embedded in -i2o
+-io includes io at pos 1
+-i2o + i1o -> -i2o
 1gu is embedded in gu2a
 gu includes gu at pos 0
 1gu + 1gu -> 1gu
@@ -3480,12 +3501,40 @@ u1ums. is embedded in u1ums.
 +.s4w
 .t4w is embedded in .t4w
 +.t4w
+.s4t4 is embedded in .s4t4o
+.st includes .st at pos 0
+.s4t4 + .s4t4 -> .s4t4
+.s4t4o is embedded in .s4t4o
++.s4t4o
+1to is embedded in .s4t4o
+.sto includes to at pos 2
+.s4t4o + 1to -> .s4t4o
 3f4t4alat is embedded in 3f4t4alat
 +3f4t4alat
 1ta is embedded in 3f4t4alat
 f+1ta
 1la is embedded in 3f4t4alat
 fta+1la
+3f4t4àli is embedded in 3f4t4àli
++3f4t4àli
+1tà is embedded in 3f4t4àli
+f+1tà
+1li is embedded in 3f4t4àli
+ftàli includes li at pos 3
+3f4t4àli + 1li -> 3f4t4à1li
+1na is embedded in na4f5tàli
+na includes na at pos 0
+1na + 1na -> 1na
+na4f5tàli is embedded in na4f5tàli
++na4f5tàli
+3f4t4àli is embedded in na4f5tàli
+naftàli includes ftàli at pos 2
+na4f5tàli + 3f4t4àli -> na4f5t4àli
+1tà is embedded in na4f5tàli
+naf+1tà
+1li is embedded in na4f5tàli
+naftàli includes li at pos 5
+na4f5t4àli + 1li -> na4f5t4à1li
 3p4n4eumàti is embedded in 3p4n4eumàti
 +3p4n4eumàti
 1ne is embedded in 3p4n4eumàti
@@ -3495,6 +3544,15 @@ pneu+1mà
 1ti is embedded in 3p4n4eumàti
 pneumàti includes ti at pos 6
 3p4n4eumàti + 1ti -> 3p4n4eumà1ti
+3f4taleïn is embedded in 3f4taleïn
++3f4taleïn
+1ta is embedded in 3f4taleïn
+fta includes ta at pos 1
+f1ta + 1ta -> f1ta
+1le is embedded in 3f4taleïn
+fta+1le
+e1ï is embedded in 3f4taleïn
+ftal+e1ï
 3c2h is embedded in 4ch.
 +3c2h
 4ch. is embedded in 4ch.
@@ -4437,16 +4495,6 @@ i1a is embedded in .a2b3axial
 1ta is embedded in .a2b3intesta
 .abintesta includes ta at pos 8
 .a2b3intesta + 1ta -> .a2b3intes1ta
-.acuti1úscul is embedded in .acuti1úscul
-+.acuti1úscul
-1cu is embedded in .acuti1úscul
-.a+1cu
-1ti is embedded in .acuti1úscul
-.acu+1ti
-i1ú is embedded in .acuti1úscul
-.acut+i1ú
-1cu is embedded in .acuti1úscul
-.acutiús+1cu
 .a2d3axial is embedded in .a2d3axial
 +.a2d3axial
 1da is embedded in .a2d3axial
@@ -8129,13 +8177,26 @@ u1a is embedded in .guarda3infant
 .he+1te
 1ro is embedded in .hete4r3oft
 .hete+1ro
-1he is embedded in he4ixvan
+1he is embedded in he3ixvan
 he includes he at pos 0
 1he + 1he -> 1he
-he4ixvan is embedded in he4ixvan
-+he4ixvan
-1va is embedded in he4ixvan
+he3ixvan is embedded in he3ixvan
++he3ixvan
+1va is embedded in he3ixvan
 heix+1va
+.hi2ò is embedded in .hi3òlit
+.hiò includes .hiò at pos 0
+.hi2ò + .hi2ò -> .hi2ò
+.hi3òlit is embedded in .hi3òlit
++.hi3òlit
+1hi is embedded in .hi3òlit
+.hi includes hi at pos 1
+.1hi + 1hi -> .1hi
+i1ò is embedded in .hi3òlit
+.hiò includes iò at pos 2
+.hi2ò + i1ò -> .hi2ò
+1li is embedded in .hi3òlit
+.hiò+1li
 .hi2a is embedded in .hi3al
 .hia includes .hia at pos 0
 .hi2a + .hi2a -> .hi2a
@@ -8176,6 +8237,24 @@ i1o is embedded in .hi3osc
 .1hi + 1hi -> .1hi
 3pe is embedded in .hipe4r3
 .hi+3pe
+.hipe4r3 is embedded in .hipe5r4icàci
+.hiper includes .hiper at pos 0
+.hipe4r3 + .hipe4r3 -> .hipe4r3
+.hipe5r4icàci is embedded in .hipe5r4icàci
++.hipe5r4icàci
+1hi is embedded in .hipe5r4icàci
+.hi includes hi at pos 1
+.1hi + 1hi -> .1hi
+3pe is embedded in .hipe5r4icàci
+.hipe includes pe at pos 3
+.hi3pe + 3pe -> .hi3pe
+1ri is embedded in .hipe5r4icàci
+.hipe+1ri
+1cà is embedded in .hipe5r4icàci
+.hiperi+1cà
+1ci is embedded in .hipe5r4icàci
+.hipericàci includes ci at pos 9
+.hipe5r4icàci + 1ci -> .hipe5r4icà1ci
 .hipe4r3 is embedded in .hiperm4n4
 .hiper includes .hiper at pos 0
 .hipe4r3 + .hipe4r3 -> .hipe4r3
@@ -8264,6 +8343,33 @@ i1o is embedded in .hi3osc
 u1a is embedded in .hu3axt
 .hua includes ua at pos 2
 .hu2a + u1a -> .hu2a
+.hu2a is embedded in .hu3astec
+.hua includes .hua at pos 0
+.hu2a + .hu2a -> .hu2a
+.hu3astec is embedded in .hu3astec
++.hu3astec
+1hu is embedded in .hu3astec
+.hu includes hu at pos 1
+.1hu + 1hu -> .1hu
+u1a is embedded in .hu3astec
+.hua includes ua at pos 2
+.hu2a + u1a -> .hu2a
+1te is embedded in .hu3astec
+.huas+1te
+.hu2a is embedded in .hu3asteq
+.hua includes .hua at pos 0
+.hu2a + .hu2a -> .hu2a
+.hu3asteq is embedded in .hu3asteq
++.hu3asteq
+1hu is embedded in .hu3asteq
+.hu includes hu at pos 1
+.1hu + 1hu -> .1hu
+u1a is embedded in .hu3asteq
+.hua includes ua at pos 2
+.hu2a + u1a -> .hu2a
+1te is embedded in .hu3asteq
+.huaste includes te at pos 5
+.huas1te + 1te -> .huas1te
 1ho is embedded in ho1llywo4od
 ho includes ho at pos 0
 1ho + 1ho -> 1ho
@@ -8273,6 +8379,27 @@ ho1llywo4od is embedded in ho1llywo4od
 holly+1wo
 o1o is embedded in ho1llywo4od
 hollyw+o1o
+.i2u is embedded in .iu5an.
+.iu includes .iu at pos 0
+.i2u + .i2u -> .i2u
+.iu5an. is embedded in .iu5an.
++.iu5an.
+i1u2a is embedded in .iu5an.
+.+i1u2a
+u1a is embedded in .iu5an.
+.iua includes ua at pos 2
+.i1u2a + u1a -> .i1u2a
+.i2u is embedded in .iu5ans.
+.iu includes .iu at pos 0
+.i2u + .i2u -> .i2u
+.iu5ans. is embedded in .iu5ans.
++.iu5ans.
+i1u2a is embedded in .iu5ans.
+.iua includes iua at pos 1
+.i1u2a + i1u2a -> .i1u2a
+u1a is embedded in .iu5ans.
+.iua includes ua at pos 2
+.i1u2a + u1a -> .i1u2a
 .i2ó is embedded in .i3ó.
 .ió includes .ió at pos 0
 .i2ó + .i2ó -> .i2ó
@@ -8822,18 +8949,29 @@ e1e is embedded in .je4ep
 1le is embedded in .jou4le
 .joule includes le at pos 4
 .jou4le + 1le -> .jou4le
-.lamar3c4kis is embedded in .lamar3c4kis
-+.lamar3c4kis
-1la is embedded in .lamar3c4kis
-.+1la
-1ma is embedded in .lamar3c4kis
-.la+1ma
-1ki is embedded in .lamar3c4kis
-.lamarc+1ki
+kle4b3s4hormi is embedded in kle4b3s4hormi
++kle4b3s4hormi
+1le is embedded in kle4b3s4hormi
+k+1le
+1ho is embedded in kle4b3s4hormi
+klebs+1ho
+1mi is embedded in kle4b3s4hormi
+klebshormi includes mi at pos 8
+kle4b3s4hormi + 1mi -> kle4b3s4hor1mi
 íle3us. is embedded in íle3us.
 +íle3us.
 1le is embedded in íle3us.
 í+1le
+.lo4el·lingit is embedded in .lo4el·lingit
++.lo4el·lingit
+1lo is embedded in .lo4el·lingit
+.+1lo
+o1e is embedded in .lo4el·lingit
+.l+o1e
+1li is embedded in .lo4el·lingit
+.loel·+1li
+1gi is embedded in .lo4el·lingit
+.loel·lin+1gi
 .maastri4chtià is embedded in .maastri4chtià
 +.maastri4chtià
 1ma is embedded in .maastri4chtià
@@ -9029,6 +9167,18 @@ i1à is embedded in .maastri4chtià
 1le is embedded in .ma2l3endr
 .male includes le at pos 3
 .ma1le + 1le -> .ma1le
+.ma2l3espàrrec is embedded in .ma2l3espàrrec
++.ma2l3espàrrec
+1ma is embedded in .ma2l3espàrrec
+.ma includes ma at pos 1
+.1ma + 1ma -> .1ma
+1le is embedded in .ma2l3espàrrec
+.male includes le at pos 3
+.ma1le + 1le -> .ma1le
+1pà is embedded in .ma2l3espàrrec
+.males+1pà
+1re is embedded in .ma2l3espàrrec
+.malespàr+1re
 .ma2l3ent is embedded in .ma2l3ent
 +.ma2l3ent
 1ma is embedded in .ma2l3ent
@@ -9073,6 +9223,22 @@ i1à is embedded in .maastri4chtià
 .malobe+1di
 i1e is embedded in .ma2l3obedient
 .malobed+i1e
+.ma2l3oclusi is embedded in .ma2l3oclusi
++.ma2l3oclusi
+1ma is embedded in .ma2l3oclusi
+.ma includes ma at pos 1
+.1ma + 1ma -> .1ma
+1lo is embedded in .ma2l3oclusi
+.malo includes lo at pos 3
+.ma1lo + 1lo -> .ma1lo
+1c2lu is embedded in .ma2l3oclusi
+.malo+1c2lu
+1lu is embedded in .ma2l3oclusi
+.maloclu includes lu at pos 6
+.malo1c2lu + 1lu -> .malo1c2lu
+1si is embedded in .ma2l3oclusi
+.maloclusi includes si at pos 8
+.ma2l3oclusi + 1si -> .ma2l3oclu1si
 àri3us. is embedded in àri3us.
 +àri3us.
 1ri is embedded in àri3us.
@@ -9096,6 +9262,25 @@ u1a is embedded in .marihu4an
 .me+1di
 1mi is embedded in .medi3umitz
 .mediu+1mi
+1me is embedded in mesclan4t3aigües
+me includes me at pos 0
+1me + 1me -> 1me
+mesclan4t3aigües is embedded in mesclan4t3aigües
++mesclan4t3aigües
+1c2la is embedded in mesclan4t3aigües
+mes+1c2la
+1la is embedded in mesclan4t3aigües
+mescla includes la at pos 4
+mes1c2la + 1la -> mes1c2la
+1ta is embedded in mesclan4t3aigües
+mesclan+1ta
+1gü is embedded in mesclan4t3aigües
+mesclantai+1gü
+gü2e is embedded in mesclan4t3aigües
+mesclantai+gü2e
+ü1e is embedded in mesclan4t3aigües
+mesclantaigüe includes üe at pos 11
+mesclantaigü2e + ü1e -> mesclantaigü2e
 .micro3inform is embedded in .micro3inform
 +.micro3inform
 1mi is embedded in .micro3inform
@@ -9140,6 +9325,102 @@ u1a is embedded in .marihu4an
 .mi1le + 1le -> .mi1le
 1ri is embedded in .mi4l3eurist
 .mileu+1ri
+1mo is embedded in mon4t3agut
+mo includes mo at pos 0
+1mo + 1mo -> 1mo
+mon4t3agut is embedded in mon4t3agut
++mon4t3agut
+1ta is embedded in mon4t3agut
+mon+1ta
+1gu is embedded in mon4t3agut
+monta+1gu
+1mo is embedded in mon4t3esquiuen
+mo includes mo at pos 0
+1mo + 1mo -> 1mo
+mon4t3esquiuen is embedded in mon4t3esquiuen
++mon4t3esquiuen
+1te is embedded in mon4t3esquiuen
+mon+1te
+1qu is embedded in mon4t3esquiuen
+montes+1qu
+qu2i is embedded in mon4t3esquiuen
+montes+qu2i
+qui3ue is embedded in mon4t3esquiuen
+montes+qui3ue
+u1i2u is embedded in mon4t3esquiuen
+montesq+u1i2u
+i1u2e is embedded in mon4t3esquiuen
+montesquiue includes iue at pos 8
+montesqui3ue + i1u2e -> montesqui3u2e
+u1e is embedded in mon4t3esquiuen
+montesquiue includes ue at pos 9
+montesqui3u2e + u1e -> montesqui3u2e
+1qu is embedded in qui3ue
+qu includes qu at pos 0
+1qu + 1qu -> 1qu
+qu2i is embedded in qui3ue
+qui includes qui at pos 0
+qu2i + qu2i -> qu2i
+qui3ue is embedded in qui3ue
++qui3ue
+u1i2u is embedded in qui3ue
+q+u1i2u
+i1u2e is embedded in qui3ue
+quiue includes iue at pos 2
+qui3ue + i1u2e -> qui3u2e
+u1e is embedded in qui3ue
+quiue includes ue at pos 3
+qui3u2e + u1e -> qui3u2e
+1mo is embedded in mon4t3oliuen
+mo includes mo at pos 0
+1mo + 1mo -> 1mo
+mon4t3oliuen is embedded in mon4t3oliuen
++mon4t3oliuen
+1to is embedded in mon4t3oliuen
+mon+1to
+1li is embedded in mon4t3oliuen
+monto+1li
+i1u2e is embedded in mon4t3oliuen
+montol+i1u2e
+u1e is embedded in mon4t3oliuen
+montoliue includes ue at pos 7
+montoli1u2e + u1e -> montoli1u2e
+1mo is embedded in mon4t3oriol
+mo includes mo at pos 0
+1mo + 1mo -> 1mo
+mon4t3oriol is embedded in mon4t3oriol
++mon4t3oriol
+1to is embedded in mon4t3oriol
+monto includes to at pos 3
+mon1to + 1to -> mon1to
+1ri is embedded in mon4t3oriol
+monto+1ri
+i1o is embedded in mon4t3oriol
+montor+i1o
+1mo is embedded in mon4t3roi
+mo includes mo at pos 0
+1mo + 1mo -> 1mo
+mon4t3roi is embedded in mon4t3roi
++mon4t3roi
+1t2ro is embedded in mon4t3roi
+mon+1t2ro
+1ro is embedded in mon4t3roi
+montro includes ro at pos 4
+mon1t2ro + 1ro -> mon1t2ro
+1na is embedded in na3hu4a
+na includes na at pos 0
+1na + 1na -> 1na
+na3hu4a is embedded in na3hu4a
++na3hu4a
+1hu is embedded in na3hu4a
+na+1hu
+u1a is embedded in na3hu4a
+nahua includes ua at pos 3
+na3hu4a + u1a -> na3hu4a
+.n4g4ai is embedded in .n4g4ai
++.n4g4ai
+1ga is embedded in .n4g4ai
+.n+1ga
 .na4p3icol is embedded in .na4p3icol
 +.na4p3icol
 1na is embedded in .na4p3icol
@@ -9219,6 +9500,17 @@ o1e is embedded in .nor4d3oest
 1re is embedded in .no4s3altres.
 .nosaltre includes re at pos 7
 .nosal1t2re + 1re -> .nosal1t2re
+.o4i3oi. is embedded in .o4i3oi.
++.o4i3oi.
+o1i2o is embedded in .o4i3oi.
+.+o1i2o
+i1o is embedded in .o4i3oi.
+.oio includes io at pos 2
+.o1i2o + i1o -> .o1i2o
+.osco3umbr is embedded in .osco3umbr
++.osco3umbr
+1co is embedded in .osco3umbr
+.os+1co
 .o4b3liter is embedded in .o4b3liter
 +.o4b3liter
 1b2li is embedded in .o4b3liter
@@ -9608,6 +9900,22 @@ e1o is embedded in .pos4t3alveo
 .pos+1to
 3pe is embedded in .pos4t3oper
 .posto+3pe
+.pos4t3esquí is embedded in .pos4t3esquí
++.pos4t3esquí
+3po is embedded in .pos4t3esquí
+.po includes po at pos 1
+.3po + 3po -> .3po
+1te is embedded in .pos4t3esquí
+.poste includes te at pos 4
+.pos1te + 1te -> .pos1te
+1qu is embedded in .pos4t3esquí
+.postes+1qu
+qu2í is embedded in .pos4t3esquí
+.postesquí includes quí at pos 7
+.pos4t3esquí + qu2í -> .pos4t3esqu2í
+u1í is embedded in .pos4t3esquí
+.postesquí includes uí at pos 8
+.pos4t3esqu2í + u1í -> .pos4t3esqu2í
 .primo3infec is embedded in .primo3infec
 +.primo3infec
 1p2ri is embedded in .primo3infec
@@ -9666,6 +9974,14 @@ u1a is embedded in .quasi3usdefruit
 1ru is embedded in .quasi3usdefruit
 .quasiusdefru includes ru at pos 11
 .quasiusde1f2ru + 1ru -> .quasiusde1f2ru
+pseudo3t4sug is embedded in pseudo3t4sug
++pseudo3t4sug
+1se is embedded in pseudo3t4sug
+p+1se
+1do is embedded in pseudo3t4sug
+pseu+1do
+1su is embedded in pseudo3t4sug
+pseudot+1su
 .rada4r3astr is embedded in .rada4r3astr
 +.rada4r3astr
 1ra is embedded in .rada4r3astr
@@ -9708,6 +10024,32 @@ i1o is embedded in .radio3i
 1re is embedded in .re3i
 .re includes re at pos 1
 .1re + 1re -> .1re
+.re3i is embedded in .re4inesenc
+.rei includes .rei at pos 0
+.re3i + .re3i -> .re3i
+.re4inesenc is embedded in .re4inesenc
++.re4inesenc
+1re is embedded in .re4inesenc
+.re includes re at pos 1
+.1re + 1re -> .1re
+1ne is embedded in .re4inesenc
+.rei+1ne
+1se is embedded in .re4inesenc
+.reine+1se
+.re3i is embedded in .re4inesenq
+.rei includes .rei at pos 0
+.re3i + .re3i -> .re3i
+.re4inesenq is embedded in .re4inesenq
++.re4inesenq
+1re is embedded in .re4inesenq
+.re includes re at pos 1
+.1re + 1re -> .1re
+1ne is embedded in .re4inesenq
+.reine includes ne at pos 4
+.rei1ne + 1ne -> .rei1ne
+1se is embedded in .re4inesenq
+.reinese includes se at pos 6
+.reine1se + 1se -> .reine1se
 .re3i is embedded in .re4i.
 .rei includes .rei at pos 0
 .re3i + .re3i -> .re3i
@@ -9743,7 +10085,8 @@ i1o is embedded in .radio3i
 .re includes re at pos 1
 .1re + 1re -> .1re
 1ne is embedded in .re4ines.
-.rei+1ne
+.reine includes ne at pos 4
+.rei1ne + 1ne -> .rei1ne
 .re3i is embedded in .re4ineta.
 .rei includes .rei at pos 0
 .re3i + .re3i -> .re3i
@@ -10564,6 +10907,13 @@ i1e is embedded in .supe4r3espècie
 1la is embedded in .talla3ungl
 .talla includes la at pos 4
 .ta3l2la + 1la -> .ta3l2la
+.pinta3ungl is embedded in .pinta3ungl
++.pinta3ungl
+3pi is embedded in .pinta3ungl
+.pi includes pi at pos 1
+.3pi + 3pi -> .3pi
+1ta is embedded in .pinta3ungl
+.pin+1ta
 .taqui3úri is embedded in .taqui3úri
 +.taqui3úri
 1ta is embedded in .taqui3úri
@@ -10573,11 +10923,14 @@ i1e is embedded in .supe4r3espècie
 .ta+1qu
 qu2i is embedded in .taqui3úri
 .ta+qu2i
+qui3ú is embedded in .taqui3úri
+.ta+qui3ú
 u1i2ú is embedded in .taqui3úri
-.taq+u1i2ú
+.taquiú includes uiú at pos 4
+.taqui3ú + u1i2ú -> .taqu1i3ú
 i1ú is embedded in .taqui3úri
 .taquiú includes iú at pos 5
-.taqu1i2ú + i1ú -> .taqu1i2ú
+.taqu1i3ú + i1ú -> .taqu1i3ú
 1ri is embedded in .taqui3úri
 .taquiúri includes ri at pos 7
 .taqui3úri + 1ri -> .taqui3ú1ri
@@ -10782,6 +11135,10 @@ o1ï is embedded in .triqui3uroïdeus
 u1í is embedded in .u3ís.
 .uí includes uí at pos 1
 .u2í + u1í -> .u2í
+uki1yo is embedded in uki1yo
++uki1yo
+1ki is embedded in uki1yo
+u+1ki
 .vol4t3amper is embedded in .vol4t3amper
 +.vol4t3amper
 1vo is embedded in .vol4t3amper
@@ -10802,6 +11159,34 @@ u1í is embedded in .u3ís.
 1re is embedded in .vo4s3altres
 .vosaltre includes re at pos 7
 .vosal1t2re + 1re -> .vosal1t2re
+1ve is embedded in vete4s3ifils
+ve includes ve at pos 0
+1ve + 1ve -> 1ve
+vete4s3ifils is embedded in vete4s3ifils
++vete4s3ifils
+1te is embedded in vete4s3ifils
+ve+1te
+1si is embedded in vete4s3ifils
+vete+1si
+1fi is embedded in vete4s3ifils
+vetesi+1fi
+1vi is embedded in vis4t3iplau
+vi includes vi at pos 0
+1vi + 1vi -> 1vi
+vis4t3iplau is embedded in vis4t3iplau
++vis4t3iplau
+1ti is embedded in vis4t3iplau
+vis+1ti
+1p2la is embedded in vis4t3iplau
+visti+1p2la
+1la is embedded in vis4t3iplau
+vistipla includes la at pos 6
+visti1p2la + 1la -> visti1p2la
+1vo is embedded in vo1yeur
+vo includes vo at pos 0
+1vo + 1vo -> 1vo
+vo1yeur is embedded in vo1yeur
++vo1yeur
 .wa3s4hing is embedded in .wa3s4hing
 +.wa3s4hing
 1wa is embedded in .wa3s4hing
@@ -10816,6 +11201,30 @@ u1í is embedded in .u3ís.
 .wit+1he
 1ri is embedded in .wit4h3erit
 .withe+1ri
+1we is embedded in wel1wítsqui
+we includes we at pos 0
+1we + 1we -> 1we
+wel1wítsqui is embedded in wel1wítsqui
++wel1wítsqui
+1qu is embedded in wel1wítsqui
+welwíts+1qu
+qu2i is embedded in wel1wítsqui
+welwítsqui includes qui at pos 7
+wel1wítsqui + qu2i -> wel1wítsqu2i
+1xi is embedded in xi1itake
+xi includes xi at pos 0
+1xi + 1xi -> 1xi
+xi1itake is embedded in xi1itake
++xi1itake
+1ta is embedded in xi1itake
+xii+1ta
+1ke is embedded in xi1itake
+xiitake includes ke at pos 5
+xi1itake + 1ke -> xi1ita1ke
+.za1in. is embedded in .za1in.
++.za1in.
+1za is embedded in .za1in.
+.+1za
 1b4w is embedded in 1b4w
 +1b4w
 1impressor is embedded in 1impressor
@@ -10947,15 +11356,35 @@ i+1tà
 1li is embedded in 1itàli
 itàli includes li at pos 3
 1itàli + 1li -> 1ità1li
-1urbà is embedded in 1urbà
-+1urbà
-1bà is embedded in 1urbà
-urbà includes bà at pos 2
-1urbà + 1bà -> 1ur1bà
-1urban is embedded in 1urban
-+1urban
-1ba is embedded in 1urban
+1urbà. is embedded in 1urbà.
++1urbà.
+1bà is embedded in 1urbà.
+ur+1bà
+1urbans. is embedded in 1urbans.
++1urbans.
+1ba is embedded in 1urbans.
 ur+1ba
+1urbanes. is embedded in 1urbanes.
++1urbanes.
+1ba is embedded in 1urbanes.
+urba includes ba at pos 2
+ur1ba + 1ba -> ur1ba
+1ne is embedded in 1urbanes.
+urba+1ne
+1urbana. is embedded in 1urbana.
++1urbana.
+1ba is embedded in 1urbana.
+urba includes ba at pos 2
+ur1ba + 1ba -> ur1ba
+1na is embedded in 1urbana.
+urba+1na
+1urbanitz is embedded in 1urbanitz
++1urbanitz
+1ba is embedded in 1urbanitz
+urba includes ba at pos 2
+ur1ba + 1ba -> ur1ba
+3ni is embedded in 1urbanitz
+urba+3ni
 1usuari is embedded in 1usuari
 +1usuari
 1su is embedded in 1usuari
@@ -10995,6 +11424,59 @@ uterí includes rí at pos 3
 u+1ti
 1li is embedded in 1utilitz
 uti+1li
+.ta4ll3oil is embedded in .ta4ll3oil
++.ta4ll3oil
+1ta is embedded in .ta4ll3oil
+.ta includes ta at pos 1
+.1ta + 1ta -> .1ta
+3l2lo is embedded in .ta4ll3oil
+.ta+3l2lo
+1lo is embedded in .ta4ll3oil
+.tallo includes lo at pos 4
+.ta3l2lo + 1lo -> .ta3l2lo
+1ki is embedded in kinde4r3s4cout
+ki includes ki at pos 0
+1ki + 1ki -> 1ki
+kinde4r3s4cout is embedded in kinde4r3s4cout
++kinde4r3s4cout
+1de is embedded in kinde4r3s4cout
+kin+1de
+1co is embedded in kinde4r3s4cout
+kinders+1co
+o1u2i is embedded in o4uija
+oui includes oui at pos 0
+o1u2i + o1u2i -> o1u2i
+o4uija is embedded in o4uija
++o4uija
+1ja is embedded in o4uija
+ouija includes ja at pos 3
+o4uija + 1ja -> o4ui1ja
+o1u2i is embedded in o4uijes
+oui includes oui at pos 0
+o1u2i + o1u2i -> o1u2i
+o4uijes is embedded in o4uijes
++o4uijes
+1je is embedded in o4uijes
+oui+1je
+1ta is embedded in tai3t4xi3t4xu4an
+ta includes ta at pos 0
+1ta + 1ta -> 1ta
+tai3t4xi3t4xu4an is embedded in tai3t4xi3t4xu4an
++tai3t4xi3t4xu4an
+1xi is embedded in tai3t4xi3t4xu4an
+tait+1xi
+1xu is embedded in tai3t4xi3t4xu4an
+taitxit+1xu
+u1a is embedded in tai3t4xi3t4xu4an
+taitxitx+u1a
+1ta is embedded in tai3t4xí
+ta includes ta at pos 0
+1ta + 1ta -> 1ta
+tai3t4xí is embedded in tai3t4xí
++tai3t4xí
+1xí is embedded in tai3t4xí
+taitxí includes xí at pos 4
+tai3t4xí + 1xí -> tai3t4xí
 .a4equo. is embedded in .a4equo.
 +.a4equo.
 a1e is embedded in .a4equo.
@@ -11524,7 +12006,8 @@ mo includes mo at pos 0
 monte9r8rey is embedded in monte9r8rey
 +monte9r8rey
 1te is embedded in monte9r8rey
-mon+1te
+monte includes te at pos 3
+mon1te + 1te -> mon1te
 1re is embedded in monte9r8rey
 monter+1re
 o8h8i8o is embedded in o8h8i8o
