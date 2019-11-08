@@ -67312,7 +67312,7 @@ significar
 significatiu sig_ni_fi_ca_tiu
 significativament
 signífer
-sikhisme sikh_is_me
+sikhisme si_khis_me
 silenci
 silenciador si_len_ci_a_dor
 silenciar si_len_ci_ar

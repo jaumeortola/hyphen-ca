@@ -67285,7 +67285,7 @@ significar --> sig_ni_fi_car sig_ni_fi_car
 significatiu sig_ni_fi_ca_tiu --> sig_ni_fi_ca_tiu sig_ni_fi_ca_tiu
 significativament --> sig_ni_fi_ca_ti_va_ment sig_ni_fi_ca_ti_va_ment
 signífer --> sig_ní_fer sig_ní_fer
-sikhisme sikh_is_me --> si_khis_me sikh_is_me
+sikhisme si_khis_me --> si_khis_me si_khis_me
 silenci --> si_len_ci si_len_ci
 silenciador si_len_ci_a_dor --> si_len_ci_a_dor si_len_ci_a_dor
 silenciar si_len_ci_ar --> si_len_ci_ar si_len_ci_ar
