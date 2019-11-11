@@ -5,5 +5,5 @@ Excepcions errors=2296
 Excepcions correctes (nou)=26370
 Excepcions errors (nou)=0
 Comuns=50632
-Comuns correctes=50632
-Comuns errors=0
+Comuns correctes=50625
+Comuns errors=7
