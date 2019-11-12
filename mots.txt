@@ -38018,7 +38018,7 @@ gosadament
 gosadia go_sa_di_a
 gosar
 gosat
-goshenita
+goshenita go_she_ni_ta
 goslarita
 gospodar
 gossa
@@ -38058,7 +38058,7 @@ governant
 governar
 governatiu go_ver_na_tiu
 governativament
-goyazita
+goyazita go_ya_zi_ta
 goècia go_è_ci_a
 goès go_ès
 goètic go_è_tic
@@ -38803,7 +38803,7 @@ guturo-
 gutxo
 gutífer
 gutíferes
-guyot
+guyot gu_yot
 guàrdia guàr_di_a
 guàrdol
 guàtlera guàt_le_ra
@@ -40807,7 +40807,7 @@ iguana
 iguanodont
 iguànids i_guà_nids
 ikebana
-ikhxidita
+ikhxidita ikh_xi_di_ta
 il-khan
 ilaraugat i_la_rau_gat
 ileal i_le_al
@@ -44219,7 +44219,8 @@ kart
 kartvelià kart_ve_li_à
 kasimovià ka_si_mo_vi_à
 kauri kau_ri
-kazakh
+kazakh ka_zakh
+kazakhs ka_zakhs
 kazanià ka_za_ni_à
 kaó ka_ó
 kea ke_a
@@ -44864,7 +44865,7 @@ lexicometria le_xi_co_me_tri_a
 lexicògraf
 lexicòleg
 lexicó
-lherzolita
+lherzolita lher_zo_li_ta
 li
 liana li_a_na
 lianoide li_a_noi_de
@@ -75988,7 +75989,7 @@ welwitsquiàcies wel_wits_qui_à_ci_es
 welwítsquia wel_wíts_qui_a
 wenlockià wen_loc_ki_à
 werfenià wer_fe_ni_à
-wesleyà
+wesleyà wes_le_yà
 westfalià west_fa_li_à
 whiskeria whis_ke_ri_a
 whisky whisky

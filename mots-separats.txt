@@ -37991,7 +37991,7 @@ gosadament --> go_sa_da_ment go_sa_da_ment
 gosadia go_sa_di_a --> go_sa_di_a go_sa_di_a
 gosar --> go_sar go_sar
 gosat --> go_sat go_sat
-goshenita --> gos_he_ni_ta go_she_ni_ta
+goshenita go_she_ni_ta --> gos_he_ni_ta go_she_ni_ta
 goslarita --> gos_la_ri_ta gos_la_ri_ta
 gospodar --> gos_po_dar gos_po_dar
 gossa --> gos_sa gos_sa
@@ -38031,7 +38031,7 @@ governant --> go_ver_nant go_ver_nant
 governar --> go_ver_nar go_ver_nar
 governatiu go_ver_na_tiu --> go_ver_na_tiu go_ver_na_tiu
 governativament --> go_ver_na_ti_va_ment go_ver_na_ti_va_ment
-goyazita --> goya_zi_ta go_ya_zi_ta
+goyazita go_ya_zi_ta --> goya_zi_ta go_ya_zi_ta
 goècia go_è_ci_a --> go_è_ci_a go_è_ci_a
 goès go_ès --> go_ès go_ès
 goètic go_è_tic --> go_è_tic go_è_tic
@@ -38776,7 +38776,7 @@ guturo- --> gu_tu_ro_ gu_tu_ro_
 gutxo --> gut_xo gut_xo
 gutífer --> gu_tí_fer gu_tí_fer
 gutíferes --> gu_tí_fe_res gu_tí_fe_res
-guyot --> guyot gu_yot
+guyot gu_yot --> guyot gu_yot
 guàrdia guàr_di_a --> guàr_di_a guàr_di_a
 guàrdol --> guàr_dol guàr_dol
 guàtlera guàt_le_ra --> guàt_le_ra guàt_le_ra
@@ -40780,7 +40780,7 @@ iguana --> i_gua_na i_gua_na
 iguanodont --> i_gua_no_dont i_gua_no_dont
 iguànids i_guà_nids --> i_guà_nids i_guà_nids
 ikebana --> i_ke_ba_na i_ke_ba_na
-ikhxidita --> i_kh_xi_di_ta ikh_xi_di_ta
+ikhxidita ikh_xi_di_ta --> i_kh_xi_di_ta ikh_xi_di_ta
 il-khan --> il_khan il_khan
 ilaraugat i_la_rau_gat --> i_la_rau_gat i_la_rau_gat
 ileal i_le_al --> i_le_al i_le_al
@@ -44192,7 +44192,8 @@ kart --> kart kart
 kartvelià kart_ve_li_à --> kart_ve_li_à kart_ve_li_à
 kasimovià ka_si_mo_vi_à --> ka_si_mo_vi_à ka_si_mo_vi_à
 kauri kau_ri --> kau_ri kau_ri
-kazakh --> ka_za_kh ka_zakh
+kazakh ka_zakh --> ka_za_kh ka_zakh
+kazakhs ka_zakhs --> ka_za_khs ka_zakhs
 kazanià ka_za_ni_à --> ka_za_ni_à ka_za_ni_à
 kaó ka_ó --> ka_ó ka_ó
 kea ke_a --> ke_a ke_a
@@ -44837,7 +44838,7 @@ lexicometria le_xi_co_me_tri_a --> le_xi_co_me_tri_a le_xi_co_me_tri_a
 lexicògraf --> le_xi_cò_graf le_xi_cò_graf
 lexicòleg --> le_xi_cò_leg le_xi_cò_leg
 lexicó --> le_xi_có le_xi_có
-lherzolita --> l_her_zo_li_ta lher_zo_li_ta
+lherzolita lher_zo_li_ta --> l_her_zo_li_ta lher_zo_li_ta
 li --> li li
 liana li_a_na --> li_a_na li_a_na
 lianoide li_a_noi_de --> li_a_noi_de li_a_noi_de
@@ -75961,7 +75962,7 @@ welwitsquiàcies wel_wits_qui_à_ci_es --> wel_wits_qui_à_ci_es wel_wits_qui_à_ci_
 welwítsquia wel_wíts_qui_a --> welwíts_qui_a wel_wíts_qui_a
 wenlockià wen_loc_ki_à --> wen_loc_ki_à wen_loc_ki_à
 werfenià wer_fe_ni_à --> wer_fe_ni_à wer_fe_ni_à
-wesleyà --> wes_leyà wes_le_yà
+wesleyà wes_le_yà --> wes_leyà wes_le_yà
 westfalià west_fa_li_à --> west_fa_li_à west_fa_li_à
 whiskeria whis_ke_ri_a --> whis_ke_ri_a whis_ke_ri_a
 whisky whisky --> whisky whisky
