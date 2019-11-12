@@ -69194,6 +69194,7 @@ supedani --> su_pe_da_ni su_pe_da_ni
 supeditació su_pe_di_ta_ci_ó --> su_pe_di_ta_ci_ó su_pe_di_ta_ci_ó
 supeditar --> su_pe_di_tar su_pe_di_tar
 super- --> su_per_ su_per_
+supera --> su_pe_ra su_pe_ra
 superabilitat --> su_pe_ra_bi_li_tat su_pe_ra_bi_li_tat
 superable --> su_pe_ra_ble su_pe_ra_ble
 superabundant su_per_a_bun_dant --> su_pe_ra_bun_dant su_per_a_bun_dant
@@ -69203,6 +69204,9 @@ superabundància su_per_a_bun_dàn_ci_a --> su_pe_ra_bun_dàn_ci_a su_per_a_bun_dàn
 superació su_pe_ra_ci_ó --> su_pe_ra_ci_ó su_pe_ra_ci_ó
 superaerodinàmica su_per_a_e_ro_di_nà_mi_ca --> su_pe_ra_e_ro_di_nà_mi_ca su_per_a_e_ro_di_nà_mi_ca
 superar --> su_pe_rar su_pe_rar
+superar --> su_pe_rar su_pe_rar
+superarà --> su_pe_ra_rà su_pe_ra_rà
+superava --> su_pe_ra_va su_pe_ra_va
 superaxil·lar su_per_a_xil_lar --> su_pe_ra_xil_lar su_per_a_xil_lar
 superb --> su_perb su_perb
 superbament --> su_per_ba_ment su_per_ba_ment
@@ -69266,6 +69270,12 @@ supermortalitat --> su_per_mor_ta_li_tat su_per_mor_ta_li_tat
 supernal --> su_per_nal su_per_nal
 supernumerari --> su_per_nu_me_ra_ri su_per_nu_me_ra_ri
 supero- --> su_pe_ro_ su_pe_ro_
+superoanterior --> su_pe_ro_an_te_ri_or su_pe_ro_an_te_ri_or
+superoexterior --> su_pe_ro_ex_te_ri_or su_pe_ro_ex_te_ri_or
+superoinferior --> su_pe_roin_fe_ri_or su_pe_roin_fe_ri_or
+superolateral --> su_pe_ro_la_te_ral su_pe_ro_la_te_ral
+superomedià --> su_pe_ro_me_di_à su_pe_ro_me_di_à
+superoposterior --> su_pe_ro_pos_te_ri_or su_pe_ro_pos_te_ri_or
 superordre su_per_or_dre --> su_pe_ror_dre su_per_or_dre
 superorticó su_per_or_ti_có --> su_pe_ror_ti_có su_per_or_ti_có
 superovàric su_per_o_và_ric --> su_pe_ro_và_ric su_per_o_và_ric
@@ -69297,6 +69307,7 @@ supervivència su_per_vi_vèn_ci_a --> su_per_vi_vèn_ci_a su_per_vi_vèn_ci_a
 superxeria su_per_xe_ri_a --> su_per_xe_ri_a su_per_xe_ri_a
 superàcid su_per_à_cid --> su_pe_rà_cid su_per_à_cid
 superàvit --> su_pe_rà_vit su_pe_rà_vit
+superéssim --> su_pe_rés_sim su_pe_rés_sim
 superíndex su_per_ín_dex --> su_pe_rín_dex su_per_ín_dex
 superòxid su_per_ò_xid --> su_pe_rò_xid su_per_ò_xid
 supinació su_pi_na_ci_ó --> su_pi_na_ci_ó su_pi_na_ci_ó

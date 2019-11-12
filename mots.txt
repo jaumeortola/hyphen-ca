@@ -69221,6 +69221,7 @@ supedani
 supeditació su_pe_di_ta_ci_ó
 supeditar
 super-
+supera
 superabilitat
 superable
 superabundant su_per_a_bun_dant
@@ -69230,6 +69231,9 @@ superabundància su_per_a_bun_dàn_ci_a
 superació su_pe_ra_ci_ó
 superaerodinàmica su_per_a_e_ro_di_nà_mi_ca
 superar
+superar
+superarà
+superava
 superaxil·lar su_per_a_xil_lar
 superb
 superbament
@@ -69293,6 +69297,12 @@ supermortalitat
 supernal
 supernumerari
 supero-
+superoanterior
+superoexterior
+superoinferior
+superolateral
+superomedià
+superoposterior
 superordre su_per_or_dre
 superorticó su_per_or_ti_có
 superovàric su_per_o_và_ric
@@ -69324,6 +69334,7 @@ supervivència su_per_vi_vèn_ci_a
 superxeria su_per_xe_ri_a
 superàcid su_per_à_cid
 superàvit
+superéssim
 superíndex su_per_ín_dex
 superòxid su_per_ò_xid
 supinació su_pi_na_ci_ó
