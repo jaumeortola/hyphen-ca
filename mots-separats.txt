@@ -37819,7 +37819,7 @@ glòria glò_ri_a --> glò_ri_a glò_ri_a
 glòssic --> glòs_sic glòs_sic
 glòtic --> glò_tic glò_tic
 glúcic --> glú_cic glú_cic
-gmelinita --> g_me_li_ni_ta g_me_li_ni_ta
+gmelinita gme_li_ni_ta --> g_me_li_ni_ta gme_li_ni_ta
 gnatos --> gna_tos gna_tos
 gnatostomats --> gna_tos_to_mats gna_tos_to_mats
 gneis --> gneis gneis
@@ -44243,7 +44243,7 @@ kirsch --> kirsch kirsch
 kiwi --> ki_wi ki_wi
 klebshormidials kleb_shor_mi_di_als --> klebs_hor_mi_di_als kleb_shor_mi_di_als
 klebsiel·la kleb_si_el_la --> kleb_si_el_la kleb_si_el_la
-knut --> k_nut k_nut
+knut knut --> k_nut knut
 kolkhoz kol_khoz --> kol_khoz kol_khoz
 koma --> ko_ma ko_ma
 komi --> ko_mi ko_mi
@@ -44255,7 +44255,7 @@ krausista krau_sis_ta --> krau_sis_ta krau_sis_ta
 kremlin --> krem_lin krem_lin
 krill --> krill krill
 krivitx --> kri_vitx kri_vitx
-ksi --> k_si k_si
+ksi ksi --> k_si ksi
 kufia ku_fi_a --> ku_fi_a ku_fi_a
 kulak --> ku_lak ku_lak
 kumbaià kum_ba_ià --> kum_ba_ià kum_ba_ià
@@ -48787,7 +48787,7 @@ meulo meu_lo --> meu_lo meu_lo
 mevalònic --> me_va_lò_nic me_va_lò_nic
 mexica --> me_xi_ca me_xi_ca
 mexicà --> me_xi_cà me_xi_cà
-mho --> m_ho m_ho
+mho mho --> m_ho mho
 mi --> mi mi
 mia mi_a --> mi_a mi_a
 miambutol mi_am_bu_tol --> mi_am_bu_tol mi_am_bu_tol
@@ -60711,7 +60711,7 @@ pul·lòver --> pul_lò_ver pul_lò_ver
 pum --> pum pum
 puma --> pu_ma pu_ma
 pumicita --> pu_mi_ci_ta pu_mi_ci_ta
-pumpel·lyita --> pum_pellyi_ta pum_pellyi_ta
+pumpel·lyita pum_pel_ly_i_ta --> pum_pellyi_ta pum_pel_ly_i_ta
 puncionar pun_ci_o_nar --> pun_ci_o_nar pun_ci_o_nar
 punció pun_ci_ó --> pun_ci_ó pun_ci_ó
 punctiforme --> punc_ti_for_me punc_ti_for_me
@@ -67146,7 +67146,7 @@ sexualitat --> se_xu_a_li_tat se_xu_a_li_tat
 sexualment se_xu_al_ment --> se_xu_al_ment se_xu_al_ment
 sexuat se_xu_at --> se_xu_at se_xu_at
 sexòleg --> se_xò_leg se_xò_leg
-sforzesc --> s_for_zesc s_for_zesc
+sforzesc sfor_zesc --> s_for_zesc sfor_zesc
 shakespeare shake_speare --> sha_kes_pe_a_re shake_speare
 shakespearianes shake_spear_i_a_nes --> sha_kes_pe_a_ri_a_nes shake_spear_i_a_nes
 shakespearià shake_spear_i_à --> sha_kes_pe_a_ri_à shake_spear_i_à
@@ -67777,7 +67777,7 @@ sivert --> si_vert si_vert
 sivina --> si_vi_na si_vi_na
 sizígia si_zí_gi_a --> si_zí_gi_a si_zí_gi_a
 siàlic si_à_lic --> si_à_lic si_à_lic
-skutterudita --> s_kut_te_ru_di_ta s_kut_te_ru_di_ta
+skutterudita skut_te_ru_di_ta --> s_kut_te_ru_di_ta skut_te_ru_di_ta
 snack-bar --> snack_bar snack_bar
 so --> so so
 soanyès so_a_nyès --> so_a_nyès so_a_nyès
@@ -69446,7 +69446,7 @@ suïcidar-se su_ï_ci_dar_se --> su_ï_ci_dar_se su_ï_ci_dar_se
 suïcidi su_ï_ci_di --> su_ï_ci_di su_ï_ci_di
 suïforme su_ï_for_me --> su_ï_for_me su_ï_for_me
 suós su_ós --> su_ós su_ós
-svedberg --> s_ved_berg s_ved_berg
+svedberg sved_berg --> s_ved_berg sved_berg
 swing swing --> s_wing swing
 sàbat --> sà_bat sà_bat
 sàcul sàcul --> sà_cul sàcul
@@ -71561,7 +71561,7 @@ tiòlic ti_ò_lic --> ti_ò_lic ti_ò_lic
 tiòlisi ti_ò_li_si --> ti_ò_li_si ti_ò_li_si
 tiònic ti_ò_nic --> ti_ò_nic ti_ò_nic
 tió ti_ó --> ti_ó ti_ó
-tmesi --> t_me_si t_me_si
+tmesi tme_si --> t_me_si tme_si
 to --> to to
 toaleta to_a_le_ta --> to_a_le_ta to_a_le_ta
 toarcià to_ar_ci_à --> to_ar_ci_à to_ar_ci_à

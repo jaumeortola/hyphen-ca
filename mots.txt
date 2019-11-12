@@ -37846,7 +37846,7 @@ glòria glò_ri_a
 glòssic
 glòtic
 glúcic
-gmelinita
+gmelinita gme_li_ni_ta
 gnatos
 gnatostomats
 gneis
@@ -44270,7 +44270,7 @@ kirsch
 kiwi
 klebshormidials kleb_shor_mi_di_als
 klebsiel·la kleb_si_el_la
-knut
+knut knut
 kolkhoz kol_khoz
 koma
 komi
@@ -44282,7 +44282,7 @@ krausista krau_sis_ta
 kremlin
 krill
 krivitx
-ksi
+ksi ksi
 kufia ku_fi_a
 kulak
 kumbaià kum_ba_ià
@@ -48814,7 +48814,7 @@ meulo meu_lo
 mevalònic
 mexica
 mexicà
-mho
+mho mho
 mi
 mia mi_a
 miambutol mi_am_bu_tol
@@ -60738,7 +60738,7 @@ pul·lòver
 pum
 puma
 pumicita
-pumpel·lyita
+pumpel·lyita pum_pel_ly_i_ta
 puncionar pun_ci_o_nar
 punció pun_ci_ó
 punctiforme
@@ -67173,7 +67173,7 @@ sexualitat
 sexualment se_xu_al_ment
 sexuat se_xu_at
 sexòleg
-sforzesc
+sforzesc sfor_zesc
 shakespeare shake_speare
 shakespearianes shake_spear_i_a_nes
 shakespearià shake_spear_i_à
@@ -67804,7 +67804,7 @@ sivert
 sivina
 sizígia si_zí_gi_a
 siàlic si_à_lic
-skutterudita
+skutterudita skut_te_ru_di_ta
 snack-bar
 so
 soanyès so_a_nyès
@@ -69473,7 +69473,7 @@ suïcidar-se su_ï_ci_dar-se
 suïcidi su_ï_ci_di
 suïforme su_ï_for_me
 suós su_ós
-svedberg
+svedberg sved_berg
 swing swing
 sàbat
 sàcul sàcul
@@ -71588,7 +71588,7 @@ tiòlic ti_ò_lic
 tiòlisi ti_ò_li_si
 tiònic ti_ò_nic
 tió ti_ó
-tmesi
+tmesi tme_si
 to
 toaleta to_a_le_ta
 toarcià to_ar_ci_à
