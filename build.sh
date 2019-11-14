@@ -1,12 +1,12 @@
 #!/bin/bash
 perl make-test.pl "hyph-ca-simple.tex" "hyph-ca-new.tex" <mots.txt > mots-separats.txt
-perl oneruleperline.pl hyph-ca-new.tex hyph-ca-new2.tex
 echo "******** RESULTS ********"
 cat resum-resultats.txt
 echo "*************************"
 if [[ $1 == release ]]
 then
     echo "Converting patterns..."
+    perl oneruleperline.pl hyph-ca-new.tex hyph-ca-new2.tex
     perl substrings.pl hyph-ca-new2.tex output.dic > substrings-results.txt
     #Converteix a format DOS / UTF-8
     iconv -f ISO-8859-1 -t UTF-8 output.dic > output-utf8.dic
