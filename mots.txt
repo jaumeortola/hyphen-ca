@@ -25619,9 +25619,9 @@ duròmetre
 duta
 dutxa
 dutxar
-duumvir duum_vir
-duumviral duum_vi_ral
-duumvirat duum_vi_rat
+duumvir du_um_vir
+duumviral du_um_vi_ral
+duumvirat du_um_vi_rat
 dux
 duïll du_ïll
 dàcrion dà_cri_on

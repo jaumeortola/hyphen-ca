@@ -2,6 +2,9 @@ aclameir a_cla_meir
 anabiòtic a_na_bi_ò_tic
 ananabàsia a_na_na_bà_si_a
 aròlium a_rò_lium
+duumvir duum_vir
+duumviral duum_vi_ral
+duumvirat duum_vi_rat
 fàtua fà_tua
 hidrognòsia hi_dro_gnò_si_a   [tots els casos de -gnòsia són dubtosos. S'ha de canviar i fer -gnò-sia?]
 hiperonímia hi_pe_ro_ní_mi_a
