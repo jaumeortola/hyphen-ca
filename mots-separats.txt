@@ -38536,6 +38536,8 @@ grífol --> grí_fol grí_fol
 grípia grí_pi_a --> grí_pi_a grí_pi_a
 grívia grí_vi_a --> grí_vi_a grí_vi_a
 gróndola --> grón_do_la grón_do_la
+grúid grú_id --> grúid grú_id
+grúids grú_ids --> grúids grú_ids
 guacamai gua_ca_mai --> gua_ca_mai gua_ca_mai
 guadamassil --> gua_da_mas_sil gua_da_mas_sil
 guadamassiler --> gua_da_mas_si_ler gua_da_mas_si_ler

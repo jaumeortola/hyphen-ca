@@ -13,6 +13,7 @@ my $line;
 while (<HYPH>)
 {
     $line=$_;	
+    $line =~ s/%.*//;
     if ($line =~ /^[%{}\\]/) {
 	#comment, ignore
     } 

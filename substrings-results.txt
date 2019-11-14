@@ -3749,31 +3749,31 @@ f1ta + 1ta -> f1ta
 fta+1le
 e1ï is embedded in 3f4taleïn
 ftal+e1ï
-àid. is embedded in àid.
-+àid.
-èid. is embedded in èid.
-+èid.
-éid. is embedded in éid.
-+éid.
-òid. is embedded in òid.
-+òid.
-óid. is embedded in óid.
-+óid.
-úid. is embedded in úid.
-+úid.
-àids. is embedded in àids.
-+àids.
-èids. is embedded in èids.
-+èids.
-óids. is embedded in óids.
-+óids.
-òids. is embedded in òids.
-+òids.
-óids. is embedded in óids.
+à1id. is embedded in à1id.
++à1id.
+è1id. is embedded in è1id.
++è1id.
+é1id. is embedded in é1id.
++é1id.
+ò1id. is embedded in ò1id.
++ò1id.
+ó1id. is embedded in ó1id.
++ó1id.
+ú1id. is embedded in ú1id.
++ú1id.
+à1ids. is embedded in à1ids.
++à1ids.
+è1ids. is embedded in è1ids.
++è1ids.
+ó1ids. is embedded in ó1ids.
++ó1ids.
+ò1ids. is embedded in ò1ids.
++ò1ids.
+ó1ids. is embedded in ó1ids.
 óids. includes óids. at pos 0
-óids. + óids. -> óids.
-úids. is embedded in úids.
-+úids.
+ó1ids. + ó1ids. -> ó1ids.
+ú1ids. is embedded in ú1ids.
++ú1ids.
 u1ir. is embedded in u1ir.
 +u1ir.
 1qu is embedded in qu4ir.
@@ -9008,20 +9008,6 @@ u1a is embedded in .guarda3infant
 .hepthe+1mí
 1me is embedded in .hep3t4hemímer
 .hepthemí+1me
-1ca is embedded in cal
-ca includes ca at pos 0
-1ca + 1ca -> 1ca
-cal is embedded in cal
-+cal
-1re is embedded in revisar
-re includes re at pos 0
-1re + 1re -> 1re
-revisar is embedded in revisar
-+revisar
-1vi is embedded in revisar
-re+1vi
-1sa is embedded in revisar
-revi+1sa
 .h4 is embedded in .hete4r3oft
 .h includes .h at pos 0
 .h4 + .h4 -> .h4
@@ -10297,9 +10283,6 @@ mesclantaigü2e + ü1e -> mesclantaigü2e
 .mi1c2ro + 1ro -> .mi1c2ro
 1fo is embedded in .micro3inform
 .microin+1fo
-form is embedded in .micro3inform
-.microinform includes form at pos 8
-.micro3inform + form -> .micro3inform
 .m4 is embedded in .micro3instr
 .m includes .m at pos 0
 .m4 + .m4 -> .m4
@@ -10914,9 +10897,6 @@ e1o is embedded in .pos4t3alveo
 .posta+3po
 1ca is embedded in .pos4t3apocal
 .postapo+1ca
-cal is embedded in .pos4t3apocal
-.postapocal includes cal at pos 8
-.pos4t3apocal + cal -> .pos4t3apocal
 .pos4t3enc is embedded in .pos4t3enc
 +.pos4t3enc
 3po is embedded in .pos4t3enc
@@ -13616,8 +13596,6 @@ indústri includes ri at pos 6
 +1informa
 1fo is embedded in 1informa
 in+1fo
-form is embedded in 1informa
-in+form
 1ma is embedded in 1informa
 informa includes ma at pos 5
 1informa + 1ma -> 1infor1ma
@@ -13626,9 +13604,6 @@ informa includes ma at pos 5
 1fo is embedded in 1informe
 info includes fo at pos 2
 in1fo + 1fo -> in1fo
-form is embedded in 1informe
-inform includes form at pos 2
-inform + form -> inform
 1me is embedded in 1informe
 informe includes me at pos 5
 1informe + 1me -> 1infor1me
@@ -13637,9 +13612,6 @@ informe includes me at pos 5
 1fo is embedded in 1informi
 info includes fo at pos 2
 in1fo + 1fo -> in1fo
-form is embedded in 1informi
-inform includes form at pos 2
-inform + form -> inform
 1mi is embedded in 1informi
 informi includes mi at pos 5
 1informi + 1mi -> 1infor1mi
@@ -13648,9 +13620,6 @@ informi includes mi at pos 5
 1fo is embedded in 1informà
 info includes fo at pos 2
 in1fo + 1fo -> in1fo
-form is embedded in 1informà
-inform includes form at pos 2
-inform + form -> inform
 1mà is embedded in 1informà
 informà includes mà at pos 5
 1informà + 1mà -> 1infor1mà
@@ -13659,9 +13628,6 @@ informà includes mà at pos 5
 1fo is embedded in 1informé
 info includes fo at pos 2
 in1fo + 1fo -> in1fo
-form is embedded in 1informé
-inform includes form at pos 2
-inform + form -> inform
 1mé is embedded in 1informé
 informé includes mé at pos 5
 1informé + 1mé -> 1infor1mé
@@ -14681,20 +14647,6 @@ lyita. includes yita. at pos 1
 l2yita. + 2yita. -> l2yita.
 1ta is embedded in l2yita.
 lyi+1ta
-1pu is embedded in pumpel·lyita!?
-pu includes pu at pos 0
-1pu + 1pu -> 1pu
-pumpel·lyita!? is embedded in pumpel·lyita!?
-+pumpel·lyita!?
-3pe is embedded in pumpel·lyita!?
-pum+3pe
-l·1l2y3i is embedded in pumpel·lyita!?
-pumpe+l·1l2y3i
-1yi is embedded in pumpel·lyita!?
-pumpel·lyi includes yi at pos 8
-pumpel·1l2y3i + 1yi -> pumpel·1l2y3i
-1ta is embedded in pumpel·lyita!?
-pumpel·lyi+1ta
 1b2ya is embedded in 1b2ya
 +1b2ya
 1ya is embedded in 1b2ya
@@ -15779,31 +15731,6 @@ benhu+1mo
 1ri is embedded in .wi2th1erit
 .witheri includes ri at pos 6
 .withe1ri + 1ri -> .withe1ri
-3du is embedded in dubtós,
-du includes du at pos 0
-3du + 3du -> 3du
-dubtós, is embedded in dubtós,
-+dubtós,
-1tó is embedded in dubtós,
-dub+1tó
-1ca is embedded in cal
-ca includes ca at pos 0
-1ca + 1ca -> 1ca
-cal is embedded in cal
-cal includes cal at pos 0
-cal + cal -> cal
-1re is embedded in revisar
-re includes re at pos 0
-1re + 1re -> 1re
-revisar is embedded in revisar
-revisar includes revisar at pos 0
-revisar + revisar -> revisar
-1vi is embedded in revisar
-revi includes vi at pos 2
-re1vi + 1vi -> re1vi
-1sa is embedded in revisar
-revisa includes sa at pos 4
-revi1sa + 1sa -> revi1sa
 .c4 is embedded in .ca2p3huit
 .c includes .c at pos 0
 .c4 + .c4 -> .c4
@@ -15836,33 +15763,6 @@ revi1sa + 1sa -> revi1sa
 .stepha+3ni
 i1à is embedded in .ste2p3hanià.
 .stephan+i1à
-3du is embedded in dubtós,
-du includes du at pos 0
-3du + 3du -> 3du
-dubtós, is embedded in dubtós,
-dubtós, includes dubtós, at pos 0
-dubtós, + dubtós, -> dubtós,
-1tó is embedded in dubtós,
-dubtó includes tó at pos 3
-dub1tó + 1tó -> dub1tó
-1ca is embedded in cal
-ca includes ca at pos 0
-1ca + 1ca -> 1ca
-cal is embedded in cal
-cal includes cal at pos 0
-cal + cal -> cal
-1re is embedded in revisar
-re includes re at pos 0
-1re + 1re -> 1re
-revisar is embedded in revisar
-revisar includes revisar at pos 0
-revisar + revisar -> revisar
-1vi is embedded in revisar
-revi includes vi at pos 2
-re1vi + 1vi -> re1vi
-1sa is embedded in revisar
-revisa includes sa at pos 4
-revi1sa + 1sa -> revi1sa
 .s4 is embedded in .ste2p3hanian
 .s includes .s at pos 0
 .s4 + .s4 -> .s4
@@ -15885,23 +15785,6 @@ revi1sa + 1sa -> revi1sa
 .stepha3ni + 3ni -> .stepha3ni
 i1a is embedded in .ste2p3hanian
 .stephan+i1a
-GLDC is embedded in GLDC
-+GLDC
-indica is embedded in indica
-+indica
-1di is embedded in indica
-in+1di
-1ca is embedded in indica
-indica includes ca at pos 4
-indica + 1ca -> indi1ca
-step-ha-ni-à is embedded in step-ha-ni-à
-+step-ha-ni-à
-1te is embedded in step-ha-ni-à
-s+1te
-1ha is embedded in step-ha-ni-à
-step-+1ha
-3ni is embedded in step-ha-ni-à
-step-ha-+3ni
 l·1l2y3i is embedded in l·1l2y3i
 +l·1l2y3i
 1yi is embedded in l·1l2y3i
@@ -16034,13 +15917,6 @@ gu2o is embedded in .agu3o
 u1o is embedded in .agu3o
 .aguo includes uo at pos 3
 .agu3o + u1o -> .agu3o
-GDLC is embedded in GDLC
-+GDLC
-1fo is embedded in form
-fo includes fo at pos 0
-1fo + 1fo -> 1fo
-form is embedded in form
-+form
 .agu3à is embedded in .agu3à
 +.agu3à
 1gu is embedded in .agu3à
@@ -16149,15 +16025,6 @@ gu2o is embedded in -agu3o
 u1o is embedded in -agu3o
 -aguo includes uo at pos 3
 -agu3o + u1o -> -agu3o
-GDLC is embedded in GDLC
-GDLC includes GDLC at pos 0
-GDLC + GDLC -> GDLC
-1fo is embedded in form
-fo includes fo at pos 0
-1fo + 1fo -> 1fo
-form is embedded in form
-form includes form at pos 0
-form + form -> form
 -agu3à is embedded in -agu3à
 +-agu3à
 1gu is embedded in -agu3à

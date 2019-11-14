@@ -38563,6 +38563,8 @@ grífol
 grípia grí_pi_a
 grívia grí_vi_a
 gróndola
+grúid grú_id
+grúids grú_ids
 guacamai gua_ca_mai
 guadamassil
 guadamassiler
