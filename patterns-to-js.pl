@@ -12,7 +12,7 @@ while( my $line = <$fh>) {
 	if ($line =~ /IGNORE/) {
 		last;
 	}
-	$line =~ s/^%.*//;
+	$line =~ s/%.*//;
 	$line =~ s/^\\patterns.*//;
 	$line =~ s/^\}.*//;
 	my @patterns = split / +/, $line;
