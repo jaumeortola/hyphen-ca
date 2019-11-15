@@ -1,3 +1,103 @@
+c c --> c c
+i i --> i i
+ii ii --> ii ii
+iii iii --> iii iii
+iv iv --> iv iv
+ix ix --> ix ix
+l l --> l l
+li li --> li li
+lii lii --> lii lii
+liii liii --> liii liii
+liv liv --> liv liv
+lix lix --> lix lix
+lv lv --> lv lv
+lvi lvi --> l_vi lvi
+lvii lvii --> l_vii lvii
+lviii lviii --> l_viii lviii
+lx lx --> lx lx
+lxi lxi --> l_xi lxi
+lxii lxii --> l_xii lxii
+lxiii lxiii --> l_xiii lxiii
+lxiv lxiv --> l_xiv lxiv
+lxix lxix --> l_xix lxix
+lxv lxv --> lxv lxv
+lxvi lxvi --> lx_vi lxvi
+lxvii lxvii --> lx_vii lxvii
+lxviii lxviii --> lx_viii lxviii
+lxx lxx --> lxx lxx
+lxxi lxxi --> lx_xi lxxi
+lxxii lxxii --> lx_xii lxxii
+lxxiii lxxiii --> lx_xiii lxxiii
+lxxiv lxxiv --> lx_xiv lxxiv
+lxxix lxxix --> lx_xix lxxix
+lxxv lxxv --> lxxv lxxv
+lxxvi lxxvi --> lxx_vi lxxvi
+lxxvii lxxvii --> lxx_vii lxxvii
+lxxviii lxxviii --> lxx_viii lxxviii
+lxxx lxxx --> lxxx lxxx
+lxxxi lxxxi --> lxx_xi lxxxi
+lxxxii lxxxii --> lxx_xii lxxxii
+lxxxiii lxxxiii --> lxx_xiii lxxxiii
+lxxxiv lxxxiv --> lxx_xiv lxxxiv
+lxxxix lxxxix --> lxx_xix lxxxix
+lxxxv lxxxv --> lxxxv lxxxv
+lxxxvi lxxxvi --> lxxx_vi lxxxvi
+lxxxvii lxxxvii --> lxxx_vii lxxxvii
+lxxxviii lxxxviii --> lxxx_viii lxxxviii
+v v --> v v
+vi vi --> vi vi
+vii vii --> vii vii
+viii viii --> viii viii
+x x --> x x
+xc xc --> xc xc
+xci xci --> x_ci xci
+xcii xcii --> x_cii xcii
+xciii xciii --> x_ciii xciii
+xciv xciv --> x_civ xciv
+xcix xcix --> x_cix xcix
+xcv xcv --> xcv xcv
+xcvi xcvi --> xc_vi xcvi
+xcvii xcvii --> xc_vii xcvii
+xcviii xcviii --> xc_viii xcviii
+xi xi --> xi xi
+xii xii --> xii xii
+xiii xiii --> xiii xiii
+xiv xiv --> xiv xiv
+xix xix --> xix xix
+xl xl --> xl xl
+xli xli --> x_li xli
+xlii xlii --> x_lii xlii
+xliii xliii --> x_liii xliii
+xliv xliv --> x_liv xliv
+xlix xlix --> x_lix xlix
+xlv xlv --> xlv xlv
+xlvi xlvi --> xl_vi xlvi
+xlvii xlvii --> xl_vii xlvii
+xlviii xlviii --> xl_viii xlviii
+xv xv --> xv xv
+xvi xvi --> x_vi xvi
+xvii xvii --> x_vii xvii
+xviii xviii --> x_viii xviii
+xx xx --> xx xx
+xxi xxi --> x_xi xxi
+xxii xxii --> x_xii xxii
+xxiii xxiii --> x_xiii xxiii
+xxiv xxiv --> x_xiv xxiv
+xxix xxix --> x_xix xxix
+xxv xxv --> xxv xxv
+xxvi xxvi --> xx_vi xxvi
+xxvii xxvii --> xx_vii xxvii
+xxviii xxviii --> xx_viii xxviii
+xxx xxx --> xxx xxx
+xxxi xxxi --> xx_xi xxxi
+xxxii xxxii --> xx_xii xxxii
+xxxiii xxxiii --> xx_xiii xxxiii
+xxxiv xxxiv --> xx_xiv xxxiv
+xxxix xxxix --> xx_xix xxxix
+xxxv xxxv --> xxxv xxxv
+xxxvi xxxvi --> xxx_vi xxxvi
+xxxvii xxxvii --> xxx_vii xxxvii
+xxxviii xxxviii --> xxx_viii xxxviii
 -adelf --> _a_delf _a_delf
 -amido --> _a_mi_do _a_mi_do
 -aminil --> _a_mi_nil _a_mi_nil
@@ -13312,6 +13412,8 @@ campanut --> cam_pa_nut cam_pa_nut
 campanya --> cam_pa_nya cam_pa_nya
 campanyol --> cam_pa_nyol cam_pa_nyol
 campar --> cam_par cam_par
+campañà cam_pa_ñà --> cam_pañà cam_pa_ñà
+campañá cam_pa_ñá --> cam_pañá cam_pa_ñá
 campejar --> cam_pe_jar cam_pe_jar
 campeller --> cam_pe_ller cam_pe_ller
 camper --> cam_per cam_per
