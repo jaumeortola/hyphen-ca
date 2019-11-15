@@ -1,103 +1,3 @@
-c c
-i i
-ii ii
-iii iii
-iv iv
-ix ix
-l l
-li li
-lii lii
-liii liii
-liv liv
-lix lix
-lv lv
-lvi lvi
-lvii lvii
-lviii lviii
-lx lx
-lxi lxi
-lxii lxii
-lxiii lxiii
-lxiv lxiv
-lxix lxix
-lxv lxv
-lxvi lxvi
-lxvii lxvii
-lxviii lxviii
-lxx lxx
-lxxi lxxi
-lxxii lxxii
-lxxiii lxxiii
-lxxiv lxxiv
-lxxix lxxix
-lxxv lxxv
-lxxvi lxxvi
-lxxvii lxxvii
-lxxviii lxxviii
-lxxx lxxx
-lxxxi lxxxi
-lxxxii lxxxii
-lxxxiii lxxxiii
-lxxxiv lxxxiv
-lxxxix lxxxix
-lxxxv lxxxv
-lxxxvi lxxxvi
-lxxxvii lxxxvii
-lxxxviii lxxxviii
-v v
-vi vi
-vii vii
-viii viii
-x x
-xc xc
-xci xci
-xcii xcii
-xciii xciii
-xciv xciv
-xcix xcix
-xcv xcv
-xcvi xcvi
-xcvii xcvii
-xcviii xcviii
-xi xi
-xii xii
-xiii xiii
-xiv xiv
-xix xix
-xl xl
-xli xli
-xlii xlii
-xliii xliii
-xliv xliv
-xlix xlix
-xlv xlv
-xlvi xlvi
-xlvii xlvii
-xlviii xlviii
-xv xv
-xvi xvi
-xvii xvii
-xviii xviii
-xx xx
-xxi xxi
-xxii xxii
-xxiii xxiii
-xxiv xxiv
-xxix xxix
-xxv xxv
-xxvi xxvi
-xxvii xxvii
-xxviii xxviii
-xxx xxx
-xxxi xxxi
-xxxii xxxii
-xxxiii xxxiii
-xxxiv xxxiv
-xxxix xxxix
-xxxv xxxv
-xxxvi xxxvi
-xxxvii xxxvii
-xxxviii xxxviii
 #acutiúscul a_cu_ti_ús_cul
 #bàcul
 #caracul
@@ -12627,6 +12527,7 @@ búnquer
 búrnia búr_ni_a
 bústia bús_ti_a
 bútxara
+c c
 ca
 cab
 cabal
@@ -40706,6 +40607,7 @@ húnnic
 hússar
 hübnerita
 i
+i i
 iac
 iac iac
 iacetà ia_ce_tà
@@ -40910,6 +40812,8 @@ igualtat
 iguana
 iguanodont
 iguànids i_guà_nids
+ii ii
+iii iii
 ikebana
 ikhxidita ikh_xi_di_ta
 il-khan
@@ -43944,11 +43848,13 @@ iuma iu_ma
 iurac iu_rac
 iure
 iurta iur_ta
+iv iv
 iva
 ivaçós
 ivori
 ivorià i_vo_ri_à
 ivó
+ix ix
 ixent
 ixòdids
 iàmbic iàm_bic
@@ -44401,6 +44307,7 @@ kàiser kài_ser
 kàrting
 kèrria kèr_ri_a
 kírie kí_ri_e
+l l
 l'sporting l'spor_ting
 labdàcida
 label
@@ -44971,6 +44878,7 @@ lexicòleg
 lexicó
 lherzolita lher_zo_li_ta
 li
+li li
 liana li_a_na
 lianoide li_a_noi_de
 liasa li_a_sa
@@ -45058,6 +44966,8 @@ ligular
 ligulat
 liguliflor
 ligustrals
+lii lii
+liii liii
 lila
 liliaci li_li_a_ci
 liliates li_li_a_tes
@@ -45323,9 +45233,11 @@ litòtrof
 litúrgia li_túr_gi_a
 litúrgic
 litúrgicament
+liv liv
 livedo
 lividesa
 livonià li_vo_ni_à
+lix lix
 lixiviació li_xi_vi_a_ci_ó
 lixiviador li_xi_vi_a_dor
 lixiviar li_xi_vi_ar
@@ -46352,6 +46264,40 @@ luxó
 luxós
 luxúria lu_xú_ri_a
 luètic lu_è_tic
+lv lv
+lvi lvi
+lvii lvii
+lviii lviii
+lx lx
+lxi lxi
+lxii lxii
+lxiii lxiii
+lxiv lxiv
+lxix lxix
+lxv lxv
+lxvi lxvi
+lxvii lxvii
+lxviii lxviii
+lxx lxx
+lxxi lxxi
+lxxii lxxii
+lxxiii lxxiii
+lxxiv lxxiv
+lxxix lxxix
+lxxv lxxv
+lxxvi lxxvi
+lxxvii lxxvii
+lxxviii lxxviii
+lxxx lxxx
+lxxxi lxxxi
+lxxxii lxxxii
+lxxxiii lxxxiii
+lxxxiv lxxxiv
+lxxxix lxxxix
+lxxxv lxxxv
+lxxxvi lxxxvi
+lxxxvii lxxxvii
+lxxxviii lxxxviii
 làbar
 làbil
 làbium là_bi_um
@@ -74459,6 +74405,7 @@ uxoricidi
 uzbek
 uís u_ís
 uïssar u_ïs_sar
+v v
 va
 vaca
 vacacional va_ca_ci_o_nal
@@ -75300,6 +75247,7 @@ veïnat ve_ï_nat
 veïnatge ve_ï_nat_ge
 veïner ve_ï_ner
 vi
+vi vi
 via vi_a
 viabilitat vi_a_bi_li_tat
 viable vi_a_ble
@@ -75446,6 +75394,8 @@ vigorós
 vigència vi_gèn_ci_a
 vigèsim
 vigília vi_gí_li_a
+vii vii
+viii viii
 vil
 vila
 vila-realenc vi_la_re_a_lenc
@@ -76124,6 +76074,7 @@ wulfenita
 wurtzita
 wèlter
 würmià wür_mi_à
+x x
 xa
 xabec
 xabienc xa_bi_enc
@@ -76350,6 +76301,16 @@ xaveguer
 xavegó
 xaveta
 xavo
+xc xc
+xci xci
+xcii xcii
+xciii xciii
+xciv xciv
+xcix xcix
+xcv xcv
+xcvi xcvi
+xcvii xcvii
+xcviii xcviii
 xe
 xebronat
 xebronet
@@ -76449,6 +76410,7 @@ xerès
 xeròfil
 xeròfit
 xeviot xe_vi_ot
+xi xi
 xibeca
 xibiu xi_biu
 xibuc
@@ -76477,6 +76439,8 @@ xifreda
 xifrer
 xifòfor
 xifòpag
+xii xii
+xiii xiii
 xiisme xi_is_me
 xiitake xi_i_ta_ke
 xilarials xi_la_ri_als
@@ -76584,16 +76548,28 @@ xiuxiuadera xiu_xi_ua_de_ra
 xiuxiuar xiu_xi_uar
 xiuxiueig xiu_xi_ueig
 xiuxiuejar xiu_xi_ue_jar
+xiv xiv
 xivaisme xi_va_is_me
 xivarri
 xivaïta xi_va_ï_ta
 xivita
 xivitona
+xix xix
 xixell
 xixella
 xixina
 xixonenc
 xiïta xi_ï_ta
+xl xl
+xli xli
+xlii xlii
+xliii xliii
+xliv xliv
+xlix xlix
+xlv xlv
+xlvi xlvi
+xlvii xlvii
+xlviii xlviii
 xo
 xoc
 xocant
@@ -76677,6 +76653,30 @@ xut
 xutador
 xutar
 xuït xu_ït
+xv xv
+xvi xvi
+xvii xvii
+xviii xviii
+xx xx
+xxi xxi
+xxii xxii
+xxiii xxiii
+xxiv xxiv
+xxix xxix
+xxv xxv
+xxvi xxvi
+xxvii xxvii
+xxviii xxviii
+xxx xxx
+xxxi xxxi
+xxxii xxxii
+xxxiii xxxiii
+xxxiv xxxiv
+xxxix xxxix
+xxxv xxxv
+xxxvi xxxvi
+xxxvii xxxvii
+xxxviii xxxviii
 xàfec
 xàldiga
 xàntic
