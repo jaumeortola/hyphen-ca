@@ -45008,6 +45008,8 @@ lidi --> li_di li_di
 lidiar li_di_ar --> li_di_ar li_di_ar
 lidita --> li_di_ta li_di_ta
 lidocaïna li_do_ca_ï_na --> li_do_ca_ï_na li_do_ca_ï_na
+liechtenstein liech_ten_stein --> li_e_ch_tens_tein liech_ten_stein
+liechtensteinès liech_ten_stei_nès --> li_e_ch_tens_tei_nès liech_ten_stei_nès
 liegès li_e_gès --> li_e_gès li_e_gès
 lienteria li_en_te_ri_a --> li_en_te_ri_a li_en_te_ri_a
 lies li_es --> li_es li_es
@@ -69668,6 +69670,7 @@ sòleus sò_le_us --> sò_leus sò_le_us
 sòlid --> sò_lid sò_lid
 sòlidament --> sò_li_da_ment sò_li_da_ment
 sòlit --> sò_lit sò_lit
+sòls sòls --> sòls sòls
 sòmines --> sò_mi_nes sò_mi_nes
 sònic --> sò_nic sò_nic
 sòpit --> sò_pit sò_pit

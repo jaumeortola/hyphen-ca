@@ -44943,6 +44943,8 @@ lidi
 lidiar li_di_ar
 lidita
 lidocaïna li_do_ca_ï_na
+liechtenstein liech_ten_stein
+liechtensteinès liech_ten_stei_nès
 liegès li_e_gès
 lienteria li_en_te_ri_a
 lies li_es
@@ -69641,6 +69643,7 @@ sòleus sò_le_us
 sòlid
 sòlidament
 sòlit
+sòls sòls
 sòmines
 sònic
 sòpit
