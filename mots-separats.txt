@@ -1,103 +1,3 @@
-c c --> c c
-i i --> i i
-ii ii --> ii ii
-iii iii --> iii iii
-iv iv --> iv iv
-ix ix --> ix ix
-l l --> l l
-li li --> li li
-lii lii --> lii lii
-liii liii --> liii liii
-liv liv --> liv liv
-lix lix --> lix lix
-lv lv --> lv lv
-lvi lvi --> l_vi lvi
-lvii lvii --> l_vii lvii
-lviii lviii --> l_viii lviii
-lx lx --> lx lx
-lxi lxi --> l_xi lxi
-lxii lxii --> l_xii lxii
-lxiii lxiii --> l_xiii lxiii
-lxiv lxiv --> l_xiv lxiv
-lxix lxix --> l_xix lxix
-lxv lxv --> lxv lxv
-lxvi lxvi --> lx_vi lxvi
-lxvii lxvii --> lx_vii lxvii
-lxviii lxviii --> lx_viii lxviii
-lxx lxx --> lxx lxx
-lxxi lxxi --> lx_xi lxxi
-lxxii lxxii --> lx_xii lxxii
-lxxiii lxxiii --> lx_xiii lxxiii
-lxxiv lxxiv --> lx_xiv lxxiv
-lxxix lxxix --> lx_xix lxxix
-lxxv lxxv --> lxxv lxxv
-lxxvi lxxvi --> lxx_vi lxxvi
-lxxvii lxxvii --> lxx_vii lxxvii
-lxxviii lxxviii --> lxx_viii lxxviii
-lxxx lxxx --> lxxx lxxx
-lxxxi lxxxi --> lxx_xi lxxxi
-lxxxii lxxxii --> lxx_xii lxxxii
-lxxxiii lxxxiii --> lxx_xiii lxxxiii
-lxxxiv lxxxiv --> lxx_xiv lxxxiv
-lxxxix lxxxix --> lxx_xix lxxxix
-lxxxv lxxxv --> lxxxv lxxxv
-lxxxvi lxxxvi --> lxxx_vi lxxxvi
-lxxxvii lxxxvii --> lxxx_vii lxxxvii
-lxxxviii lxxxviii --> lxxx_viii lxxxviii
-v v --> v v
-vi vi --> vi vi
-vii vii --> vii vii
-viii viii --> viii viii
-x x --> x x
-xc xc --> xc xc
-xci xci --> x_ci xci
-xcii xcii --> x_cii xcii
-xciii xciii --> x_ciii xciii
-xciv xciv --> x_civ xciv
-xcix xcix --> x_cix xcix
-xcv xcv --> xcv xcv
-xcvi xcvi --> xc_vi xcvi
-xcvii xcvii --> xc_vii xcvii
-xcviii xcviii --> xc_viii xcviii
-xi xi --> xi xi
-xii xii --> xii xii
-xiii xiii --> xiii xiii
-xiv xiv --> xiv xiv
-xix xix --> xix xix
-xl xl --> xl xl
-xli xli --> x_li xli
-xlii xlii --> x_lii xlii
-xliii xliii --> x_liii xliii
-xliv xliv --> x_liv xliv
-xlix xlix --> x_lix xlix
-xlv xlv --> xlv xlv
-xlvi xlvi --> xl_vi xlvi
-xlvii xlvii --> xl_vii xlvii
-xlviii xlviii --> xl_viii xlviii
-xv xv --> xv xv
-xvi xvi --> x_vi xvi
-xvii xvii --> x_vii xvii
-xviii xviii --> x_viii xviii
-xx xx --> xx xx
-xxi xxi --> x_xi xxi
-xxii xxii --> x_xii xxii
-xxiii xxiii --> x_xiii xxiii
-xxiv xxiv --> x_xiv xxiv
-xxix xxix --> x_xix xxix
-xxv xxv --> xxv xxv
-xxvi xxvi --> xx_vi xxvi
-xxvii xxvii --> xx_vii xxvii
-xxviii xxviii --> xx_viii xxviii
-xxx xxx --> xxx xxx
-xxxi xxxi --> xx_xi xxxi
-xxxii xxxii --> xx_xii xxxii
-xxxiii xxxiii --> xx_xiii xxxiii
-xxxiv xxxiv --> xx_xiv xxxiv
-xxxix xxxix --> xx_xix xxxix
-xxxv xxxv --> xxxv xxxv
-xxxvi xxxvi --> xxx_vi xxxvi
-xxxvii xxxvii --> xxx_vii xxxvii
-xxxviii xxxviii --> xxx_viii xxxviii
 -adelf --> _a_delf _a_delf
 -amido --> _a_mi_do _a_mi_do
 -aminil --> _a_mi_nil _a_mi_nil
@@ -12600,6 +12500,7 @@ búnquer --> bún_quer bún_quer
 búrnia búr_ni_a --> búr_ni_a búr_ni_a
 bústia bús_ti_a --> bús_ti_a bús_ti_a
 bútxara --> bút_xa_ra bút_xa_ra
+c c --> c c
 ca --> ca ca
 cab --> cab cab
 cabal --> ca_bal ca_bal
@@ -40679,6 +40580,7 @@ húnnic --> hún_nic hún_nic
 hússar --> hús_sar hús_sar
 hübnerita --> hüb_ne_ri_ta hüb_ne_ri_ta
 i --> i i
+i i --> i i
 iac --> iac iac
 iac iac --> iac iac
 iacetà ia_ce_tà --> ia_ce_tà ia_ce_tà
@@ -40883,6 +40785,8 @@ igualtat --> i_gual_tat i_gual_tat
 iguana --> i_gua_na i_gua_na
 iguanodont --> i_gua_no_dont i_gua_no_dont
 iguànids i_guà_nids --> i_guà_nids i_guà_nids
+ii ii --> ii ii
+iii iii --> iii iii
 ikebana --> i_ke_ba_na i_ke_ba_na
 ikhxidita ikh_xi_di_ta --> i_kh_xi_di_ta ikh_xi_di_ta
 il-khan --> il_khan il_khan
@@ -43917,11 +43821,13 @@ iuma iu_ma --> iu_ma iu_ma
 iurac iu_rac --> iu_rac iu_rac
 iure --> iu_re iu_re
 iurta iur_ta --> iur_ta iur_ta
+iv iv --> iv iv
 iva --> i_va i_va
 ivaçós --> i_va_çós i_va_çós
 ivori --> i_vo_ri i_vo_ri
 ivorià i_vo_ri_à --> i_vo_ri_à i_vo_ri_à
 ivó --> i_vó i_vó
+ix ix --> ix ix
 ixent --> i_xent i_xent
 ixòdids --> i_xò_dids i_xò_dids
 iàmbic iàm_bic --> iàm_bic iàm_bic
@@ -44374,6 +44280,7 @@ kàiser kài_ser --> kài_ser kài_ser
 kàrting --> kàr_ting kàr_ting
 kèrria kèr_ri_a --> kèr_ri_a kèr_ri_a
 kírie kí_ri_e --> kí_ri_e kí_ri_e
+l l --> l l
 l'sporting l'spor_ting --> l's_por_ting l'spor_ting
 labdàcida --> lab_dà_ci_da lab_dà_ci_da
 label --> la_bel la_bel
@@ -44944,6 +44851,7 @@ lexicòleg --> le_xi_cò_leg le_xi_cò_leg
 lexicó --> le_xi_có le_xi_có
 lherzolita lher_zo_li_ta --> l_her_zo_li_ta lher_zo_li_ta
 li --> li li
+li li --> li li
 liana li_a_na --> li_a_na li_a_na
 lianoide li_a_noi_de --> li_a_noi_de li_a_noi_de
 liasa li_a_sa --> li_a_sa li_a_sa
@@ -45033,6 +44941,8 @@ ligular --> li_gu_lar li_gu_lar
 ligulat --> li_gu_lat li_gu_lat
 liguliflor --> li_gu_li_flor li_gu_li_flor
 ligustrals --> li_gus_trals li_gus_trals
+lii lii --> lii lii
+liii liii --> liii liii
 lila --> li_la li_la
 liliaci li_li_a_ci --> li_li_a_ci li_li_a_ci
 liliates li_li_a_tes --> li_li_a_tes li_li_a_tes
@@ -45298,9 +45208,11 @@ litòtrof --> li_tò_trof li_tò_trof
 litúrgia li_túr_gi_a --> li_túr_gi_a li_túr_gi_a
 litúrgic --> li_túr_gic li_túr_gic
 litúrgicament --> li_túr_gi_ca_ment li_túr_gi_ca_ment
+liv liv --> liv liv
 livedo --> li_ve_do li_ve_do
 lividesa --> li_vi_de_sa li_vi_de_sa
 livonià li_vo_ni_à --> li_vo_ni_à li_vo_ni_à
+lix lix --> lix lix
 lixiviació li_xi_vi_a_ci_ó --> li_xi_vi_a_ci_ó li_xi_vi_a_ci_ó
 lixiviador li_xi_vi_a_dor --> li_xi_vi_a_dor li_xi_vi_a_dor
 lixiviar li_xi_vi_ar --> li_xi_vi_ar li_xi_vi_ar
@@ -46327,6 +46239,40 @@ luxó --> lu_xó lu_xó
 luxós --> lu_xós lu_xós
 luxúria lu_xú_ri_a --> lu_xú_ri_a lu_xú_ri_a
 luètic lu_è_tic --> lu_è_tic lu_è_tic
+lv lv --> lv lv
+lvi lvi --> l_vi lvi
+lvii lvii --> l_vii lvii
+lviii lviii --> l_viii lviii
+lx lx --> lx lx
+lxi lxi --> l_xi lxi
+lxii lxii --> l_xii lxii
+lxiii lxiii --> l_xiii lxiii
+lxiv lxiv --> l_xiv lxiv
+lxix lxix --> l_xix lxix
+lxv lxv --> lxv lxv
+lxvi lxvi --> lx_vi lxvi
+lxvii lxvii --> lx_vii lxvii
+lxviii lxviii --> lx_viii lxviii
+lxx lxx --> lxx lxx
+lxxi lxxi --> lx_xi lxxi
+lxxii lxxii --> lx_xii lxxii
+lxxiii lxxiii --> lx_xiii lxxiii
+lxxiv lxxiv --> lx_xiv lxxiv
+lxxix lxxix --> lx_xix lxxix
+lxxv lxxv --> lxxv lxxv
+lxxvi lxxvi --> lxx_vi lxxvi
+lxxvii lxxvii --> lxx_vii lxxvii
+lxxviii lxxviii --> lxx_viii lxxviii
+lxxx lxxx --> lxxx lxxx
+lxxxi lxxxi --> lxx_xi lxxxi
+lxxxii lxxxii --> lxx_xii lxxxii
+lxxxiii lxxxiii --> lxx_xiii lxxxiii
+lxxxiv lxxxiv --> lxx_xiv lxxxiv
+lxxxix lxxxix --> lxx_xix lxxxix
+lxxxv lxxxv --> lxxxv lxxxv
+lxxxvi lxxxvi --> lxxx_vi lxxxvi
+lxxxvii lxxxvii --> lxxx_vii lxxxvii
+lxxxviii lxxxviii --> lxxx_viii lxxxviii
 làbar --> là_bar là_bar
 làbil --> là_bil là_bil
 làbium là_bi_um --> là_bi_um là_bi_um
@@ -74435,6 +74381,7 @@ uxoricidi --> u_xo_ri_ci_di u_xo_ri_ci_di
 uzbek --> uz_bek uz_bek
 uís u_ís --> uís u_ís
 uïssar u_ïs_sar --> u_ïs_sar u_ïs_sar
+v v --> v v
 va --> va va
 vaca --> va_ca va_ca
 vacacional va_ca_ci_o_nal --> va_ca_ci_o_nal va_ca_ci_o_nal
@@ -75276,6 +75223,7 @@ veïnat ve_ï_nat --> ve_ï_nat ve_ï_nat
 veïnatge ve_ï_nat_ge --> ve_ï_nat_ge ve_ï_nat_ge
 veïner ve_ï_ner --> ve_ï_ner ve_ï_ner
 vi --> vi vi
+vi vi --> vi vi
 via vi_a --> vi_a vi_a
 viabilitat vi_a_bi_li_tat --> vi_a_bi_li_tat vi_a_bi_li_tat
 viable vi_a_ble --> vi_a_ble vi_a_ble
@@ -75422,6 +75370,8 @@ vigorós --> vi_go_rós vi_go_rós
 vigència vi_gèn_ci_a --> vi_gèn_ci_a vi_gèn_ci_a
 vigèsim --> vi_gè_sim vi_gè_sim
 vigília vi_gí_li_a --> vi_gí_li_a vi_gí_li_a
+vii vii --> vii vii
+viii viii --> viii viii
 vil --> vil vil
 vila --> vi_la vi_la
 vila-realenc vi_la_re_a_lenc --> vi_la_re_a_lenc vi_la_re_a_lenc
@@ -76100,6 +76050,7 @@ wulfenita --> wul_fe_ni_ta wul_fe_ni_ta
 wurtzita --> wurt_zi_ta wurt_zi_ta
 wèlter --> wèl_ter wèl_ter
 würmià wür_mi_à --> wür_mi_à wür_mi_à
+x x --> x x
 xa --> xa xa
 xabec --> xa_bec xa_bec
 xabienc xa_bi_enc --> xa_bi_enc xa_bi_enc
@@ -76326,6 +76277,16 @@ xaveguer --> xa_ve_guer xa_ve_guer
 xavegó --> xa_ve_gó xa_ve_gó
 xaveta --> xa_ve_ta xa_ve_ta
 xavo --> xa_vo xa_vo
+xc xc --> xc xc
+xci xci --> x_ci xci
+xcii xcii --> x_cii xcii
+xciii xciii --> x_ciii xciii
+xciv xciv --> x_civ xciv
+xcix xcix --> x_cix xcix
+xcv xcv --> xcv xcv
+xcvi xcvi --> xc_vi xcvi
+xcvii xcvii --> xc_vii xcvii
+xcviii xcviii --> xc_viii xcviii
 xe --> xe xe
 xebronat --> xe_bro_nat xe_bro_nat
 xebronet --> xe_bro_net xe_bro_net
@@ -76425,6 +76386,7 @@ xerès --> xe_rès xe_rès
 xeròfil --> xe_rò_fil xe_rò_fil
 xeròfit --> xe_rò_fit xe_rò_fit
 xeviot xe_vi_ot --> xe_vi_ot xe_vi_ot
+xi xi --> xi xi
 xibeca --> xi_be_ca xi_be_ca
 xibiu xi_biu --> xi_biu xi_biu
 xibuc --> xi_buc xi_buc
@@ -76453,6 +76415,8 @@ xifreda --> xi_fre_da xi_fre_da
 xifrer --> xi_frer xi_frer
 xifòfor --> xi_fò_for xi_fò_for
 xifòpag --> xi_fò_pag xi_fò_pag
+xii xii --> xii xii
+xiii xiii --> xiii xiii
 xiisme xi_is_me --> xi_is_me xi_is_me
 xiitake xi_i_ta_ke --> xii_ta_ke xi_i_ta_ke
 xilarials xi_la_ri_als --> xi_la_ri_als xi_la_ri_als
@@ -76560,16 +76524,28 @@ xiuxiuadera xiu_xi_ua_de_ra --> xiu_xi_ua_de_ra xiu_xi_ua_de_ra
 xiuxiuar xiu_xi_uar --> xiu_xi_uar xiu_xi_uar
 xiuxiueig xiu_xi_ueig --> xiu_xi_ueig xiu_xi_ueig
 xiuxiuejar xiu_xi_ue_jar --> xiu_xi_ue_jar xiu_xi_ue_jar
+xiv xiv --> xiv xiv
 xivaisme xi_va_is_me --> xi_va_is_me xi_va_is_me
 xivarri --> xi_var_ri xi_var_ri
 xivaïta xi_va_ï_ta --> xi_va_ï_ta xi_va_ï_ta
 xivita --> xi_vi_ta xi_vi_ta
 xivitona --> xi_vi_to_na xi_vi_to_na
+xix xix --> xix xix
 xixell --> xi_xell xi_xell
 xixella --> xi_xe_lla xi_xe_lla
 xixina --> xi_xi_na xi_xi_na
 xixonenc --> xi_xo_nenc xi_xo_nenc
 xiïta xi_ï_ta --> xi_ï_ta xi_ï_ta
+xl xl --> xl xl
+xli xli --> x_li xli
+xlii xlii --> x_lii xlii
+xliii xliii --> x_liii xliii
+xliv xliv --> x_liv xliv
+xlix xlix --> x_lix xlix
+xlv xlv --> xlv xlv
+xlvi xlvi --> xl_vi xlvi
+xlvii xlvii --> xl_vii xlvii
+xlviii xlviii --> xl_viii xlviii
 xo --> xo xo
 xoc --> xoc xoc
 xocant --> xo_cant xo_cant
@@ -76653,6 +76629,30 @@ xut --> xut xut
 xutador --> xu_ta_dor xu_ta_dor
 xutar --> xu_tar xu_tar
 xuït xu_ït --> xu_ït xu_ït
+xv xv --> xv xv
+xvi xvi --> x_vi xvi
+xvii xvii --> x_vii xvii
+xviii xviii --> x_viii xviii
+xx xx --> xx xx
+xxi xxi --> x_xi xxi
+xxii xxii --> x_xii xxii
+xxiii xxiii --> x_xiii xxiii
+xxiv xxiv --> x_xiv xxiv
+xxix xxix --> x_xix xxix
+xxv xxv --> xxv xxv
+xxvi xxvi --> xx_vi xxvi
+xxvii xxvii --> xx_vii xxvii
+xxviii xxviii --> xx_viii xxviii
+xxx xxx --> xxx xxx
+xxxi xxxi --> xx_xi xxxi
+xxxii xxxii --> xx_xii xxxii
+xxxiii xxxiii --> xx_xiii xxxiii
+xxxiv xxxiv --> xx_xiv xxxiv
+xxxix xxxix --> xx_xix xxxix
+xxxv xxxv --> xxxv xxxv
+xxxvi xxxvi --> xxx_vi xxxvi
+xxxvii xxxvii --> xxx_vii xxxvii
+xxxviii xxxviii --> xxx_viii xxxviii
 xàfec --> xà_fec xà_fec
 xàldiga --> xàl_di_ga xàl_di_ga
 xàntic --> xàn_tic xàn_tic

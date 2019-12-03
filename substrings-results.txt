@@ -14585,6 +14585,17 @@ orwe8l9li + 1l2li -> orwe8l9li
 1li is embedded in orwe8l9li
 orwelli includes li at pos 5
 orwe8l9li + 1li -> orwe8l9li
+x4vi is embedded in x4vi
++x4vi
+1vi is embedded in x4vi
+xvi includes vi at pos 1
+x4vi + 1vi -> x4vi
+x4x is embedded in x4x
++x4x
+xc4v is embedded in xc4v
++xc4v
+xl4v is embedded in xl4v
++xl4v
 1ña is embedded in 1ña
 +1ña
 1ñe is embedded in 1ñe
@@ -15785,6 +15796,17 @@ i1à is embedded in .ste2p3hanià.
 .stepha3ni + 3ni -> .stepha3ni
 i1a is embedded in .ste2p3hanian
 .stephan+i1a
+1li is embedded in li4echten5s4tein
+li includes li at pos 0
+1li + 1li -> 1li
+li4echten5s4tein is embedded in li4echten5s4tein
++li4echten5s4tein
+i1e is embedded in li4echten5s4tein
+l+i1e
+1te is embedded in li4echten5s4tein
+liech+1te
+1te is embedded in li4echten5s4tein
+liechtens+1te
 l·1l2y3i is embedded in l·1l2y3i
 +l·1l2y3i
 1yi is embedded in l·1l2y3i
