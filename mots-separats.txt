@@ -1,15 +1,3 @@
-freelance free_lance --> fre_e_lan_ce free_lance
-ganache ga_nache --> ga_na_che ga_nache
-ganaches ga_naches --> ga_na_ches ga_naches
-halloween hal_low_een --> ha_llo_we_en hal_low_een
-jamboree jam_bo_ree --> jam_bo_re_e jam_bo_ree
-memphis mem_phis --> memp_his mem_phis
-montreal mont_re_al --> mon_tre_al mont_re_al
-springsteen spring_steen --> s_prings_te_en spring_steen
-telentrada tel_en_tra_da --> te_len_tra_da tel_en_tra_da
-waterloo wa_ter_loo --> wa_ter_lo_o wa_ter_loo
-whatsapp whats_app --> what_sapp whats_app
-youtube you_tube --> you_tu_be you_tube
 -adelf --> _a_delf _a_delf
 -amido --> _a_mi_do _a_mi_do
 -aminil --> _a_mi_nil _a_mi_nil
@@ -35835,6 +35823,7 @@ fredor --> fre_dor fre_dor
 fredorada --> fre_do_ra_da fre_do_ra_da
 fredorós --> fre_do_rós fre_do_rós
 fredós --> fre_dós fre_dós
+freelance free_lance --> fre_e_lan_ce free_lance
 frega --> fre_ga fre_ga
 fregada --> fre_ga_da fre_ga_da
 fregadissa --> fre_ga_dis_sa fre_ga_dis_sa
@@ -36694,6 +36683,8 @@ gamopètal --> ga_mo_pè_tal ga_mo_pè_tal
 gamosèpal --> ga_mo_sè_pal ga_mo_sè_pal
 gamó --> ga_mó ga_mó
 gana --> ga_na ga_na
+ganache ga_nache --> ga_na_che ga_nache
+ganaches ga_naches --> ga_na_ches ga_naches
 ganassa --> ga_nas_sa ga_nas_sa
 gandalla --> gan_da_lla gan_da_lla
 gandhi gan_dhi --> gand_hi gan_dhi
@@ -38906,6 +38897,7 @@ halita --> ha_li_ta ha_li_ta
 halitosi --> ha_li_to_si ha_li_to_si
 halièutic ha_li_èu_tic --> ha_li_èu_tic ha_li_èu_tic
 haliòtids ha_li_ò_tids --> ha_li_ò_tids ha_li_ò_tids
+halloween hal_low_een --> ha_llo_we_en hal_low_een
 hallstàttic --> halls_tàt_tic halls_tàt_tic
 halo --> ha_lo ha_lo
 halo- --> ha_lo_ ha_lo_
@@ -43887,6 +43879,7 @@ jalonar --> ja_lo_nar ja_lo_nar
 jaló --> ja_ló ja_ló
 jamai ja_mai --> ja_mai ja_mai
 jamaicà ja_mai_cà --> ja_mai_cà ja_mai_cà
+jamboree jam_bo_ree --> jam_bo_re_e jam_bo_ree
 jan --> jan jan
 jangada --> jan_ga_da jan_ga_da
 janot --> ja_not ja_not
@@ -48178,6 +48171,7 @@ memorització me_mo_rit_za_ci_ó --> me_mo_rit_za_ci_ó me_mo_rit_za_ci_ó
 memoritzar --> me_mo_rit_zar me_mo_rit_zar
 memoriós me_mo_ri_ós --> me_mo_ri_ós me_mo_ri_ós
 memoràndum --> me_mo_ràn_dum me_mo_ràn_dum
+memphis mem_phis --> memp_his mem_phis
 memòria me_mò_ri_a --> me_mò_ri_a me_mò_ri_a
 men- --> men_ men_
 mena --> me_na me_na
@@ -50087,6 +50081,7 @@ montmoril·lonita --> mont_mo_ril_lo_ni_ta mont_mo_ril_lo_ni_ta
 montoliuenc mont_o_li_uenc --> mon_to_li_uenc mont_o_li_uenc
 montoriolí mont_o_ri_o_lí --> mon_to_ri_o_lí mont_o_ri_o_lí
 montpellerí --> mont_pe_lle_rí mont_pe_lle_rí
+montreal mont_re_al --> mon_tre_al mont_re_al
 montroier mont_ro_ier --> mon_tro_ier mont_ro_ier
 montroià mont_ro_ià --> mon_tro_ià mont_ro_ià
 montroydita --> mon_troy_di_ta mon_troy_di_ta
@@ -64769,8 +64764,8 @@ rocallós --> ro_ca_llós ro_ca_llós
 rocam --> ro_cam ro_cam
 rocambolesc --> ro_cam_bo_lesc ro_cam_bo_lesc
 roccel·làcies roc_cel_là_ci_es --> roc_cel_là_ci_es roc_cel_là_ci_es
-rockabilly rock_a_bil_ly --> roc_ka_billy rock_a_bil_ly
 rockabillies rock_a_bil_lies --> roc_ka_bi_lli_es rock_a_bil_lies
+rockabilly rock_a_bil_ly --> roc_ka_billy rock_a_bil_ly
 rococó --> ro_co_có ro_co_có
 rocolar --> ro_co_lar ro_co_lar
 rocós --> ro_cós ro_cós
@@ -68700,6 +68695,7 @@ sovkhoz sov_khoz --> sov_khoz sov_khoz
 sovnarkhoz sov_nar_khoz --> sov_nar_khoz sov_nar_khoz
 spin spin --> s_pin spin
 sporting spor_ting --> s_por_ting spor_ting
+springsteen spring_steen --> s_prings_te_en spring_steen
 stakhanovisme sta_kha_no_vis_me --> sta_kha_no_vis_me sta_kha_no_vis_me
 stakhanovista sta_kha_no_vis_ta --> sta_kha_no_vis_ta sta_kha_no_vis_ta
 stampià stam_pi_à --> stam_pi_à stam_pi_à
@@ -70428,6 +70424,7 @@ telemètric --> te_le_mè_tric te_le_mè_tric
 telencefalització te_len_ce_fa_lit_za_ci_ó --> te_len_ce_fa_lit_za_ci_ó te_len_ce_fa_lit_za_ci_ó
 telencèfal --> te_len_cè_fal te_len_cè_fal
 telenotícies te_le_no_tí_ci_es --> te_le_no_tí_ci_es te_le_no_tí_ci_es
+telentrada tel_en_tra_da --> te_len_tra_da tel_en_tra_da
 teleobjectiu te_le_ob_jec_tiu --> te_le_ob_jec_tiu te_le_ob_jec_tiu
 teleogenètic te_le_o_ge_nè_tic --> te_le_o_ge_nè_tic te_le_o_ge_nè_tic
 teleogènesi te_le_o_gè_ne_si --> te_le_o_gè_ne_si te_le_o_gè_ne_si
@@ -76030,6 +76027,7 @@ wahhabita --> wah_ha_bi_ta wah_ha_bi_ta
 walàquica --> wa_là_qui_ca wa_là_qui_ca
 warfarina --> war_fa_ri_na war_fa_ri_na
 washingtònia wa_shing_tò_ni_a --> was_hing_tò_ni_a wa_shing_tò_ni_a
+waterloo wa_ter_loo --> wa_ter_lo_o wa_ter_loo
 waterpolo --> wa_ter_po_lo wa_ter_po_lo
 watt --> watt watt
 wattàssida --> wat_tàs_si_da wat_tàs_si_da
@@ -76044,6 +76042,7 @@ wenlockià wen_loc_ki_à --> wen_loc_ki_à wen_loc_ki_à
 werfenià wer_fe_ni_à --> wer_fe_ni_à wer_fe_ni_à
 wesleyà wes_le_yà --> wes_leyà wes_le_yà
 westfalià west_fa_li_à --> west_fa_li_à west_fa_li_à
+whatsapp whats_app --> what_sapp whats_app
 whiskeria whis_ke_ri_a --> whis_ke_ri_a whis_ke_ri_a
 whisky whisky --> whisky whisky
 william wil_liam --> wi_lli_am wil_liam
@@ -76682,6 +76681,9 @@ xòanon xò_a_non --> xò_a_non xò_a_non
 xòrrec --> xòr_rec xòr_rec
 yahoo ya_hoo --> ya_ho_o ya_hoo
 yeadonià ye_a_do_ni_à --> ye_a_do_ni_à ye_a_do_ni_à
+youtube you_tube --> you_tu_be you_tube
+youtuber you_tu_ber --> you_tu_ber you_tu_ber
+youtuberes you_tu_be_res --> you_tu_be_res you_tu_be_res
 yperita --> y_pe_ri_ta y_pe_ri_ta
 ypresià y_pre_si_à --> y_pre_si_à y_pre_si_à
 zahirita --> za_hi_ri_ta za_hi_ri_ta
