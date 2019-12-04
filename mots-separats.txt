@@ -1,3 +1,15 @@
+freelance free_lance --> fre_e_lan_ce free_lance
+ganache ga_nache --> ga_na_che ga_nache
+ganaches ga_naches --> ga_na_ches ga_naches
+halloween hal_low_een --> ha_llo_we_en hal_low_een
+jamboree jam_bo_ree --> jam_bo_re_e jam_bo_ree
+memphis mem_phis --> memp_his mem_phis
+montreal mont_re_al --> mon_tre_al mont_re_al
+springsteen spring_steen --> s_prings_te_en spring_steen
+telentrada tel_en_tra_da --> te_len_tra_da tel_en_tra_da
+waterloo wa_ter_loo --> wa_ter_lo_o wa_ter_loo
+whatsapp whats_app --> what_sapp whats_app
+youtube you_tube --> you_tu_be you_tube
 -adelf --> _a_delf _a_delf
 -amido --> _a_mi_do _a_mi_do
 -aminil --> _a_mi_nil _a_mi_nil
@@ -40189,9 +40201,9 @@ hola --> ho_la ho_la
 holanda --> ho_lan_da ho_lan_da
 holandeta --> ho_lan_de_ta ho_lan_de_ta
 holandès --> ho_lan_dès ho_lan_dès
-hollywood ho_lly_wood --> holly_wo_od ho_lly_wood
-hollywoodianes ho_lly_woo_di_a_nes --> holly_wo_o_di_a_nes ho_lly_woo_di_a_nes
-hollywoodià ho_lly_woo_di_à --> holly_wo_o_di_à ho_lly_woo_di_à
+hollywood hol_ly_wood --> holly_wo_od hol_ly_wood
+hollywoodianes hol_ly_woo_di_a_nes --> holly_wo_o_di_a_nes hol_ly_woo_di_a_nes
+hollywoodià hol_ly_woo_di_à --> holly_wo_o_di_à hol_ly_woo_di_à
 holmi --> hol_mi hol_mi
 holo- --> ho_lo_ ho_lo_
 holoaxial ho_lo_a_xi_al --> ho_lo_a_xi_al ho_lo_a_xi_al
@@ -44226,8 +44238,8 @@ khanat --> kha_nat kha_nat
 khanti --> khan_ti khan_ti
 kharigita --> kha_ri_gi_ta kha_ri_gi_ta
 khi --> khi khi
-khmer --> khmer khmer
 khmer khmer --> khmer khmer
+khmers khmers --> khmers khmers
 khoi --> khoi khoi
 khoi khoi --> khoi khoi
 khoikhoi khoi_khoi --> khoi_khoi khoi_khoi
@@ -51975,12 +51987,12 @@ norantenni --> no_ran_ten_ni no_ran_ten_ni
 norantè --> no_ran_tè no_ran_tè
 norbornà --> nor_bor_nà nor_bor_nà
 nord --> nord nord
-nord-americà --> nord_a_me_ri_cà nord_a_me_ri_cà
+nord-americà nord_ame_ri_cà --> nord_a_me_ri_cà nord_ame_ri_cà
 nord-atlàntid --> nord_at_làn_tid nord_at_làn_tid
 nord-est --> nord_est nord_est
 nord-estejar nord_es_te_jar --> nord_es_te_jar nord_es_te_jar
 nord-mongòlic --> nord_mon_gò_lic nord_mon_gò_lic
-nord-oestejar nord_o_es_te_jar --> nord_o_es_te_jar nord_o_es_te_jar
+nord-oestejar nord_oes_te_jar --> nord_o_es_te_jar nord_oes_te_jar
 nord-pacífid --> nord_pa_cí_fid nord_pa_cí_fid
 nordejar --> nor_de_jar nor_de_jar
 nordestejar nord_es_te_jar --> nor_des_te_jar nord_es_te_jar
@@ -64757,8 +64769,8 @@ rocallós --> ro_ca_llós ro_ca_llós
 rocam --> ro_cam ro_cam
 rocambolesc --> ro_cam_bo_lesc ro_cam_bo_lesc
 roccel·làcies roc_cel_là_ci_es --> roc_cel_là_ci_es roc_cel_là_ci_es
-rockabillies roc_ka_bil_lies --> roc_ka_bi_lli_es roc_ka_bil_lies
-rockabilly roc_ka_bil_ly --> roc_ka_billy roc_ka_bil_ly
+rockabilly rock_a_bil_ly --> roc_ka_billy rock_a_bil_ly
+rockabillies rock_a_bil_lies --> roc_ka_bi_lli_es rock_a_bil_lies
 rococó --> ro_co_có ro_co_có
 rocolar --> ro_co_lar ro_co_lar
 rocós --> ro_cós ro_cós
@@ -69074,13 +69086,13 @@ sucussió su_cus_si_ó --> su_cus_si_ó su_cus_si_ó
 sucòvia su_cò_vi_a --> su_cò_vi_a su_cò_vi_a
 sucós --> su_cós su_cós
 sud --> sud sud
-sud-africà --> sud_a_fri_cà sud_a_fri_cà
-sud-americà --> sud_a_me_ri_cà sud_a_me_ri_cà
-sud-aràbic --> sud_a_rà_bic sud_a_rà_bic
+sud-africà sud_afri_cà --> sud_a_fri_cà sud_afri_cà
+sud-americà sud_ame_ri_cà --> sud_a_me_ri_cà sud_ame_ri_cà
+sud-aràbic sud_arà_bic --> sud_a_rà_bic sud_arà_bic
 sud-eslau sud_es_lau --> sud_es_lau sud_es_lau
 sud-est --> sud_est sud_est
 sud-mongòlic --> sud_mon_gò_lic sud_mon_gò_lic
-sud-oriental sud_o_ri_en_tal --> sud_o_ri_en_tal sud_o_ri_en_tal
+sud-oriental sud_ori_en_tal --> sud_o_ri_en_tal sud_ori_en_tal
 suda --> su_da su_da
 sudació su_da_ci_ó --> su_da_ci_ó su_da_ci_ó
 sudamina --> su_da_mi_na su_da_mi_na

@@ -35850,6 +35850,7 @@ fredor
 fredorada
 fredorós
 fredós
+freelance free_lance
 frega
 fregada
 fregadissa
@@ -36709,6 +36710,8 @@ gamopètal
 gamosèpal
 gamó
 gana
+ganache ga_nache
+ganaches ga_naches
 ganassa
 gandalla
 gandhi gan_dhi
@@ -38921,6 +38924,7 @@ halita
 halitosi
 halièutic ha_li_èu_tic
 haliòtids ha_li_ò_tids
+halloween hal_low_een
 hallstàttic
 halo
 halo-
@@ -40216,9 +40220,9 @@ hola
 holanda
 holandeta
 holandès
-hollywood ho_lly_wood
-hollywoodianes ho_lly_woo_di_a_nes
-hollywoodià ho_lly_woo_di_à
+hollywood hol_ly_wood
+hollywoodianes hol_ly_woo_di_a_nes
+hollywoodià hol_ly_woo_di_à
 holmi
 holo-
 holoaxial ho_lo_a_xi_al
@@ -43902,6 +43906,7 @@ jalonar
 jaló
 jamai ja_mai
 jamaicà ja_mai_cà
+jamboree jam_bo_ree
 jan
 jangada
 janot
@@ -44253,8 +44258,8 @@ khanat
 khanti
 kharigita
 khi
-khmer
 khmer khmer
+khmers khmers
 khoi
 khoi khoi
 khoikhoi khoi_khoi
@@ -48193,6 +48198,7 @@ memorització me_mo_rit_za_ci_ó
 memoritzar
 memoriós me_mo_ri_ós
 memoràndum
+memphis mem_phis
 memòria me_mò_ri_a
 men-
 mena
@@ -50102,6 +50108,7 @@ montmoril·lonita
 montoliuenc mont_o_li_uenc
 montoriolí mont_o_ri_o_lí
 montpellerí
+montreal mont_re_al
 montroier mont_ro_ier
 montroià mont_ro_ià
 montroydita
@@ -52002,12 +52009,12 @@ norantenni
 norantè
 norbornà
 nord
-nord-americà
+nord-americà nord-ame_ri_cà
 nord-atlàntid
 nord-est
 nord-estejar nord-es_te_jar
 nord-mongòlic
-nord-oestejar nord-o_es_te_jar
+nord-oestejar nord-oes_te_jar
 nord-pacífid
 nordejar
 nordestejar nord_es_te_jar
@@ -64784,8 +64791,8 @@ rocallós
 rocam
 rocambolesc
 roccel·làcies roc_cel_là_ci_es
-rockabillies roc_ka_bil_lies
-rockabilly roc_ka_bil_ly
+rockabillies rock_a_bil_lies
+rockabilly rock_a_bil_ly
 rococó
 rocolar
 rocós
@@ -68715,6 +68722,7 @@ sovkhoz sov_khoz
 sovnarkhoz sov_nar_khoz
 spin spin
 sporting spor_ting
+springsteen spring_steen
 stakhanovisme sta_kha_no_vis_me
 stakhanovista sta_kha_no_vis_ta
 stampià stam_pi_à
@@ -69101,13 +69109,13 @@ sucussió su_cus_si_ó
 sucòvia su_cò_vi_a
 sucós
 sud
-sud-africà
-sud-americà
-sud-aràbic
+sud-africà sud-afri_cà
+sud-americà sud-ame_ri_cà
+sud-aràbic sud-arà_bic
 sud-eslau sud-es_lau
 sud-est
 sud-mongòlic
-sud-oriental sud-o_ri_en_tal
+sud-oriental sud-ori_en_tal
 suda
 sudació su_da_ci_ó
 sudamina
@@ -70443,6 +70451,7 @@ telemètric
 telencefalització te_len_ce_fa_lit_za_ci_ó
 telencèfal
 telenotícies te_le_no_tí_ci_es
+telentrada tel_en_tra_da
 teleobjectiu te_le_ob_jec_tiu
 teleogenètic te_le_o_ge_nè_tic
 teleogènesi te_le_o_gè_ne_si
@@ -76045,6 +76054,7 @@ wahhabita
 walàquica
 warfarina
 washingtònia wa_shing_tò_ni_a
+waterloo wa_ter_loo
 waterpolo
 watt
 wattàssida
@@ -76059,6 +76069,7 @@ wenlockià wen_loc_ki_à
 werfenià wer_fe_ni_à
 wesleyà wes_le_yà
 westfalià west_fa_li_à
+whatsapp whats_app
 whiskeria whis_ke_ri_a
 whisky whisky
 william wil_liam
@@ -76697,6 +76708,7 @@ xòanon xò_a_non
 xòrrec
 yahoo ya_hoo
 yeadonià ye_a_do_ni_à
+youtube you_tube
 yperita
 ypresià y_pre_si_à
 zahirita
