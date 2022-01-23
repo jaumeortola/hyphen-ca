@@ -9258,14 +9258,14 @@ u1a is embedded in .hu3asteq
 1te is embedded in .hu3asteq
 .huaste includes te at pos 5
 .huas1te + 1te -> .huas1te
-1ho is embedded in ho1llywo4od
+1ho is embedded in ho2l3lywo4od
 ho includes ho at pos 0
 1ho + 1ho -> 1ho
-ho1llywo4od is embedded in ho1llywo4od
-+ho1llywo4od
-1wo is embedded in ho1llywo4od
+ho2l3lywo4od is embedded in ho2l3lywo4od
++ho2l3lywo4od
+1wo is embedded in ho2l3lywo4od
 holly+1wo
-o1o is embedded in ho1llywo4od
+o1o is embedded in ho2l3lywo4od
 hollyw+o1o
 .i2u is embedded in .iu5an.
 .iu includes .iu at pos 0
@@ -14248,32 +14248,32 @@ h+o1o
 hoo+1li
 1ga is embedded in ho8oligan
 hooli+1ga
-1ro is embedded in rockabi8l9ly
+1ro is embedded in roc4k5abi4l5ly
 ro includes ro at pos 0
 1ro + 1ro -> 1ro
-rockabi8l9ly is embedded in rockabi8l9ly
-+rockabi8l9ly
-1ka is embedded in rockabi8l9ly
+roc4k5abi4l5ly is embedded in roc4k5abi4l5ly
++roc4k5abi4l5ly
+1ka is embedded in roc4k5abi4l5ly
 roc+1ka
-1bi is embedded in rockabi8l9ly
+1bi is embedded in roc4k5abi4l5ly
 rocka+1bi
-1ro is embedded in rockabi8l9li8es
+1ro is embedded in roc4k5abi4l5li4es
 ro includes ro at pos 0
 1ro + 1ro -> 1ro
-rockabi8l9li8es is embedded in rockabi8l9li8es
-+rockabi8l9li8es
-1ka is embedded in rockabi8l9li8es
+roc4k5abi4l5li4es is embedded in roc4k5abi4l5li4es
++roc4k5abi4l5li4es
+1ka is embedded in roc4k5abi4l5li4es
 rocka includes ka at pos 3
 roc1ka + 1ka -> roc1ka
-1bi is embedded in rockabi8l9li8es
+1bi is embedded in roc4k5abi4l5li4es
 rockabi includes bi at pos 5
 rocka1bi + 1bi -> rocka1bi
-1l2li is embedded in rockabi8l9li8es
+1l2li is embedded in roc4k5abi4l5li4es
 rockabi+1l2li
-1li is embedded in rockabi8l9li8es
+1li is embedded in roc4k5abi4l5li4es
 rockabilli includes li at pos 8
 rockabi1l2li + 1li -> rockabi1l2li
-i1e is embedded in rockabi8l9li8es
+i1e is embedded in roc4k5abi4l5li4es
 rockabill+i1e
 thri8l9ler is embedded in thri8l9ler
 +thri8l9ler
@@ -14585,6 +14585,186 @@ orwe8l9li + 1l2li -> orwe8l9li
 1li is embedded in orwe8l9li
 orwelli includes li at pos 5
 orwe8l9li + 1li -> orwe8l9li
+1f2re is embedded in fre4elan4ce.
+fre includes fre at pos 0
+1f2re + 1f2re -> 1f2re
+fre4elan4ce. is embedded in fre4elan4ce.
++fre4elan4ce.
+1re is embedded in fre4elan4ce.
+fre includes re at pos 1
+1f2re + 1re -> 1f2re
+e1e is embedded in fre4elan4ce.
+fr+e1e
+1la is embedded in fre4elan4ce.
+free+1la
+1ce is embedded in fre4elan4ce.
+freelan+1ce
+1f2re is embedded in fre4elancer
+fre includes fre at pos 0
+1f2re + 1f2re -> 1f2re
+fre4elancer is embedded in fre4elancer
++fre4elancer
+1re is embedded in fre4elancer
+fre includes re at pos 1
+1f2re + 1re -> 1f2re
+e1e is embedded in fre4elancer
+free includes ee at pos 2
+fre1e + e1e -> fre1e
+1la is embedded in fre4elancer
+freela includes la at pos 4
+free1la + 1la -> free1la
+1ce is embedded in fre4elancer
+freelance includes ce at pos 7
+freelan1ce + 1ce -> freelan1ce
+1ga is embedded in gana4che.
+ga includes ga at pos 0
+1ga + 1ga -> 1ga
+gana4che. is embedded in gana4che.
++gana4che.
+1na is embedded in gana4che.
+ga+1na
+1c2he is embedded in gana4che.
+gana+1c2he
+1he is embedded in gana4che.
+ganache includes he at pos 5
+gana1c2he + 1he -> gana1c2he
+1ga is embedded in gana4ches.
+ga includes ga at pos 0
+1ga + 1ga -> 1ga
+gana4ches. is embedded in gana4ches.
++gana4ches.
+1na is embedded in gana4ches.
+gana includes na at pos 2
+ga1na + 1na -> ga1na
+1c2he is embedded in gana4ches.
+ganache includes che at pos 4
+gana1c2he + 1c2he -> gana1c2he
+1he is embedded in gana4ches.
+ganache includes he at pos 5
+gana1c2he + 1he -> gana1c2he
+1ha is embedded in ha4l5lo4w5e4en
+ha includes ha at pos 0
+1ha + 1ha -> 1ha
+ha4l5lo4w5e4en is embedded in ha4l5lo4w5e4en
++ha4l5lo4w5e4en
+3l2lo is embedded in ha4l5lo4w5e4en
+ha+3l2lo
+1lo is embedded in ha4l5lo4w5e4en
+hallo includes lo at pos 3
+ha3l2lo + 1lo -> ha3l2lo
+1we is embedded in ha4l5lo4w5e4en
+hallo+1we
+e1e is embedded in ha4l5lo4w5e4en
+hallow+e1e
+1ja is embedded in jambore4e
+ja includes ja at pos 0
+1ja + 1ja -> 1ja
+jambore4e is embedded in jambore4e
++jambore4e
+1bo is embedded in jambore4e
+jam+1bo
+1re is embedded in jambore4e
+jambo+1re
+e1e is embedded in jambore4e
+jamboree includes ee at pos 6
+jambore4e + e1e -> jambore4e
+1mo is embedded in mon4t5real
+mo includes mo at pos 0
+1mo + 1mo -> 1mo
+mon4t5real is embedded in mon4t5real
++mon4t5real
+1t2re is embedded in mon4t5real
+mon+1t2re
+1re is embedded in mon4t5real
+montre includes re at pos 4
+mon1t2re + 1re -> mon1t2re
+e1a is embedded in mon4t5real
+montr+e1a
+1ro is embedded in roc4k5abi4l5ly
+ro includes ro at pos 0
+1ro + 1ro -> 1ro
+roc4k5abi4l5ly is embedded in roc4k5abi4l5ly
+rockabilly includes rockabilly at pos 0
+roc4k5abi4l5ly + roc4k5abi4l5ly -> roc4k5abi4l5ly
+1ka is embedded in roc4k5abi4l5ly
+rocka includes ka at pos 3
+roc1ka + 1ka -> roc1ka
+1bi is embedded in roc4k5abi4l5ly
+rockabi includes bi at pos 5
+rocka1bi + 1bi -> rocka1bi
+1ro is embedded in roc4k5abi4l5li4es
+ro includes ro at pos 0
+1ro + 1ro -> 1ro
+roc4k5abi4l5li4es is embedded in roc4k5abi4l5li4es
+rockabillies includes rockabillies at pos 0
+roc4k5abi4l5li4es + roc4k5abi4l5li4es -> roc4k5abi4l5li4es
+1ka is embedded in roc4k5abi4l5li4es
+rocka includes ka at pos 3
+roc1ka + 1ka -> roc1ka
+1bi is embedded in roc4k5abi4l5li4es
+rockabi includes bi at pos 5
+rocka1bi + 1bi -> rocka1bi
+1l2li is embedded in roc4k5abi4l5li4es
+rockabilli includes lli at pos 7
+rockabi1l2li + 1l2li -> rockabi1l2li
+1li is embedded in roc4k5abi4l5li4es
+rockabilli includes li at pos 8
+rockabi1l2li + 1li -> rockabi1l2li
+i1e is embedded in roc4k5abi4l5li4es
+rockabillie includes ie at pos 9
+rockabilli1e + i1e -> rockabilli1e
+spring9s8te8en is embedded in spring9s8te8en
++spring9s8te8en
+1p2ri is embedded in spring9s8te8en
+s+1p2ri
+1ri is embedded in spring9s8te8en
+spri includes ri at pos 2
+s1p2ri + 1ri -> s1p2ri
+1te is embedded in spring9s8te8en
+springs+1te
+e1e is embedded in spring9s8te8en
+springst+e1e
+1te is embedded in te4l5entrada
+te includes te at pos 0
+1te + 1te -> 1te
+te4l5entrada is embedded in te4l5entrada
++te4l5entrada
+1le is embedded in te4l5entrada
+te+1le
+1t2ra is embedded in te4l5entrada
+telen+1t2ra
+1ra is embedded in te4l5entrada
+telentra includes ra at pos 6
+telen1t2ra + 1ra -> telen1t2ra
+1da is embedded in te4l5entrada
+telentrada includes da at pos 8
+te4l5entrada + 1da -> te4l5entra1da
+1wa is embedded in waterlo4o
+wa includes wa at pos 0
+1wa + 1wa -> 1wa
+waterlo4o is embedded in waterlo4o
++waterlo4o
+1te is embedded in waterlo4o
+wa+1te
+1lo is embedded in waterlo4o
+water+1lo
+o1o is embedded in waterlo4o
+waterloo includes oo at pos 6
+waterlo4o + o1o -> waterlo4o
+what4s5app is embedded in what4s5app
++what4s5app
+1ha is embedded in what4s5app
+w+1ha
+1sa is embedded in what4s5app
+what+1sa
+1yo is embedded in youtu4be.
++1yo
+youtu4be. is embedded in youtu4be.
++youtu4be.
+1tu is embedded in youtu4be.
+you+1tu
+1be is embedded in youtu4be.
+youtu+1be
 x4vi is embedded in x4vi
 +x4vi
 1vi is embedded in x4vi
@@ -14630,7 +14810,8 @@ ya includes ya at pos 0
 1yi is embedded in 1yi
 +1yi
 1yo is embedded in 1yo
-+1yo
+yo includes yo at pos 0
+1yo + 1yo -> 1yo
 1yu is embedded in 1yu
 +1yu
 1yá is embedded in 1yá
@@ -15438,6 +15619,14 @@ e1n2he + 1he -> e1n2he
 .enho+1ra
 1bo is embedded in .e2n3horabon
 .enhora+1bo
+.esta4t5unid is embedded in .esta4t5unid
++.esta4t5unid
+1ta is embedded in .esta4t5unid
+.es+1ta
+1tu is embedded in .esta4t5unid
+.esta+1tu
+3ni is embedded in .esta4t5unid
+.estatu+3ni
 1fi is embedded in fi2l3hel
 fi includes fi at pos 0
 1fi + 1fi -> 1fi
@@ -15807,6 +15996,57 @@ l+i1e
 liech+1te
 1te is embedded in li4echten5s4tein
 liechtens+1te
+1ta is embedded in taig8ne.
+ta includes ta at pos 0
+1ta + 1ta -> 1ta
+taig8ne. is embedded in taig8ne.
++taig8ne.
+1ne is embedded in taig8ne.
+taig+1ne
+1pa is embedded in pascu8al
+pa includes pa at pos 0
+1pa + 1pa -> 1pa
+pascu8al is embedded in pascu8al
++pascu8al
+1cu is embedded in pascu8al
+pas+1cu
+u1a is embedded in pascu8al
+pasc+u1a
+1be is embedded in be8e8t9hoven
+be includes be at pos 0
+1be + 1be -> 1be
+be8e8t9hoven is embedded in be8e8t9hoven
++be8e8t9hoven
+e1e is embedded in be8e8t9hoven
+b+e1e
+1t2ho is embedded in be8e8t9hoven
+bee+1t2ho
+1ho is embedded in be8e8t9hoven
+beetho includes ho at pos 4
+bee1t2ho + 1ho -> bee1t2ho
+1ve is embedded in be8e8t9hoven
+beetho+1ve
+spring9s8te8en is embedded in spring9s8te8en
+springsteen includes springsteen at pos 0
+spring9s8te8en + spring9s8te8en -> spring9s8te8en
+1p2ri is embedded in spring9s8te8en
+spri includes pri at pos 1
+s1p2ri + 1p2ri -> s1p2ri
+1ri is embedded in spring9s8te8en
+spri includes ri at pos 2
+s1p2ri + 1ri -> s1p2ri
+1te is embedded in spring9s8te8en
+springste includes te at pos 7
+springs1te + 1te -> springs1te
+e1e is embedded in spring9s8te8en
+springstee includes ee at pos 8
+springste1e + e1e -> springste1e
+star8t9up is embedded in star8t9up
++star8t9up
+1ta is embedded in star8t9up
+s+1ta
+1tu is embedded in star8t9up
+star+1tu
 l·1l2y3i is embedded in l·1l2y3i
 +l·1l2y3i
 1yi is embedded in l·1l2y3i
@@ -16199,3 +16439,33 @@ pu includes pu at pos 0
 +6putes.
 1te is embedded in 6putes.
 pu+1te
+1su is embedded in sud-a4
+su includes su at pos 0
+1su + 1su -> 1su
+sud-a4 is embedded in sud-a4
++sud-a4
+1no is embedded in nord-a4
+no includes no at pos 0
+1no + 1no -> 1no
+nord-a4 is embedded in nord-a4
++nord-a4
+1su is embedded in sud-e4
+su includes su at pos 0
+1su + 1su -> 1su
+sud-e4 is embedded in sud-e4
++sud-e4
+1no is embedded in nord-e4
+no includes no at pos 0
+1no + 1no -> 1no
+nord-e4 is embedded in nord-e4
++nord-e4
+1su is embedded in sud-o4
+su includes su at pos 0
+1su + 1su -> 1su
+sud-o4 is embedded in sud-o4
++sud-o4
+1no is embedded in nord-o4
+no includes no at pos 0
+1no + 1no -> 1no
+nord-o4 is embedded in nord-o4
++nord-o4

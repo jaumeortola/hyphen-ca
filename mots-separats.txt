@@ -1,3 +1,19 @@
+massachusetts mas_sa_chu_setts --> mas_sa_chu_setts mas_sa_chu_setts
+startup start_up --> star_tup start_up
+rockabilly rock_a_bil_ly --> roc_ka_billy rock_a_bil_ly
+springsteen spring_steen --> s_prings_te_en spring_steen
+liechtenstein liech_ten_stein --> li_e_ch_tens_tein liech_ten_stein
+montaigne mon_taigne --> mon_taig_ne mon_taigne
+pascual pas_cual --> pas_cu_al pas_cual
+beethoven beet_ho_ven --> be_et_ho_ven beet_ho_ven
+beethovenià beet_ho_ve_ni_à --> be_et_ho_ve_ni_à beet_ho_ve_ni_à
+estatunidenc es_tat_u_ni_denc --> es_ta_tu_ni_denc es_tat_u_ni_denc
+estatunidenca es_tat_u_ni_den_ca --> es_ta_tu_ni_den_ca es_tat_u_ni_den_ca
+estatunidenques es_tat_u_ni_den_ques --> es_ta_tu_ni_den_ques es_tat_u_ni_den_ques
+freelance free_lance --> fre_e_lan_ce free_lance
+freelancer free_lan_cer --> fre_e_lan_cer free_lan_cer
+ganache ga_nache --> ga_na_che ga_nache
+ganaches ga_naches --> ga_na_ches ga_naches
 -adelf --> _a_delf _a_delf
 -amido --> _a_mi_do _a_mi_do
 -aminil --> _a_mi_nil _a_mi_nil
