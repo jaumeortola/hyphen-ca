@@ -16376,36 +16376,77 @@ gu2a is embedded in -agu4ait
 u1a is embedded in -agu4ait
 -agua includes ua at pos 3
 -agu3a + u1a -> -agu3a
-.l4 is embedded in .l's8p
+.l4 is embedded in .l'8s8p
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
-.l's8p is embedded in .l's8p
-+.l's8p
-.l4 is embedded in .l's8c
+.l'8s8p is embedded in .l'8s8p
++.l'8s8p
+.l4 is embedded in .l'8s8c
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
-.l's8c is embedded in .l's8c
-+.l's8c
-.l4 is embedded in .l'f8t
+.l'8s8c is embedded in .l'8s8c
++.l'8s8c
+.l4 is embedded in .l'8f8t
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
-.l'f8t is embedded in .l'f8t
-+.l'f8t
-.d4 is embedded in .d's8p
+.l'8f8t is embedded in .l'8f8t
++.l'8f8t
+.d4 is embedded in .d'8s8p
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
-.d's8p is embedded in .d's8p
-+.d's8p
-.d4 is embedded in .d's8c
+.d'8s8p is embedded in .d'8s8p
++.d'8s8p
+.d4 is embedded in .d'8s8c
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
-.d's8c is embedded in .d's8c
-+.d's8c
-.d4 is embedded in .d'f8t
+.d'8s8c is embedded in .d'8s8c
++.d'8s8c
+.d4 is embedded in .d'8f8t
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
-.d'f8t is embedded in .d'f8t
-+.d'f8t
+.d'8f8t is embedded in .d'8f8t
++.d'8f8t
+.n4 is embedded in .n'6
+.n includes .n at pos 0
+.n4 + .n4 -> .n4
+.n'6 is embedded in .n'6
++.n'6
+.l4 is embedded in .l'8s8p
+.l includes .l at pos 0
+.l4 + .l4 -> .l4
+.l'8s8p is embedded in .l'8s8p
+.l'sp includes .l'sp at pos 0
+.l'8s8p + .l'8s8p -> .l'8s8p
+.l4 is embedded in .l'8s8c
+.l includes .l at pos 0
+.l4 + .l4 -> .l4
+.l'8s8c is embedded in .l'8s8c
+.l'sc includes .l'sc at pos 0
+.l'8s8c + .l'8s8c -> .l'8s8c
+.l4 is embedded in .l'8f8t
+.l includes .l at pos 0
+.l4 + .l4 -> .l4
+.l'8f8t is embedded in .l'8f8t
+.l'ft includes .l'ft at pos 0
+.l'8f8t + .l'8f8t -> .l'8f8t
+.d4 is embedded in .d'8s8p
+.d includes .d at pos 0
+.d4 + .d4 -> .d4
+.d'8s8p is embedded in .d'8s8p
+.d'sp includes .d'sp at pos 0
+.d'8s8p + .d'8s8p -> .d'8s8p
+.d4 is embedded in .d'8s8c
+.d includes .d at pos 0
+.d4 + .d4 -> .d4
+.d'8s8c is embedded in .d'8s8c
+.d'sc includes .d'sc at pos 0
+.d'8s8c + .d'8s8c -> .d'8s8c
+.d4 is embedded in .d'8f8t
+.d includes .d at pos 0
+.d4 + .d4 -> .d4
+.d'8f8t is embedded in .d'8f8t
+.d'ft includes .d'ft at pos 0
+.d'8f8t + .d'8f8t -> .d'8f8t
 n'8hi is embedded in n'8hi
 +n'8hi
 1hi is embedded in n'8hi

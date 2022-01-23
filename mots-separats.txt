@@ -1,3 +1,4 @@
+l'ftalat l'fta_lat --> l'f_ta_lat l'fta_lat
 massachusetts mas_sa_chu_setts --> mas_sa_chu_setts mas_sa_chu_setts
 startup start_up --> star_tup start_up
 rockabilly rock_a_bil_ly --> roc_ka_billy rock_a_bil_ly
@@ -137,7 +138,7 @@ abandonisme --> a_ban_do_nis_me a_ban_do_nis_me
 abandonista --> a_ban_do_nis_ta a_ban_do_nis_ta
 abandó --> a_ban_dó a_ban_dó
 abans --> a_bans a_bans
-abans-d'ahir --> a_bans_d'a_hir a_bans_d'a_hir
+abans-d'ahir a_bans_d'a_hir --> a_bans_d'a_hir a_bans_d'a_hir
 abaratiment --> a_ba_ra_ti_ment a_ba_ra_ti_ment
 abaratir --> a_ba_ra_tir a_ba_ra_tir
 abarbetar --> a_bar_be_tar a_bar_be_tar

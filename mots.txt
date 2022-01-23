@@ -1,3 +1,4 @@
+l'ftalat l'fta_lat
 massachusetts mas_sa_chu_setts
 startup start_up
 rockabilly rock_a_bil_ly
@@ -164,7 +165,7 @@ abandonisme
 abandonista
 abandó
 abans
-abans-d'ahir
+abans-d'ahir a_bans-d'a_hir
 abaratiment
 abaratir
 abarbetar
