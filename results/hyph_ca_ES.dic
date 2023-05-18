@@ -1,7 +1,7 @@
 UTF-8
 % ======================================================================
-% Catalan Hunspell Hyphenation Dictionary. Release 1.3 (May 2015)
-% Copyright (C) 2012-2015 Jaume Ortolà i Font - www.riuraueditors.cat
+% Catalan Hunspell Hyphenation Dictionary. Release 1.5 (May 2023)
+% Copyright (C) 2012-2023 Jaume Ortolà i Font - www.riuraueditors.cat
 % ======================================================================
 %
 % This program is free software: you can redistribute it and/or modify
@@ -1972,6 +1972,8 @@ hollywo1o
 .inter4n.
 .inte5r4ès.
 .inte1rè
+.inte5r4és.
+.inte1ré
 .inte5r4ess
 .inte1re
 .i4n3útil

@@ -9676,6 +9676,16 @@ i1o is embedded in .inte5r4ior
 .in1te + 1te -> .in1te
 1rè is embedded in .inte5r4ès.
 .inte+1rè
+.inte4r3 is embedded in .inte5r4és.
+.inter includes .inter at pos 0
+.inte4r3 + .inte4r3 -> .inte4r3
+.inte5r4és. is embedded in .inte5r4és.
++.inte5r4és.
+1te is embedded in .inte5r4és.
+.inte includes te at pos 3
+.in1te + 1te -> .in1te
+1ré is embedded in .inte5r4és.
+.inte+1ré
 .inte4r3 is embedded in .inte5r4ess
 .inter includes .inter at pos 0
 .inte4r3 + .inte4r3 -> .inte4r3

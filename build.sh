@@ -25,7 +25,7 @@ then
     mv hyph_ca_ES.dic results/hyph_ca_ES.dic
 
     perl patterns-to-js.pl
-    sed -i 's/ *$//' ca.js
+    #sed -i 's/ *$//' ca.js
 
     echo "Done. Output: results/hyph_ca_ES.dic"
 fi
