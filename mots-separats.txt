@@ -43143,6 +43143,7 @@ interviu in_ter_viu --> in_ter_viu in_ter_viu
 interviuar in_ter_vi_uar --> in_ter_vi_uar in_ter_vi_uar
 intervocàlic --> in_ter_vo_cà_lic in_ter_vo_cà_lic
 interès --> in_te_rès in_te_rès
+interés --> in_te_rés in_te_rés
 interí --> in_te_rí in_te_rí
 intestat --> in_tes_tat in_tes_tat
 intestia in_tes_ti_a --> in_tes_ti_a in_tes_ti_a

@@ -641,6 +641,7 @@
 ".inte5r4initat", 
 ".inter4n.", 
 ".inte5r4ès.", 
+".inte5r4és.", 
 ".inte5r4ess", 
 ".i4n3útil", 
 ".intra3u", 
