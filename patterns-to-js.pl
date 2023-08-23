@@ -1,7 +1,11 @@
+use utf8; 
+binmode(STDOUT, ":utf8");
+binmode(STDIN, ":encoding(utf8)");
+
 $inputfile = "hyph-ca-new.tex";
 $outputfile = "ca.js";
 
-open(my $fh, "<", "$inputfile")
+open(my $fh, "<:utf8", "$inputfile")
 	or die "Can't open < $inputfile: $!";
 
 open(my $ofh, ">:utf8", "$outputfile")

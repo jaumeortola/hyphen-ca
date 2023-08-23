@@ -1,19 +1,24 @@
+use utf8; 
 use TeX::Hyphen;
+
+binmode(STDOUT, ":utf8");
+binmode(STDIN, ":encoding(utf8)");
+
 
 $file_simple_hyph = $ARGV[0];
 $file_new_hyph = $ARGV[1];
 
-my $hyp = new TeX::Hyphen 'file' => $file_simple_hyph, 'style' => 'czech', leftmin => 1, rightmin => 1;
-my $newhyp = new TeX::Hyphen 'file' => $file_new_hyph, 'style' => 'czech', leftmin => 1, rightmin => 1;;
+my $hyp = new TeX::Hyphen 'file' => $file_simple_hyph, 'style' => 'utf8', leftmin => 1, rightmin => 1;
+my $newhyp = new TeX::Hyphen 'file' => $file_new_hyph, 'style' => 'utf8', leftmin => 1, rightmin => 1;
 
 print STDERR "Making hyphenation patterns tests...\n";
 
 my $f1="errors-comuns.txt";
 my $f2="errors-excepcions.txt";
 my $f3="resum-resultats.txt";
-open (FILE1, ">$f1") or die "Could not open file: $! \n";
-open (FILE2, ">$f2") or die "Could not open file: $! \n";
-open (FILE3, ">$f3") or die "Could not open file: $! \n";
+open (FILE1, ">:encoding(utf-8)", "$f1") or die "Could not open file: $! \n";
+open (FILE2, ">:encoding(utf-8)", "$f2") or die "Could not open file: $! \n";
+open (FILE3, ">:encoding(utf-8)", "$f3") or die "Could not open file: $! \n";
 
 my $wordCorrectHyphen="";
 my $word="";
@@ -38,12 +43,12 @@ while (my $line=<STDIN>) {
 		if ($2) {$wordCorrectHyphen=$2; $wordCorrectHyphen =~ s/-/_/g;}
 		#simple rules hyphenation
 		$hsword = $hyp->visualize($word);
-		$hsword =~ s/·//g;
+		$hsword =~ s/Â·//g;
 		$hsword =~ s/--/-/;
 		$hsword =~ s/-/_/g;
 		#new hyphenation
 		$hcword = $newhyp->visualize($word);
-		$hcword =~ s/·//g;
+		$hcword =~ s/Â·//g;
 		$hcword =~ s/--/-/;
 		$hcword =~ s/-/_/g;
 		$hcword =~ s/__/_/g;
@@ -86,11 +91,4 @@ close (FILE1);
 close (FILE2);
 
 print STDERR "Tests done\n";
-
-#	$word =~ s/é/ê/;
-#	$hword = $hyp->visualize($word);
-#	$hword =~ s/ê/é/;
-#	$hword =~ s/\·//;
-#	$hword =~ s/--/-/;
-#	$hword =~ s/-/_/g;
 
