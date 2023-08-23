@@ -7,16 +7,14 @@ if [[ $1 == release ]]
 then
     echo "Converting patterns..."
     perl oneruleperline.pl hyph-ca-new.tex hyph-ca-new2.tex
-    perl substrings.pl hyph-ca-new2.tex output.dic > substrings-results.txt
-    #Converteix a format DOS / UTF-8
-    iconv -f ISO-8859-1 -t UTF-8 output.dic > output-utf8.dic
-    sed -i 's/$/\r/' output-utf8.dic
+    perl substrings.pl hyph-ca-new2.tex output.dic UTF-8 > substrings-results.txt
+    #Converteix a final de línia Linux
+    sed -i 's/$/\r/' output.dic
     #Afegeix la capçalera
-    cat hyph_ca_ES-header.dic output-utf8.dic > hyph_ca_ES.dic
+    (cat hyph_ca_ES-header.dic ; tail --lines=+2 output.dic) > hyph_ca_ES.dic
     #Elimina fitxers intermedis
     rm hyph-ca-new2.tex
     rm output.dic
-    rm output-utf8.dic
     cp hyph_ca_ES.dic office/hyph_ca_ANY.dic
     cd office
     zip -r hyph-ca *
