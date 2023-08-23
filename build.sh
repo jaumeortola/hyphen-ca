@@ -11,7 +11,7 @@ then
     #Converteix a final de línia Linux
     sed -i 's/$/\r/' output.dic
     #Afegeix la capçalera
-    cat hyph_ca_ES-header.dic output.dic > hyph_ca_ES.dic
+    (cat hyph_ca_ES-header.dic ; tail --lines=+2 output.dic) > hyph_ca_ES.dic
     #Elimina fitxers intermedis
     rm hyph-ca-new2.tex
     rm output.dic
